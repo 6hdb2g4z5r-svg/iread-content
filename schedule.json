@@ -1,13 +1,40 @@
 {
  "items": [
   {
+   "id": "story-2026-10-18-1",
+   "kind": "story",
+   "media": [
+    "stories/2026-10-18-1.jpg"
+   ],
+   "publish_at": "2026-10-18T18:00:00+00:00",
+   "title": "4 books every girl should read"
+  },
+  {
+   "id": "story-2026-10-18-2",
+   "kind": "story",
+   "media": [
+    "stories/2026-10-18-2.jpg"
+   ],
+   "publish_at": "2026-10-18T19:00:00+00:00",
+   "title": "Fix Her Up – Tessa Bailey"
+  },
+  {
+   "id": "story-2026-10-18-3",
+   "kind": "story",
+   "media": [
+    "stories/2026-10-18-3.jpg"
+   ],
+   "publish_at": "2026-10-18T20:00:00+00:00",
+   "title": "Extrait · It Starts with Us"
+  },
+  {
    "id": "story-2026-10-18-4",
    "kind": "story",
    "media": [
     "stories/2026-10-18-4.jpg"
    ],
-   "publish_at": "2026-10-18T18:30:00+00:00",
-   "title": "4 books every girl should read"
+   "publish_at": "2026-10-18T21:00:00+00:00",
+   "title": "Pack · Mode Discipline ON"
   },
   {
    "id": "story-2026-10-18-5",
@@ -15,8 +42,8 @@
    "media": [
     "stories/2026-10-18-5.jpg"
    ],
-   "publish_at": "2026-10-18T21:30:00+00:00",
-   "title": "Extrait · It Starts with Us"
+   "publish_at": "2026-10-18T22:00:00+00:00",
+   "title": "Mel Robbins ou James Clear ?"
   },
   {
    "id": "story-2026-10-19-1",
@@ -61,7 +88,7 @@
     "stories/2026-10-19-5.jpg"
    ],
    "publish_at": "2026-10-19T21:30:00+00:00",
-   "title": "أولاد حارتنا"
+   "title": "Pack · La Femme de ménage"
   },
   {
    "id": "story-2026-10-20-1",
@@ -88,7 +115,7 @@
     "stories/2026-10-20-3.jpg"
    ],
    "publish_at": "2026-10-20T15:30:00+00:00",
-   "title": "سيكولوجية المال أم الأب الغني"
+   "title": "Le Passé simple"
   },
   {
    "id": "story-2026-10-20-4",
@@ -106,7 +133,7 @@
     "stories/2026-10-20-5.jpg"
    ],
    "publish_at": "2026-10-20T21:30:00+00:00",
-   "title": "Paiement · À la livraison"
+   "title": "Pack · Main Character Energy"
   },
   {
    "id": "story-2026-10-21-1",
@@ -151,7 +178,7 @@
     "stories/2026-10-21-5.jpg"
    ],
    "publish_at": "2026-10-21T21:30:00+00:00",
-   "title": "Meditations"
+   "title": "Pack · Albert Camus"
   },
   {
    "id": "story-2026-10-22-1",
@@ -178,7 +205,7 @@
     "stories/2026-10-22-3.jpg"
    ],
    "publish_at": "2026-10-22T15:30:00+00:00",
-   "title": "Dark romance : ton choix ?"
+   "title": "La Prisonnière"
   },
   {
    "id": "story-2026-10-22-4",
@@ -196,7 +223,7 @@
     "stories/2026-10-22-5.jpg"
    ],
    "publish_at": "2026-10-22T21:30:00+00:00",
-   "title": "Commander · En 2 minutes"
+   "title": "Pack · L'argent en arabe"
   },
   {
    "id": "story-2026-10-23-1",
@@ -241,7 +268,7 @@
     "stories/2026-10-23-5.jpg"
    ],
    "publish_at": "2026-10-23T21:30:00+00:00",
-   "title": "الفيل الأزرق"
+   "title": "Pack · Stoïcisme & stratégie"
   },
   {
    "id": "story-2026-10-24-1",
@@ -268,7 +295,7 @@
     "stories/2026-10-24-3.jpg"
    ],
    "publish_at": "2026-10-24T15:30:00+00:00",
-   "title": "Elif Shafak : lequel lire en premier ?"
+   "title": "Can't Hurt Me"
   },
   {
    "id": "story-2026-10-24-4",
@@ -286,7 +313,7 @@
     "stories/2026-10-24-5.jpg"
    ],
    "publish_at": "2026-10-24T21:30:00+00:00",
-   "title": "Une demande ? · Vous cherchez un livre ?"
+   "title": "Pack · Rire & rougir"
   },
   {
    "id": "story-2026-10-25-1",
