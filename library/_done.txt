@@ -1,0 +1,53 @@
+# Titre | statut (ok/partiel/skip) — tenu par l'agent photos
+101 Essays That Will Change the Way You Think | ok
+1984 | ok
+Atomic Habits | ok
+Can't Hurt Me | ok
+Deep Work | ok
+Does It Hurt | ok
+Ego Is the Enemy | ok
+Fearless | ok
+Fix Her Up | ok
+Good Vibes, Good Life | ok
+Healing Is the New High | ok
+How to Stop Worrying and Start Living | ok
+How to Talk to Anyone | ok
+Ikigai | ok
+It Starts with Us | ok
+La Chute | ok
+La Peste | ok
+Meditations | ok
+Miracle Morning | ok
+November 9 | ok
+Rich Dad Poor Dad | ok
+Shoe Dog | ok
+The 4-Hour Work Week | ok
+The 48 Laws of Power | ok
+The 5 AM Club | ok
+The Art of War | ok
+The Body Keeps the Score | ok
+The Compound Effect | ok
+The Forty Rules of Love | ok
+The Let Them Theory | ok
+The Obstacle Is the Way | ok
+The Power of Your Subconscious Mind | ok
+The Unhoneymooners | ok
+The Wicked King | ok
+Without Merit | ok
+Start With Why | partiel
+Zero to One | partiel
+Emotional Intelligence | partiel
+The Lean Startup | partiel
+Layla | partiel
+A Promised Land | partiel
+Le Pouvoir des habitudes | partiel
+Je reviens te chercher | partiel
+Le Monde de Sophie | partiel
+Chanson douce | partiel
+Cupidon a des ailes en carton | skip
+Le Spleen du pop-corn | skip
+La Fille de papier | skip
+Que serais-je sans toi | skip
+Sauve-moi | skip
+Un monde presque parfait | skip
+Le Prince | ok

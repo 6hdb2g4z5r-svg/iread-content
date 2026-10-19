@@ -1,7 +1,7 @@
 """iRead — génère une semaine de contenu à partir d'un plan JSON.
 
-Usage (sur le Mac via device_bash) :
-    cd ~/mnt/Desktop/iRead/05-Contenu-Instagram/_pipeline
+Usage (dans le cloud, depuis un clone du dépôt iread-content) :
+    cd iread-content/pipeline
     python3 -B build.py ../semaines/2026-11-01/plan.json
 
 Le plan est une liste d'items :
@@ -13,17 +13,18 @@ Le plan est une liste d'items :
   "caption": "Légende complète (posts uniquement)",
   "slides": [ {"fn": "story_photo", "args": {...}} , ... ]   # 1 slide = 1 image
 }
-Dans "args", tout chemin est RELATIF au dossier iRead (ex. "04-Photos-Livres/Deep Work/deep-work-aesthetic-1.jpg",
-"05-Contenu-Instagram/couvertures-site/deep-work.jpg"). Les paramètres "out" sont générés automatiquement.
+Dans "args", tout chemin est RELATIF au dossier library/ du dépôt (ex. "photos/Deep Work/deep-work-aesthetic-1.jpg",
+"couvertures/deep-work.jpg", "visuels-verifies/LA-1.jpg"). Les paramètres "out" sont générés automatiquement.
 
-Sortie : <dossier du plan>/repo/{stories,posts}/… (même arborescence que le dépôt GitHub iread-content)
-         <dossier du plan>/schedule-fragment.json (items à ajouter à schedule.json)
+Sortie : images directement dans le dépôt (stories/…, posts/<date-id>/N.jpg)
+         <dossier du plan>/schedule-fragment.json (items à ajouter à schedule.json — `--apply` le fait)
          <dossier du plan>/_planche.jpg (planche de contrôle à regarder AVANT de pousser)
 """
 import json, os, sys
 import design as D
 
-ROOT = os.environ.get("IREAD_ROOT", os.path.expanduser("~/mnt/Desktop/iRead"))
+REPO = os.environ.get("IREAD_REPO", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+ROOT = os.environ.get("IREAD_ROOT", os.path.join(REPO, "library"))
 PATH_KEYS = {"photo_path", "cover_path", "page_path", "cover_a", "cover_b", "src_path"}
 
 
@@ -42,7 +43,7 @@ def absify(args):
 def main(plan_path):
     plan = json.load(open(plan_path))
     base = os.path.dirname(os.path.abspath(plan_path))
-    repo = os.path.join(base, "repo")
+    repo = REPO
     frag, made, errors = [], [], []
     for it in plan:
         media = []
@@ -69,7 +70,21 @@ def main(plan_path):
     print(f"{len(frag)}/{len(plan)} items, {len(made)} images")
     for e in errors:
         print("ERREUR", e)
+    return frag, errors
+
+
+def apply(frag):
+    """Ajoute les items à schedule.json (remplace un id existant)."""
+    p = os.path.join(REPO, "schedule.json")
+    d = json.load(open(p))
+    ids = {x["id"] for x in frag}
+    d["items"] = [x for x in d["items"] if x["id"] not in ids] + frag
+    d["items"].sort(key=lambda x: x["publish_at"])
+    json.dump(d, open(p, "w"), ensure_ascii=False, indent=1)
+    print(f"schedule.json : {len(d['items'])} items")
 
 
 if __name__ == "__main__":
-    main(sys.argv[1])
+    frag, errors = main(sys.argv[1])
+    if "--apply" in sys.argv and not errors:
+        apply(frag)

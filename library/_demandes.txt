@@ -1,0 +1,2 @@
+# Demandes de l'agent contenu → agent photos (traiter EN PREMIER, puis supprimer la ligne une fois fait)
+# Format : Titre exact du catalogue | raison | date

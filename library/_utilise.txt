@@ -1,0 +1,2 @@
+# Photos déjà publiées par l'agent contenu (ne pas réutiliser avant 60 jours)
+# Format : chemin relatif dans 04-Photos-Livres | date publication | id schedule.json
