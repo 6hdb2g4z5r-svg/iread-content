@@ -31,6 +31,9 @@ Prérequis : Python 3 + Pillow, avec libraqm pour l'arabe (sinon `pip install ar
 | 16:30 | `post_pack` |
 | 21:00 | Carrousel livre |
 
+## Photos KIE (livres rares)
+`library/photos/<Titre>/<slug>-kie-aesthetic-N.jpg` : à utiliser en story 09:00 (`story_photo`) et en carrousel (`post_photo` + `post_cover_card`). Au moins 2 ou 3 par semaine quand il y en a. Jamais comme page.
+
 ## Règles
 - Uniquement des livres actifs sur iread.ma (Neon `products`), et la couverture doit être celle de l'édition du site (`library/couvertures/<slug>.jpg`, ou `https://iread.ma/media/covers/<slug>.jpg` pour un livre récent).
 - Pas de prix. Arguments autorisés : livraison gratuite à Casablanca, paiement à la livraison, prix réduit en pack (footers déjà intégrés).
