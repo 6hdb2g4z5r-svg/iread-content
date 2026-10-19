@@ -48,7 +48,7 @@ def pack_image(title, covers, price, regular, out, sub=""):
         D.shadow_paste(img, cv, (x0 + k * (cw + gap) + (cw - cv.width) // 2, top + r * (ch + gap) + (ch - cv.height) // 2),
                        radius=4, blur=16, offset=(0, 10), alpha=120)
     # prix : « 319 MAD » gros + « au lieu de 399 MAD » barré
-    fp = D.font("serif", 64, 700); fr = D.font("sans", 30, 500)
+    fp = D.font("sans", 62, 800); fr = D.font("sans", 30, 500)  # prix en Inter : les chiffres de Playfair sont « elzéviriens » (189 illisible)
     a = f"{price} MAD"; b = f"au lieu de {regular} MAD"
     wa, _ = D.text_w(d, a, fp); wb, hb = D.text_w(d, b, fr)
     x = (S - (wa + 24 + wb)) // 2; yy = S - 150
@@ -86,7 +86,7 @@ def main(bundles_path):
             "id": f"pack-{p['slug']}", "title": f"Pack {p['title']} ({len(items)} livres)"[:150],
             "description": f"{p.get('subtitle', '')} {len(items)} livres : {names}. Livraison partout au Maroc, paiement à la livraison."[:4900],
             "availability": stock, "condition": "new", "price": f"{regular:.2f} MAD", "sale_price": f"{price:.2f} MAD",
-            "link": f"https://iread.ma/pack/{p['slug']}", "image_link": RAW + f"{p['slug']}.jpg?v={price}",
+            "link": f"https://iread.ma/pack/{p['slug']}", "image_link": RAW + f"{p['slug']}.jpg?v={price}-2",
             "brand": "iRead", "google_product_category": "784", "product_type": "Packs",
             "custom_label_0": items[0]["custom_label_0"], "custom_label_1": "pack",
         })

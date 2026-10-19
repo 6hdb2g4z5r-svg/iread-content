@@ -1,0 +1,20 @@
+name: Flux catalogue Meta (images carrées + packs)
+on:
+  schedule:
+    - cron: "15 2 * * *"   # 02:15 UTC, avant la lecture Meta (04:13 / 04:33)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq libraqm0 && pip install -q pillow
+      - run: cd pipeline && python3 -B square_feed.py && python3 -B packs_feed.py ../library/packs/bundles.json
+      - run: |
+          git config user.name "iread-feeds-bot"; git config user.email "bot@iread.ma"
+          git add library/carre library/packs
+          git diff --cached --quiet || (git commit -m "Flux catalogue : mise à jour quotidienne" && git push)
