@@ -3,6 +3,7 @@
     python3 -B photos.py search <slug> "<Titre>" "<Auteur>"      # Pinterest → listes de candidats
     python3 -B photos.py cand <slug>                            # télécharge, OCR, 2 planches numérotées
     python3 -B photos.py pick <slug> "<Dossier = titre exact du catalogue>" --aes 3 7 12 --pages 0 4 9
+    python3 -B photos.py kie <slug> "<Dossier>" [--inspi N] [--scene "..."]   # PLAN B livre rare : 1 photo générée
 
 Travail dans /tmp/iread-photos/<slug>/ : planche_aes.jpg et planche_pages.jpg (à REGARDER avec Read avant de choisir).
 Les numéros en jaune = candidats ; un cadre ROUGE = texte de type pseudo/site/filigrane détecté par OCR (à écarter sauf
@@ -116,6 +117,93 @@ def pick(slug, folder, aes, pages):
     print(folder, "→", sorted(os.listdir(dest)))
 
 
+# ───────────── Plan B : livre rare sans bonne photo → photo générée avec KIE (nano-banana-pro) ─────────────
+KIE_API = "https://api.kie.ai"
+KIE_PROMPT = (
+    "Photorealistic lifestyle 'bookstagram' photo for a bookshop's Instagram. "
+    "The ONLY book in the picture must be EXACTLY the book shown in reference image 1: reproduce its front cover "
+    "faithfully — identical title text, author name, colours, illustration, typography, layout and language "
+    "(do not translate, rewrite, restyle or invent any text on the cover). "
+    "Use reference image 2 ONLY as inspiration for the setting, props, colour palette and lighting; do not copy any "
+    "text, logo, watermark, username, person or other book from it. "
+    "Scene: {scene}. The book's front cover is fully visible, sharp and readable, facing the camera at a slight angle, "
+    "occupying about 40% of the frame. Soft warm natural light, cozy elegant atmosphere, shallow depth of field, "
+    "realistic paper texture and shadows. No text overlay, no logo, no watermark, no extra readable book titles, "
+    "no distorted hands."
+)
+
+
+def _kie_key():
+    k = os.environ.get("KIE_API_KEY")
+    if k:
+        return k
+    import glob
+    for p in glob.glob(os.path.expanduser("~/.claude/skills/**/kie-ai/SKILL.md"), recursive=True):
+        m = re.search(r'KIE_API_KEY\s*=\s*"([0-9a-f]{20,})"', open(p).read())
+        if m:
+            return m.group(1)
+    raise SystemExit("Clé KIE introuvable (variable KIE_API_KEY ou skill kie-ai).")
+
+
+def _kie_req(method, path, **kw):
+    import requests
+    h = {"Authorization": f"Bearer {_kie_key()}"}
+    return requests.request(method, path if path.startswith("http") else KIE_API + path, headers=h, timeout=120, **kw).json()
+
+
+def _kie_upload(local):
+    import requests
+    r = requests.post("https://kieai.redpandaai.co/api/file-stream-upload",
+                      headers={"Authorization": f"Bearer {_kie_key()}"},
+                      files={"file": (os.path.basename(local), open(local, "rb"))},
+                      data={"uploadPath": "iread/inputs", "fileName": os.path.basename(local)}, timeout=120).json()
+    d = r.get("data") or {}
+    return d.get("downloadUrl") or d.get("fileUrl")
+
+
+def kie(slug, folder, inspi=None, scene=None, ratio="4:5"):
+    """1 génération (≈ quelques dizaines de crédits). Couverture du site = référence 1, inspiration Pinterest = référence 2."""
+    import time, requests
+    credits = _kie_req("GET", "/api/v1/chat/credit").get("data")
+    print("crédits KIE avant :", credits)
+    if credits is not None and credits < 500:
+        raise SystemExit("Moins de 500 crédits KIE : on n'en dépense pas, signaler à Amine.")
+    cover = os.path.join(REPO, "library", "couvertures", f"{slug}.jpg")
+    if not os.path.exists(cover):
+        os.makedirs(os.path.join(WORK, slug), exist_ok=True)
+        cover = os.path.join(WORK, slug, "cover.jpg")
+        open(cover, "wb").write(urllib.request.urlopen(urllib.request.Request(
+            f"https://iread.ma/media/covers/{slug}.jpg", headers={"User-Agent": UA}), timeout=30).read())
+    refs = [_kie_upload(cover)]
+    if inspi is not None:
+        refs.append(_kie_upload(json.load(open(os.path.join(WORK, slug, "aes.json")))[int(inspi)]))
+    prompt = KIE_PROMPT.format(scene=scene or "the book resting on a soft beige knitted blanket next to a cup of mint tea "
+                               "and a lit candle, on a wooden table")
+    if inspi is None:
+        prompt = prompt.replace("Use reference image 2 ONLY as inspiration for the setting, props, colour palette and "
+                                "lighting; do not copy any text, logo, watermark, username, person or other book from it. ", "")
+    r = _kie_req("POST", "/api/v1/jobs/createTask", json={"model": "nano-banana-pro", "input": {
+        "prompt": prompt, "image_input": refs, "aspect_ratio": ratio, "resolution": "2K", "output_format": "jpg"}})
+    if r.get("code") != 200:
+        raise SystemExit(f"KIE createTask : {r}")
+    tid, t0, wait = r["data"]["taskId"], time.time(), 4
+    while True:
+        d = _kie_req("GET", "/api/v1/jobs/recordInfo", params={"taskId": tid})["data"]
+        if d["state"] == "success":
+            break
+        if d["state"] == "fail" or time.time() - t0 > 600:
+            raise SystemExit(f"KIE échec : {d.get('failMsg')}")
+        time.sleep(wait); wait = min(wait * 1.5, 15)
+    url = json.loads(d["resultJson"])["resultUrls"][0]
+    dest = os.path.join(LIB, folder); os.makedirs(dest, exist_ok=True)
+    n = len([x for x in os.listdir(dest) if "-kie-" in x]) + 1
+    out = os.path.join(dest, f"{slug}-kie-aesthetic-{n}.jpg")
+    Image.open(io.BytesIO(requests.get(url, timeout=120).content)).convert("RGB").save(out, quality=92)
+    print("généré :", out, "| crédits restants :", _kie_req("GET", "/api/v1/chat/credit").get("data"))
+    print("→ REGARDE l'image et compare-la à la couverture ; si le texte de la couverture est déformé, supprime-la "
+          "(1 seule nouvelle tentative autorisée).")
+
+
 if __name__ == "__main__":
     a = sys.argv[1:]
     if a[0] == "search":
@@ -130,3 +218,6 @@ if __name__ == "__main__":
             elif cur and x.isdigit():
                 sel[cur].append(x)
         pick(a[1], a[2], sel["--aes"], sel["--pages"])
+    elif a[0] == "kie":
+        opt = {k: a[a.index(k) + 1] for k in ("--inspi", "--scene", "--ratio") if k in a}
+        kie(a[1], a[2], opt.get("--inspi"), opt.get("--scene"), opt.get("--ratio", "4:5"))

@@ -2,7 +2,7 @@
 
 | Dossier / fichier | Contenu | Écrit par |
 |---|---|---|
-| `photos/<Titre exact du catalogue>/` | Vraies photos : `*-aesthetic-N.jpg` (ambiance) et `*-page-N.jpg` (pages surlignées). `PUNCTUATIONS/` = ne pas modifier. `_inspiration-pinterest/` = non vérifié, ne pas publier tel quel. | agent photos |
+| `photos/<Titre exact du catalogue>/` | Vraies photos : `*-aesthetic-N.jpg` (ambiance) et `*-page-N.jpg` (pages surlignées). `*-kie-aesthetic-N.jpg` = photo GÉNÉRÉE par KIE pour un livre rare (couverture du site fidèle) : utilisable en ambiance, jamais comme page. `PUNCTUATIONS/` = ne pas modifier. `_inspiration-pinterest/` = non vérifié, ne pas publier tel quel. | agent photos |
 | `couvertures/<slug>.jpg` | Couvertures exactes du site (slug = id produit = id catalogue Meta). Livre récent absent : `https://iread.ma/media/covers/<slug>.jpg` | agent contenu |
 | `visuels-verifies/` | Visuels déjà vérifiés (posts KIE nettoyés) utilisables en story 18:30 | agent contenu |
 | `_done.txt` | Titres traités par l'agent photos (`Titre \| ok/partiel/skip`) | agent photos |
