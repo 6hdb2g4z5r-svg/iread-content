@@ -165,6 +165,11 @@ def load(path):
     return ImageOps.exif_transpose(Image.open(path)).convert("RGB")
 
 
+def load_bytes(raw: bytes):
+    import io as _io
+    return ImageOps.exif_transpose(Image.open(_io.BytesIO(raw))).convert("RGB")
+
+
 def fit(im, w, h):
     """Scale to fit inside w x h (no crop)."""
     im = im.copy(); im.thumbnail((w, h), Image.LANCZOS)
