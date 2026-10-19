@@ -6,7 +6,7 @@ Charte (relevée sur les visuels publiés en oct. 2026) :
 
 Règles métier (voir claude/strategie-contenu.md) :
   - uniquement des livres vendus sur iread.ma, couverture = édition du site (05-Contenu-Instagram/couvertures-site)
-  - jamais de prix ; arguments autorisés : livraison gratuite Casablanca, paiement à la livraison, prix réduit en pack
+  - jamais de prix ; arguments autorisés : livraison gratuite dès 3 livres (et à Casablanca), paiement à la livraison, prix réduit en pack
   - pas de logo/pseudo d'autres comptes, pas de citation tapée (extraits = vraies photos de pages)
 """
 from __future__ import annotations
@@ -27,8 +27,8 @@ WHITE = (255, 255, 255)
 SW, SH = 1080, 1920   # story
 PW, PH = 1080, 1350   # post 4:5
 
-FOOT_FR = "Livraison gratuite à Casablanca · Paiement à la livraison"
-FOOT_EN = "Free delivery in Casablanca · Cash on delivery"
+FOOT_FR = "Livraison gratuite dès 3 livres · Paiement à la livraison"
+FOOT_EN = "Free delivery from 3 books · Cash on delivery"
 FOOT_AR = "توصيل مجاني في الدار البيضاء · الدفع عند الاستلام"
 PACK_FR = "Prix réduit en pack · Livraison partout au Maroc"
 PACK_EN = "Discounted as a pack · Delivery all over Morocco"
