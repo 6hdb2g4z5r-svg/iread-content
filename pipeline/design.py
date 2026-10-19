@@ -35,6 +35,12 @@ PACK_EN = "Discounted as a pack · Delivery all over Morocco"
 PACK_AR = "ثمن مخفض في الباقة · توصيل لجميع مدن المغرب"
 
 RAQM = features.check("raqm")
+# Chiffres : toujours occidentaux (0-9), même en arabe (demande d'Amine 19/10/2026)
+DIGITS = str.maketrans("٠١٢٣٤٥٦٧٨٩۰۱۲۳۴۵۶۷۸۹", "01234567890123456789")
+
+
+def latin_digits(s: str) -> str:
+    return (s or "").translate(DIGITS)
 _AR = re.compile(r"[؀-ۿ]")
 
 
@@ -72,6 +78,7 @@ def font(kind: str, size: int, weight: int = 400) -> ImageFont.FreeTypeFont:
 
 def _prep(text: str):
     """Arabic: Raqm shapes natively; otherwise fall back to arabic_reshaper + bidi."""
+    text = latin_digits(text)
     if is_ar(text):
         if RAQM:
             return text, {"direction": "rtl", "language": "ar"}

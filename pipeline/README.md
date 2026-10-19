@@ -35,5 +35,6 @@ Prérequis : Python 3 + Pillow, avec libraqm pour l'arabe (sinon `pip install ar
 - Uniquement des livres actifs sur iread.ma (Neon `products`), et la couverture doit être celle de l'édition du site (`couvertures-site/<slug>.jpg`).
 - Pas de prix. Arguments autorisés : livraison gratuite à Casablanca, paiement à la livraison, prix réduit en pack (footers déjà intégrés).
 - Pas de logo ni de pseudo d'un autre compte, pas de citation tapée : les extraits sont de vraies photos de pages.
+- Chiffres toujours occidentaux (3, 5, 2), jamais ٣ ٥ ٢ : `design.py` et `build.py` convertissent automatiquement.
 - En arabe, éviter les « . » et « : » ASCII.
 - Les légendes sont dans la langue du livre, avec 8 hashtags et le CTA FR/EN/AR (voir `claude/strategie-contenu.md`).

@@ -59,8 +59,9 @@ def main(plan_path):
                 errors.append(f"{it['id']} slide {i}: {e}")
         if len(media) == len(it["slides"]):
             row = {"id": it["id"], "kind": it["kind"], "media": media, "publish_at": it["publish_at"], "title": it["title"]}
+            row["title"] = D.latin_digits(row["title"])
             if it.get("caption"):
-                row["caption"] = it["caption"]
+                row["caption"] = D.latin_digits(it["caption"])
             frag.append(row)
     json.dump(frag, open(os.path.join(base, "schedule-fragment.json"), "w"), ensure_ascii=False, indent=1)
     if made:
