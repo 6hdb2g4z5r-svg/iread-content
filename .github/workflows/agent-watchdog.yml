@@ -1,0 +1,13 @@
+name: Watchdog agent Instagram
+# Relance le réveil de l'agent (Durable Object) toutes les 15 min.
+# /kick ne fait rien si le réveil tourne déjà : aucun risque de double publication.
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+jobs:
+  kick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - run: curl -fsS -m 30 --retry 3 https://iread-agent.ireadma.workers.dev/kick
