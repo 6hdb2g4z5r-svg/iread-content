@@ -925,6 +925,123 @@
    ],
    "publish_at": "2026-10-31T21:30:00+00:00",
    "title": "Pack · Frissons en arabe"
+  },
+  {
+   "id": "highlight-1-commander-1",
+   "kind": "story",
+   "media": [
+    "highlights/1-commander-1.jpg"
+   ],
+   "publish_at": "2026-10-20T13:20:00+00:00",
+   "title": "À la une · Commander 1"
+  },
+  {
+   "id": "highlight-1-commander-2",
+   "kind": "story",
+   "media": [
+    "highlights/1-commander-2.jpg"
+   ],
+   "publish_at": "2026-10-20T13:21:00+00:00",
+   "title": "À la une · Commander 2"
+  },
+  {
+   "id": "highlight-1-commander-3",
+   "kind": "story",
+   "media": [
+    "highlights/1-commander-3.jpg"
+   ],
+   "publish_at": "2026-10-20T13:22:00+00:00",
+   "title": "À la une · Commander 3"
+  },
+  {
+   "id": "highlight-2-livraison-1",
+   "kind": "story",
+   "media": [
+    "highlights/2-livraison-1.jpg"
+   ],
+   "publish_at": "2026-10-20T13:23:00+00:00",
+   "title": "À la une · Livraison 1"
+  },
+  {
+   "id": "highlight-2-livraison-2",
+   "kind": "story",
+   "media": [
+    "highlights/2-livraison-2.jpg"
+   ],
+   "publish_at": "2026-10-20T13:24:00+00:00",
+   "title": "À la une · Livraison 2"
+  },
+  {
+   "id": "highlight-3-paiement-1",
+   "kind": "story",
+   "media": [
+    "highlights/3-paiement-1.jpg"
+   ],
+   "publish_at": "2026-10-20T13:25:00+00:00",
+   "title": "À la une · Paiement 1"
+  },
+  {
+   "id": "highlight-3-paiement-2",
+   "kind": "story",
+   "media": [
+    "highlights/3-paiement-2.jpg"
+   ],
+   "publish_at": "2026-10-20T13:26:00+00:00",
+   "title": "À la une · Paiement 2"
+  },
+  {
+   "id": "highlight-4-packs-1",
+   "kind": "story",
+   "media": [
+    "highlights/4-packs-1.jpg"
+   ],
+   "publish_at": "2026-10-20T13:27:00+00:00",
+   "title": "À la une · Packs 1"
+  },
+  {
+   "id": "highlight-4-packs-2",
+   "kind": "story",
+   "media": [
+    "highlights/4-packs-2.jpg"
+   ],
+   "publish_at": "2026-10-20T13:28:00+00:00",
+   "title": "À la une · Packs 2"
+  },
+  {
+   "id": "highlight-5-epub-1",
+   "kind": "story",
+   "media": [
+    "highlights/5-epub-1.jpg"
+   ],
+   "publish_at": "2026-10-20T13:29:00+00:00",
+   "title": "À la une · ePub 1"
+  },
+  {
+   "id": "highlight-5-epub-2",
+   "kind": "story",
+   "media": [
+    "highlights/5-epub-2.jpg"
+   ],
+   "publish_at": "2026-10-20T13:30:00+00:00",
+   "title": "À la une · ePub 2"
+  },
+  {
+   "id": "highlight-6-faq-1",
+   "kind": "story",
+   "media": [
+    "highlights/6-faq-1.jpg"
+   ],
+   "publish_at": "2026-10-20T13:31:00+00:00",
+   "title": "À la une · FAQ 1"
+  },
+  {
+   "id": "highlight-6-faq-2",
+   "kind": "story",
+   "media": [
+    "highlights/6-faq-2.jpg"
+   ],
+   "publish_at": "2026-10-20T13:32:00+00:00",
+   "title": "À la une · FAQ 2"
   }
  ]
 }
