@@ -1,1 +1,523 @@
-{"list": [{"slug": "blue-lock-1-6", "items": ["blue-lock-1", "blue-lock-2", "blue-lock-3", "blue-lock-4", "blue-lock-5", "blue-lock-6"], "price": 549, "title": "Blue Lock", "subtitle": "Les tomes 1 à 6 du manga foot qui cartonne."}, {"slug": "femme-de-menage", "items": ["la-femme-de-menage", "les-secrets-de-la-femme-de-menage", "la-femme-de-menage-voit-tout"], "price": 319, "title": "La Femme de ménage", "subtitle": "La trilogie de Freida McFadden, dans l'ordre."}, {"slug": "colleen-hoover", "items": ["it-starts-with-us", "november-9", "without-merit", "layla"], "price": 419, "title": "Colleen Hoover", "subtitle": "Quatre romans de la reine de BookTok (en anglais)."}, {"slug": "discipline", "items": ["atomic-habits", "the-compound-effect", "can-t-hurt-me"], "price": 279, "title": "Mode Discipline ON", "subtitle": "Habitudes, constance et mental d'acier (en anglais)."}, {"slug": "money", "items": ["rich-dad-poor-dad", "the-soul-of-money", "the-art-of-spending-money"], "price": 299, "title": "Money Mindset", "subtitle": "Trois livres pour changer votre rapport à l'argent (en anglais)."}, {"slug": "stoicisme", "items": ["meditations-marcus-aurelius", "ego-is-the-enemy", "the-art-of-war-cleary"], "price": 289, "title": "Stoïcisme & stratégie", "subtitle": "Marc Aurèle, Ryan Holiday et Sun Tzu (en anglais)."}, {"slug": "camus", "items": ["la-chute", "la-peste", "la-mort-heureuse"], "price": 329, "title": "Albert Camus", "subtitle": "La Chute, La Peste et La Mort heureuse."}, {"slug": "robert-greene-ar", "items": ["qawaid-al-satwa", "qawanin-al-tabia-al-bashariya", "al-itqan", "33-istratijiya-lil-harb"], "price": 589, "title": "Robert Greene", "subtitle": "Pouvoir, maîtrise, nature humaine et stratégie (en arabe)."}, {"slug": "argent-ar", "items": ["al-ab-al-ghani", "saykolojiyat-al-mal", "aghna-rajul-fi-babil", "fakkir-tusbih-ghaniyyan"], "price": 369, "title": "L'argent (arabe)", "subtitle": "Kiyosaki, Housel, Clason et Napoleon Hill en arabe."}, {"slug": "dostoievski-ar", "items": ["al-layali-al-bayda", "muzallun-muhanun", "al-murahiq", "al-ablah"], "price": 369, "title": "Dostoïevski (arabe)", "subtitle": "Quatre romans du maître russe en arabe."}, {"slug": "rasail-ar", "items": ["rasail-min-al-nabi", "rasail-min-al-quran", "rasail-min-al-sahaba", "rasail-min-al-tabiin"], "price": 369, "title": "Rasail", "subtitle": "Lettres du Prophète ﷺ, du Coran, des Compagnons et des Successeurs."}, {"slug": "musso-addict", "items": ["un-appartement-a-paris", "sept-ans-apres", "la-fille-de-papier", "que-serais-je-sans-toi", "je-reviens-te-chercher", "sauve-moi"], "price": 669, "title": "Musso Addict", "subtitle": "Six romans de Guillaume Musso, entre suspense, amour et destin."}, {"slug": "racines-marocaines", "items": ["le-passe-simple", "la-nuit-sacree", "le-dernier-ami", "la-prisonniere-oufkir"], "price": 439, "title": "Racines marocaines", "subtitle": "Chraïbi, Ben Jelloun et Malika Oufkir : le Maroc raconté par ses plumes."}, {"slug": "nuits-blanches", "items": ["le-roi-du-silence", "l-enfant-aux-cailloux", "la-voisine-sans-histoire"], "price": 329, "title": "Nuits blanches garanties", "subtitle": "Trois thrillers impossibles à lâcher avant la dernière page."}, {"slug": "bonne-humeur", "items": ["le-bazar-du-zebre-a-pois", "cupidon-a-des-ailes-en-carton", "le-spleen-du-pop-corn"], "price": 349, "title": "Dose de bonne humeur", "subtitle": "Trois romans feel-good de Raphaëlle Giordano."}, {"slug": "gout-des-livres", "items": ["la-bibliotheque-des-reves-secrets", "la-librairie-de-teheran", "le-monde-de-sophie"], "price": 329, "title": "Le goût des livres", "subtitle": "Bibliothèques, librairies et philosophie : des romans qui célèbrent la lecture."}, {"slug": "penseurs-eternels", "items": ["candide", "le-prince", "l-art-de-la-guerre"], "price": 329, "title": "Penseurs éternels", "subtitle": "Voltaire, Machiavel et Sun Tzu : trois classiques qui font réfléchir."}, {"slug": "nouveau-depart", "items": ["le-pouvoir-du-moment-present", "le-pouvoir-des-habitudes", "miracle-morning", "l-obstacle-est-le-chemin"], "price": 419, "title": "Nouveau départ", "subtitle": "Quatre livres pour reprendre sa vie en main."}, {"slug": "main-character-energy", "items": ["the-let-them-theory", "good-vibes-good-life", "healing-is-the-new-high", "101-essays"], "price": 409, "title": "Main Character Energy", "subtitle": "Self-love, sérénité et confiance (en anglais)."}, {"slug": "read-people", "items": ["how-to-talk-to-anyone", "surrounded-by-psychopaths", "surrounded-by-liars", "emotional-intelligence"], "price": 399, "title": "Read People Like a Book", "subtitle": "Comprendre, convaincre et se protéger des manipulateurs (en anglais)."}, {"slug": "startup-starter-kit", "items": ["zero-to-one", "the-lean-startup", "start-with-why", "100m-leads"], "price": 389, "title": "Startup Starter Kit", "subtitle": "Lancer, vendre et trouver ses premiers clients (en anglais)."}, {"slug": "power-moves", "items": ["the-48-laws-of-power", "the-psychology-of-selling", "shoe-dog"], "price": 319, "title": "Power Moves", "subtitle": "Pouvoir, vente et ambition (en anglais)."}, {"slug": "romantasy", "items": ["fearless-lauren-roberts", "every-spiral-of-fate", "the-wicked-king", "tress-of-the-emerald-sea"], "price": 439, "title": "Romantasy", "subtitle": "Royaumes, magie et histoires d'amour impossibles (en anglais)."}, {"slug": "rire-et-rougir", "items": ["the-unhoneymooners", "fix-her-up"], "price": 219, "title": "Rire & rougir", "subtitle": "Deux comédies romantiques pleines d'humour (en anglais)."}, {"slug": "cote-obscur", "items": ["my-dark-romeo", "does-it-hurt"], "price": 199, "title": "Côté obscur", "subtitle": "Dark romance pour lecteurs avertis, 18+ (en anglais)."}, {"slug": "kingdom-of-the-wicked-ar", "items": ["mamlakat-al-ashrar", "mamlakat-al-malunin", "mamlakat-al-murabin"], "price": 279, "title": "Trilogie Kingdom of the Wicked", "subtitle": "La trilogie complète de Kerri Maniscalco en arabe."}, {"slug": "frissons-ar", "items": ["khawf-2", "al-fil-al-azraq", "al-aswa", "buhayrat-al-dima"], "price": 369, "title": "Frissons en arabe", "subtitle": "Horreur et suspense pour les nuits sans sommeil."}, {"slug": "mahfouz", "items": ["malhamat-al-harafish", "awlad-haratina"], "price": 189, "title": "Mahfouz, l'essentiel", "subtitle": "Deux chefs-d'œuvre du prix Nobel égyptien."}, {"slug": "ibda-min-jadid", "items": ["al-adat-al-sabaa-lil-nas", "quwwat-aqlak-al-batin", "quwwat-al-tafkir-al-ijabi", "man-harrak-qitat-al-jubn"], "price": 369, "title": "ابدأ من جديد", "subtitle": "Quatre classiques du développement personnel en arabe."}]}
+{
+ "list": [
+  {
+   "slug": "blue-lock-1-6",
+   "items": [
+    "blue-lock-1",
+    "blue-lock-2",
+    "blue-lock-3",
+    "blue-lock-4",
+    "blue-lock-5",
+    "blue-lock-6"
+   ],
+   "price": 549,
+   "title": "Blue Lock",
+   "subtitle": "Les tomes 1 à 6 du manga foot qui cartonne."
+  },
+  {
+   "slug": "femme-de-menage",
+   "items": [
+    "la-femme-de-menage",
+    "les-secrets-de-la-femme-de-menage",
+    "la-femme-de-menage-voit-tout"
+   ],
+   "price": 319,
+   "title": "La Femme de ménage",
+   "subtitle": "La trilogie de Freida McFadden, dans l'ordre."
+  },
+  {
+   "slug": "colleen-hoover",
+   "items": [
+    "it-starts-with-us",
+    "november-9",
+    "without-merit",
+    "layla"
+   ],
+   "price": 419,
+   "title": "Colleen Hoover",
+   "subtitle": "Quatre romans de la reine de BookTok (en anglais)."
+  },
+  {
+   "slug": "discipline",
+   "items": [
+    "atomic-habits",
+    "the-compound-effect",
+    "can-t-hurt-me"
+   ],
+   "price": 279,
+   "title": "Mode Discipline ON",
+   "subtitle": "Habitudes, constance et mental d'acier (en anglais)."
+  },
+  {
+   "slug": "money",
+   "items": [
+    "rich-dad-poor-dad",
+    "the-soul-of-money",
+    "the-art-of-spending-money"
+   ],
+   "price": 299,
+   "title": "Money Mindset",
+   "subtitle": "Trois livres pour changer votre rapport à l'argent (en anglais)."
+  },
+  {
+   "slug": "stoicisme",
+   "items": [
+    "meditations-marcus-aurelius",
+    "ego-is-the-enemy",
+    "the-art-of-war-cleary"
+   ],
+   "price": 289,
+   "title": "Stoïcisme & stratégie",
+   "subtitle": "Marc Aurèle, Ryan Holiday et Sun Tzu (en anglais)."
+  },
+  {
+   "slug": "camus",
+   "items": [
+    "la-chute",
+    "la-peste",
+    "la-mort-heureuse"
+   ],
+   "price": 329,
+   "title": "Albert Camus",
+   "subtitle": "La Chute, La Peste et La Mort heureuse."
+  },
+  {
+   "slug": "robert-greene-ar",
+   "items": [
+    "qawaid-al-satwa",
+    "qawanin-al-tabia-al-bashariya",
+    "al-itqan",
+    "33-istratijiya-lil-harb"
+   ],
+   "price": 589,
+   "title": "Robert Greene",
+   "subtitle": "Pouvoir, maîtrise, nature humaine et stratégie (en arabe)."
+  },
+  {
+   "slug": "argent-ar",
+   "items": [
+    "al-ab-al-ghani",
+    "saykolojiyat-al-mal",
+    "aghna-rajul-fi-babil",
+    "fakkir-tusbih-ghaniyyan"
+   ],
+   "price": 369,
+   "title": "L'argent (arabe)",
+   "subtitle": "Kiyosaki, Housel, Clason et Napoleon Hill en arabe."
+  },
+  {
+   "slug": "dostoievski-ar",
+   "items": [
+    "al-layali-al-bayda",
+    "muzallun-muhanun",
+    "al-murahiq",
+    "al-ablah"
+   ],
+   "price": 369,
+   "title": "Dostoïevski (arabe)",
+   "subtitle": "Quatre romans du maître russe en arabe."
+  },
+  {
+   "slug": "rasail-ar",
+   "items": [
+    "rasail-min-al-nabi",
+    "rasail-min-al-quran",
+    "rasail-min-al-sahaba",
+    "rasail-min-al-tabiin"
+   ],
+   "price": 369,
+   "title": "Rasail",
+   "subtitle": "Lettres du Prophète ﷺ, du Coran, des Compagnons et des Successeurs."
+  },
+  {
+   "slug": "musso-addict",
+   "items": [
+    "un-appartement-a-paris",
+    "sept-ans-apres",
+    "la-fille-de-papier",
+    "que-serais-je-sans-toi",
+    "je-reviens-te-chercher",
+    "sauve-moi"
+   ],
+   "price": 669,
+   "title": "Musso Addict",
+   "subtitle": "Six romans de Guillaume Musso, entre suspense, amour et destin."
+  },
+  {
+   "slug": "racines-marocaines",
+   "items": [
+    "le-passe-simple",
+    "la-nuit-sacree",
+    "le-dernier-ami",
+    "la-prisonniere-oufkir"
+   ],
+   "price": 439,
+   "title": "Racines marocaines",
+   "subtitle": "Chraïbi, Ben Jelloun et Malika Oufkir : le Maroc raconté par ses plumes."
+  },
+  {
+   "slug": "nuits-blanches",
+   "items": [
+    "le-roi-du-silence",
+    "l-enfant-aux-cailloux",
+    "la-voisine-sans-histoire"
+   ],
+   "price": 329,
+   "title": "Nuits blanches garanties",
+   "subtitle": "Trois thrillers impossibles à lâcher avant la dernière page."
+  },
+  {
+   "slug": "bonne-humeur",
+   "items": [
+    "le-bazar-du-zebre-a-pois",
+    "cupidon-a-des-ailes-en-carton",
+    "le-spleen-du-pop-corn"
+   ],
+   "price": 349,
+   "title": "Dose de bonne humeur",
+   "subtitle": "Trois romans feel-good de Raphaëlle Giordano."
+  },
+  {
+   "slug": "gout-des-livres",
+   "items": [
+    "la-bibliotheque-des-reves-secrets",
+    "la-librairie-de-teheran",
+    "le-monde-de-sophie"
+   ],
+   "price": 329,
+   "title": "Le goût des livres",
+   "subtitle": "Bibliothèques, librairies et philosophie : des romans qui célèbrent la lecture."
+  },
+  {
+   "slug": "penseurs-eternels",
+   "items": [
+    "candide",
+    "le-prince",
+    "l-art-de-la-guerre"
+   ],
+   "price": 329,
+   "title": "Penseurs éternels",
+   "subtitle": "Voltaire, Machiavel et Sun Tzu : trois classiques qui font réfléchir."
+  },
+  {
+   "slug": "nouveau-depart",
+   "items": [
+    "le-pouvoir-du-moment-present",
+    "le-pouvoir-des-habitudes",
+    "miracle-morning",
+    "l-obstacle-est-le-chemin"
+   ],
+   "price": 419,
+   "title": "Nouveau départ",
+   "subtitle": "Quatre livres pour reprendre sa vie en main."
+  },
+  {
+   "slug": "main-character-energy",
+   "items": [
+    "the-let-them-theory",
+    "good-vibes-good-life",
+    "healing-is-the-new-high",
+    "101-essays"
+   ],
+   "price": 409,
+   "title": "Main Character Energy",
+   "subtitle": "Self-love, sérénité et confiance (en anglais)."
+  },
+  {
+   "slug": "read-people",
+   "items": [
+    "how-to-talk-to-anyone",
+    "surrounded-by-psychopaths",
+    "surrounded-by-liars",
+    "emotional-intelligence"
+   ],
+   "price": 399,
+   "title": "Read People Like a Book",
+   "subtitle": "Comprendre, convaincre et se protéger des manipulateurs (en anglais)."
+  },
+  {
+   "slug": "startup-starter-kit",
+   "items": [
+    "zero-to-one",
+    "the-lean-startup",
+    "start-with-why",
+    "100m-leads"
+   ],
+   "price": 389,
+   "title": "Startup Starter Kit",
+   "subtitle": "Lancer, vendre et trouver ses premiers clients (en anglais)."
+  },
+  {
+   "slug": "power-moves",
+   "items": [
+    "the-48-laws-of-power",
+    "the-psychology-of-selling",
+    "shoe-dog"
+   ],
+   "price": 319,
+   "title": "Power Moves",
+   "subtitle": "Pouvoir, vente et ambition (en anglais)."
+  },
+  {
+   "slug": "romantasy",
+   "items": [
+    "fearless-lauren-roberts",
+    "every-spiral-of-fate",
+    "the-wicked-king",
+    "tress-of-the-emerald-sea"
+   ],
+   "price": 439,
+   "title": "Romantasy",
+   "subtitle": "Royaumes, magie et histoires d'amour impossibles (en anglais)."
+  },
+  {
+   "slug": "rire-et-rougir",
+   "items": [
+    "the-unhoneymooners",
+    "fix-her-up"
+   ],
+   "price": 219,
+   "title": "Rire & rougir",
+   "subtitle": "Deux comédies romantiques pleines d'humour (en anglais)."
+  },
+  {
+   "slug": "cote-obscur",
+   "items": [
+    "my-dark-romeo",
+    "does-it-hurt"
+   ],
+   "price": 199,
+   "title": "Côté obscur",
+   "subtitle": "Dark romance pour lecteurs avertis, 18+ (en anglais)."
+  },
+  {
+   "slug": "kingdom-of-the-wicked-ar",
+   "items": [
+    "mamlakat-al-ashrar",
+    "mamlakat-al-malunin",
+    "mamlakat-al-murabin"
+   ],
+   "price": 279,
+   "title": "Trilogie Kingdom of the Wicked",
+   "subtitle": "La trilogie complète de Kerri Maniscalco en arabe."
+  },
+  {
+   "slug": "frissons-ar",
+   "items": [
+    "khawf-2",
+    "al-fil-al-azraq",
+    "al-aswa",
+    "buhayrat-al-dima"
+   ],
+   "price": 369,
+   "title": "Frissons en arabe",
+   "subtitle": "Horreur et suspense pour les nuits sans sommeil."
+  },
+  {
+   "slug": "mahfouz",
+   "items": [
+    "malhamat-al-harafish",
+    "awlad-haratina"
+   ],
+   "price": 189,
+   "title": "Mahfouz, l'essentiel",
+   "subtitle": "Deux chefs-d'œuvre du prix Nobel égyptien."
+  },
+  {
+   "slug": "ibda-min-jadid",
+   "items": [
+    "al-adat-al-sabaa-lil-nas",
+    "quwwat-aqlak-al-batin",
+    "quwwat-al-tafkir-al-ijabi",
+    "man-harrak-qitat-al-jubn"
+   ],
+   "price": 369,
+   "title": "ابدأ من جديد",
+   "subtitle": "Quatre classiques du développement personnel en arabe."
+  },
+  {
+   "slug": "tin-wa-nar-ar",
+   "items": [
+    "jumana",
+    "ababil",
+    "al-jassasa",
+    "al-zamharir",
+    "al-sijjil"
+   ],
+   "price": 459,
+   "title": "سلسلة الطين والنار",
+   "subtitle": "Les 5 romans de la saga fantasy d'Ahmad Al-Hamdan, de Jumana à As-Sijjil (en arabe)."
+  },
+  {
+   "slug": "khawla-hamdi-ar",
+   "items": [
+    "ayna-al-mafar",
+    "arini-anzur-ilayk",
+    "isar-bila-qarar",
+    "nar-bila-sharar"
+   ],
+   "price": 369,
+   "title": "خولة حمدي",
+   "subtitle": "Quatre romans de l'autrice tunisienne, dont les tomes 2 et 3 de حجر الشمس (en arabe)."
+  },
+  {
+   "slug": "twisted",
+   "items": [
+    "twisted-love",
+    "twisted-games",
+    "twisted-hate",
+    "twisted-lies"
+   ],
+   "price": 409,
+   "title": "Twisted",
+   "subtitle": "Les 4 tomes de la série d'Ana Huang : Love, Games, Hate, Lies (en anglais)."
+  },
+  {
+   "slug": "marc-levy",
+   "items": [
+    "elle-et-lui",
+    "si-c-etait-a-refaire",
+    "l-etrange-voyage-de-monsieur-daldry",
+    "marc-levy-9"
+   ],
+   "price": 449,
+   "title": "Marc Levy",
+   "subtitle": "Quatre romans entre amour, voyage et suspense."
+  },
+  {
+   "slug": "ahmed-khaled-mostafa-ar",
+   "items": [
+    "taghut",
+    "ashirat-barhut",
+    "al-shaytan-yahki",
+    "antikhristos-2"
+   ],
+   "price": 369,
+   "title": "أحمد خالد مصطفى",
+   "subtitle": "Quatre romans sombres et mystérieux du Dr Ahmed Khaled Mostafa (en arabe)."
+  },
+  {
+   "slug": "frissons-ar-2",
+   "items": [
+    "qandisha",
+    "laanat-adimun",
+    "al-arin",
+    "aktub-hatta-la-yakulani"
+   ],
+   "price": 369,
+   "title": "Frissons en arabe 2",
+   "subtitle": "Légendes marocaines, malédictions et horreur psychologique."
+  },
+  {
+   "slug": "shahad-qurban-ar",
+   "items": [
+    "scorpius-1",
+    "scorpius-2",
+    "stockholm",
+    "al-yaqut"
+   ],
+   "price": 369,
+   "title": "شهد قربان",
+   "subtitle": "Scorpius 1 et 2, Stockholm et Al-Yaqout : l'univers fantasy de Shahad Qurban (en arabe)."
+  },
+  {
+   "slug": "sira-ar",
+   "items": [
+    "ala-minhaj-al-nubuwwa",
+    "al-salam-alayka-ya-sahibi",
+    "indama-iltaqaytu-umar",
+    "madrasat-muhammad"
+   ],
+   "price": 369,
+   "title": "Sur les pas du Prophète",
+   "subtitle": "Sîra, Compagnons et grands hommes de l'islam, par Adham Sharkawi et Jihad Turbani (en arabe)."
+  },
+  {
+   "slug": "taafi-ar",
+   "items": [
+    "taafayt",
+    "al-wahsh",
+    "kitab-al-raha",
+    "mulahazat-kawkab-mutawattir"
+   ],
+   "price": 369,
+   "title": "Prendre soin de soi",
+   "subtitle": "Guérir, apaiser l'anxiété et se réconcilier avec soi-même (en arabe)."
+  },
+  {
+   "slug": "classiques-monde-ar",
+   "items": [
+    "1984-ar",
+    "mazraat-al-hayawan",
+    "al-umm-gorky",
+    "l-alchimiste-ar"
+   ],
+   "price": 369,
+   "title": "Classiques du monde (arabe)",
+   "subtitle": "Orwell, Gorki et Coelho : quatre incontournables en arabe."
+  },
+  {
+   "slug": "thrillers-psy-ar",
+   "items": [
+    "al-khadima",
+    "al-marida-al-samita",
+    "mutalazimat-frigoli"
+   ],
+   "price": 279,
+   "title": "Thrillers psychologiques (arabe)",
+   "subtitle": "La Femme de ménage, La Patiente silencieuse et Frégoli en arabe."
+  },
+  {
+   "slug": "love-stories-en",
+   "items": [
+    "it-ends-with-us",
+    "your-fault",
+    "the-summer-i-turned-pretty"
+   ],
+   "price": 289,
+   "title": "Love Stories",
+   "subtitle": "Colleen Hoover, Mercedes Ron et Jenny Han (en anglais)."
+  },
+  {
+   "slug": "hassan-aourid-ar",
+   "items": [
+    "rawa-makka",
+    "rabi-qurtuba",
+    "al-shaabawiya"
+   ],
+   "price": 289,
+   "title": "حسن أوريد",
+   "subtitle": "Deux romans et un essai de l'écrivain marocain (en arabe)."
+  },
+  {
+   "slug": "zikola-ar",
+   "items": [
+    "amarita",
+    "wadi-al-dhiab"
+   ],
+   "price": 189,
+   "title": "أرض زيكولا 2 و 3",
+   "subtitle": "Amarita et Wadi Al-Dhiab, la suite de la saga d'Amr Abdel Hamid (en arabe)."
+  },
+  {
+   "slug": "hanan-lashin-ar",
+   "items": [
+    "kuikul",
+    "abadul"
+   ],
+   "price": 189,
+   "title": "مملكة البلاغة",
+   "subtitle": "Kuikul et Abadoul de Dr Hanan Lashin (en arabe)."
+  },
+  {
+   "slug": "mel-robbins",
+   "items": [
+    "the-5-second-rule",
+    "the-let-them-theory"
+   ],
+   "price": 209,
+   "title": "Mel Robbins",
+   "subtitle": "The 5 Second Rule et The Let Them Theory (en anglais)."
+  }
+ ]
+}
