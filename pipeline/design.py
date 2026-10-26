@@ -257,7 +257,7 @@ def story_ab(cover_a, cover_b, question, sub, out, cta="Réponds en message"):
         cx = 60 + 440 * i + 220 + (10 if i else 0)
         d.ellipse([cx - 44, 1330, cx + 44, 1418], fill=NAVY)
         draw_center(d, cx, 1352, "AB"[i], font("serif", 50, 700), WHITE)
-    draw_center(d, SW // 2, 1500, cta, font("sans", 30, 600), INK)
+    draw_center(d, SW // 2, 1500, cta, tfont(cta, "sans", 30, 600), INK)
     logo(img, SW // 2, 1680)
     return save(img, out)
 

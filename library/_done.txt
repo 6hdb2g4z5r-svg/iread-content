@@ -1,6 +1,6 @@
 # Titre | statut (ok/partiel/skip) — tenu par l'agent photos
 101 Essays That Will Change the Way You Think | ok
-1984 | ok
+1984 | skip
 Atomic Habits | ok
 Can't Hurt Me | ok
 Deep Work | ok
@@ -12,12 +12,12 @@ Good Vibes, Good Life | ok
 Healing Is the New High | ok
 How to Stop Worrying and Start Living | ok
 How to Talk to Anyone | ok
-Ikigai | ok
+Ikigai | skip
 It Starts with Us | ok
 La Chute | ok
 La Peste | ok
 Meditations | ok
-Miracle Morning | ok
+Miracle Morning | skip
 November 9 | ok
 Rich Dad Poor Dad | ok
 Shoe Dog | ok
@@ -29,7 +29,7 @@ The Body Keeps the Score | ok
 The Compound Effect | ok
 The Forty Rules of Love | ok
 The Let Them Theory | ok
-The Obstacle Is the Way | ok
+The Obstacle Is the Way | skip
 The Power of Your Subconscious Mind | ok
 The Unhoneymooners | ok
 The Wicked King | ok
@@ -40,8 +40,8 @@ Emotional Intelligence | partiel
 The Lean Startup | partiel
 Layla | partiel
 A Promised Land | partiel
-Le Pouvoir des habitudes | partiel
-Je reviens te chercher | partiel
+Le Pouvoir des habitudes | skip
+Je reviens te chercher | skip
 Le Monde de Sophie | partiel
 Chanson douce | partiel
 Cupidon a des ailes en carton | skip
@@ -85,3 +85,11 @@ Twisted Games | partiel
 The Summer I Turned Pretty | ok
 The Housemaid Is Watching | partiel
 أكتب حتى لا يأكلني الشيطان | partiel
+La psy | ok-kie
+Les amants de Casablanca | ok-kie
+À tout jamais | ok-kie
+Le Pouvoir du moment présent | ok-kie
+Samarcande | ok-kie
+Elle & lui | ok-kie
+Le Roi du silence | ok-kie
+الخادمة | ok-kie

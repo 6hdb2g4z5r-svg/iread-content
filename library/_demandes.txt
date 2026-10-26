@@ -1,2 +1,15 @@
 # Demandes de l'agent contenu → agent photos (traiter EN PREMIER, puis supprimer la ligne une fois fait)
 # Format : Titre exact du catalogue | raison | date
+Le Pouvoir des habitudes | photos existantes = édition anglaise (Power of Habit), il faut l'édition FR Clés des Champs du site | 2026-10-26
+Miracle Morning | photos existantes = éditions anglaises, il faut l'édition FR du site | 2026-10-26
+Ikigai | photos existantes = autre livre (Héctor García EN), il faut Marion Kondo FR | 2026-10-26
+L'Obstacle est le chemin | photos existantes = édition anglaise, il faut l'édition FR Alisio | 2026-10-26
+1984 | photos existantes = Penguin anglais, il faut l'édition arabe du site | 2026-10-26
+Ego Is the Enemy | photos = édition rouge, le site a l'édition bleue (buste) | 2026-10-26
+The Art of War | photos = édition rouge, le site a l'édition Cleary (statue) | 2026-10-26
+The 4-Hour Work Week | photos = autres éditions que celle du site | 2026-10-26
+How to Stop Worrying and Start Living | photos = autres éditions que celle du site | 2026-10-26
+المريضة الصامتة | jamais publié, aucune photo (thriller arabe, pack Thrillers psy) | 2026-10-26
+متلازمة فريجولي | jamais publié, aucune photo | 2026-10-26
+La Femme de ménage voit tout | jamais publié, aucune photo | 2026-10-26
+The Perfect Son | jamais publié, aucune photo | 2026-10-26

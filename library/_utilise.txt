@@ -1,2 +1,66 @@
 # Photos déjà publiées par l'agent contenu (ne pas réutiliser avant 60 jours)
 # Format : chemin relatif dans 04-Photos-Livres | date publication | id schedule.json
+photos/Twisted Love/twisted-love-aesthetic-2.jpg | 2026-11-01 | story-2026-11-01-1
+photos/Twisted Lies/twisted-lies-aesthetic-3.jpg | 2026-11-01 | post-2026-11-01-twisted-lies
+photos/Twisted Lies/twisted-lies-page-2.jpg | 2026-11-01 | post-2026-11-01-twisted-lies
+photos/Can't Hurt Me/cant-hurt-me-page-1.jpg | 2026-11-01 | story-2026-11-01-2
+photos/La psy/la-psy-kie-aesthetic-1.jpg | 2026-11-01 | post-2026-11-01-la-psy
+photos/أرني أنظر إليك/arini-anzur-ilayk-aesthetic-3.jpg | 2026-11-01 | post-2026-11-01-arini-anzur-ilayk
+photos/أرني أنظر إليك/arini-anzur-ilayk-aesthetic-2.jpg | 2026-11-01 | post-2026-11-01-arini-anzur-ilayk
+visuels-verifies/rasail-min-al-nabi-2-1.jpg | 2026-11-01 | story-2026-11-01-4
+photos/Meditations/meditations-aesthetic-1.jpg | 2026-11-01 | post-2026-11-01-meditations-marcus-aurelius
+photos/Meditations/meditations-page-3.jpg | 2026-11-01 | post-2026-11-01-meditations-marcus-aurelius
+photos/جمرة/jamra-kie-aesthetic-1.jpg | 2026-11-02 | story-2026-11-02-1
+photos/Rich Dad Poor Dad/rich-dad-aesthetic-1.jpg | 2026-11-02 | post-2026-11-02-rich-dad-poor-dad
+photos/Rich Dad Poor Dad/rich-dad-page-1.jpg | 2026-11-02 | post-2026-11-02-rich-dad-poor-dad
+photos/Shoe Dog/shoe-dog-page-1.jpg | 2026-11-02 | story-2026-11-02-2
+photos/Les amants de Casablanca/les-amants-de-casablanca-kie-aesthetic-1.jpg | 2026-11-02 | post-2026-11-02-les-amants-de-casablanca
+photos/قنديشة: اللعنة المدفونة/qandisha-kie-aesthetic-1.jpg | 2026-11-02 | post-2026-11-02-qandisha
+visuels-verifies/let-them-theory-1.jpg | 2026-11-02 | story-2026-11-02-4
+photos/وادي الذئاب المنسية/wadi-al-dhiab-aesthetic-2.jpg | 2026-11-02 | post-2026-11-02-wadi-al-dhiab
+photos/وادي الذئاب المنسية/wadi-al-dhiab-aesthetic-1.jpg | 2026-11-02 | post-2026-11-02-wadi-al-dhiab
+photos/A Promised Land/a-promised-land-aesthetic-1.jpg | 2026-11-03 | story-2026-11-03-1
+photos/The 5 AM Club/5am-club-aesthetic-1.jpg | 2026-11-03 | post-2026-11-03-the-5am-club
+photos/The 5 AM Club/5am-club-page-2.jpg | 2026-11-03 | post-2026-11-03-the-5am-club
+photos/The Summer I Turned Pretty/the-summer-i-turned-pretty-page-3.jpg | 2026-11-03 | story-2026-11-03-2
+photos/Le Pouvoir du moment présent/le-pouvoir-du-moment-present-kie-aesthetic-1.jpg | 2026-11-03 | post-2026-11-03-le-pouvoir-du-moment-present
+photos/أكتب حتى لا يأكلني الشيطان/aktub-hatta-la-yakulani-aesthetic-1.jpg | 2026-11-03 | post-2026-11-03-aktub-hatta-la-yakulani
+photos/أكتب حتى لا يأكلني الشيطان/aktub-hatta-la-yakulani-aesthetic-2.jpg | 2026-11-03 | post-2026-11-03-aktub-hatta-la-yakulani
+visuels-verifies/art-of-spending-money-1.jpg | 2026-11-03 | story-2026-11-03-4
+photos/The Summer I Turned Pretty/the-summer-i-turned-pretty-aesthetic-2.jpg | 2026-11-03 | post-2026-11-03-the-summer-i-turned-pretty
+photos/The Summer I Turned Pretty/the-summer-i-turned-pretty-page-2.jpg | 2026-11-03 | post-2026-11-03-the-summer-i-turned-pretty
+photos/ستوكهولم/stockholm-kie-aesthetic-1.jpg | 2026-11-04 | story-2026-11-04-1
+photos/The 48 Laws of Power/48-laws-aesthetic-1.jpg | 2026-11-04 | post-2026-11-04-the-48-laws-of-power
+photos/The 48 Laws of Power/48-laws-page-3.jpg | 2026-11-04 | post-2026-11-04-the-48-laws-of-power
+photos/The 5 AM Club/5am-club-page-1.jpg | 2026-11-04 | story-2026-11-04-2
+photos/À tout jamais/a-tout-jamais-kie-aesthetic-1.jpg | 2026-11-04 | post-2026-11-04-a-tout-jamais
+photos/الخادمة/al-khadima-kie-aesthetic-1.jpg | 2026-11-04 | post-2026-11-04-al-khadima
+visuels-verifies/nazariyat-al-fustuq-1.jpg | 2026-11-04 | story-2026-11-04-4
+photos/ربيع قرطبة/rabi-qurtuba-kie-aesthetic-1.jpg | 2026-11-04 | post-2026-11-04-rabi-qurtuba
+photos/It Ends with Us/it-ends-with-us-aesthetic-1.jpg | 2026-11-05 | story-2026-11-05-1
+photos/Your Fault/your-fault-aesthetic-1.jpg | 2026-11-05 | post-2026-11-05-your-fault
+photos/Your Fault/your-fault-page-1.jpg | 2026-11-05 | post-2026-11-05-your-fault
+photos/Rich Dad Poor Dad/rich-dad-page-2.jpg | 2026-11-05 | story-2026-11-05-2
+photos/Samarcande/samarcande-kie-aesthetic-1.jpg | 2026-11-05 | post-2026-11-05-samarcande
+photos/كويكول/kuikul-kie-aesthetic-1.jpg | 2026-11-05 | post-2026-11-05-kuikul
+visuels-verifies/shoe-dog-1.jpg | 2026-11-05 | story-2026-11-05-4
+photos/The Let Them Theory/let-them-theory-aesthetic-1.jpg | 2026-11-05 | post-2026-11-05-the-let-them-theory
+photos/The Let Them Theory/let-them-theory-page-1.jpg | 2026-11-05 | post-2026-11-05-the-let-them-theory
+photos/لعنة أديمون/laanat-adimun-kie-aesthetic-1.jpg | 2026-11-06 | story-2026-11-06-1
+photos/Shoe Dog/shoe-dog-aesthetic-3.jpg | 2026-11-06 | post-2026-11-06-shoe-dog
+photos/Shoe Dog/shoe-dog-page-2.jpg | 2026-11-06 | post-2026-11-06-shoe-dog
+photos/The 48 Laws of Power/48-laws-page-4.jpg | 2026-11-06 | story-2026-11-06-2
+photos/Elle & lui/elle-et-lui-kie-aesthetic-1.jpg | 2026-11-06 | post-2026-11-06-elle-et-lui
+photos/جومانا/jumana-aesthetic-1.jpg | 2026-11-06 | post-2026-11-06-jumana
+visuels-verifies/rasail-min-al-quran-1.jpg | 2026-11-06 | story-2026-11-06-4
+photos/أين المفر/ayna-al-mafar-kie-aesthetic-1.jpg | 2026-11-06 | post-2026-11-06-ayna-al-mafar
+photos/السجينة/al-sajina-kie-aesthetic-1.jpg | 2026-11-07 | story-2026-11-07-1
+photos/Twisted Games/twisted-games-aesthetic-3.jpg | 2026-11-07 | post-2026-11-07-twisted-games
+photos/Twisted Games/twisted-games-page-2.jpg | 2026-11-07 | post-2026-11-07-twisted-games
+photos/Twisted Games/twisted-games-page-1.jpg | 2026-11-07 | story-2026-11-07-2
+photos/Le Roi du silence/le-roi-du-silence-kie-aesthetic-1.jpg | 2026-11-07 | post-2026-11-07-le-roi-du-silence
+photos/الزمهرير/al-zamharir-aesthetic-2.jpg | 2026-11-07 | post-2026-11-07-al-zamharir
+photos/الزمهرير/al-zamharir-aesthetic-1.jpg | 2026-11-07 | post-2026-11-07-al-zamharir
+visuels-verifies/5am-club-1.jpg | 2026-11-07 | story-2026-11-07-4
+photos/Start With Why/start-with-why-aesthetic-3.jpg | 2026-11-07 | post-2026-11-07-start-with-why
+photos/Start With Why/start-with-why-aesthetic-1.jpg | 2026-11-07 | post-2026-11-07-start-with-why
