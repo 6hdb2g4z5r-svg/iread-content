@@ -1,6 +1,6 @@
 """iRead — stories « À la une » (highlights) : 1 slide-couverture (icône centrée) + slides d'infos par thème.
 Usage : python3 -B highlights.py  →  ../highlights/<theme>-<n>.jpg
-Règles : pas de prix, jamais WhatsApp, jamais « authentiques », chiffres occidentaux.
+Règles : pas de prix, WhatsApp seulement dans le CTA, jamais « authentiques », chiffres occidentaux.
 """
 import os, math
 from PIL import Image, ImageDraw
