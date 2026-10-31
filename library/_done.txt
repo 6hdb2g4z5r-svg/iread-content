@@ -1,6 +1,6 @@
 # Titre | statut (ok/partiel/skip) — tenu par l'agent photos
 101 Essays That Will Change the Way You Think | ok
-1984 | skip
+1984 | ok-kie
 Atomic Habits | ok
 Can't Hurt Me | ok
 Deep Work | ok
@@ -12,16 +12,16 @@ Good Vibes, Good Life | ok
 Healing Is the New High | ok
 How to Stop Worrying and Start Living | ok
 How to Talk to Anyone | ok
-Ikigai | skip
+Ikigai | ok-kie
 It Starts with Us | ok
 La Chute | ok
 La Peste | ok
 Meditations | ok
-Miracle Morning | skip
+Miracle Morning | ok-kie
 November 9 | ok
 Rich Dad Poor Dad | ok
 Shoe Dog | ok
-The 4-Hour Work Week | ok
+The 4-Hour Work Week | ok-kie
 The 48 Laws of Power | ok
 The 5 AM Club | ok
 The Art of War | ok
@@ -40,7 +40,7 @@ Emotional Intelligence | partiel
 The Lean Startup | partiel
 Layla | partiel
 A Promised Land | partiel
-Le Pouvoir des habitudes | skip
+Le Pouvoir des habitudes | ok-kie
 Je reviens te chercher | skip
 Le Monde de Sophie | partiel
 Chanson douce | partiel
@@ -93,3 +93,25 @@ Samarcande | ok-kie
 Elle & lui | ok-kie
 Le Roi du silence | ok-kie
 الخادمة | ok-kie
+L'Obstacle est le chemin | ok-kie
+المريضة الصامتة | ok-kie
+متلازمة فريجولي | partiel
+La Femme de ménage voit tout | ok-kie
+The Perfect Son | partiel
+ياسمين أبيض | ok-kie
+ياسمين العودة | ok-kie
+Le Défi | ok-kie
+نظرية التغافل | ok-kie
+أنوثة طاغية | ok-kie
+الأيام التي ستأتي | partiel
+Plus rien ne pourra me blesser | partiel
+La psychologie de l'argent | partiel
+Mindset | partiel
+Never Lie | partiel
+The Kite Runner | ok
+The Stranger | ok
+Throne of Glass | ok-kie
+The Deal | partiel
+Yellowface | skip
+No Longer Human | ok
+Men Are from Mars, Women Are from Venus | partiel
