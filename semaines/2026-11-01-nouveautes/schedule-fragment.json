@@ -1,0 +1,110 @@
+[
+ {
+  "id": "story-2026-11-02-6",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-02-6.jpg"
+  ],
+  "publish_at": "2026-11-02T20:00:00+00:00",
+  "title": "Nouveauté · أكتب حتى لا أصاب بالجنون"
+ },
+ {
+  "id": "story-2026-11-02-7",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-02-7.jpg"
+  ],
+  "publish_at": "2026-11-02T22:30:00+00:00",
+  "title": "Nouveauté · Pack · Le café du temps"
+ },
+ {
+  "id": "story-2026-11-03-6",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-03-6.jpg"
+  ],
+  "publish_at": "2026-11-03T20:00:00+00:00",
+  "title": "Nouveauté · It Happened One Summer"
+ },
+ {
+  "id": "story-2026-11-03-7",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-03-7.jpg"
+  ],
+  "publish_at": "2026-11-03T22:30:00+00:00",
+  "title": "Nouveauté · Pack · YA Mystery"
+ },
+ {
+  "id": "story-2026-11-04-6",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-04-6.jpg"
+  ],
+  "publish_at": "2026-11-04T20:00:00+00:00",
+  "title": "Nouveauté · أكتب حتى لا أنكسر"
+ },
+ {
+  "id": "story-2026-11-04-7",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-04-7.jpg"
+  ],
+  "publish_at": "2026-11-04T22:30:00+00:00",
+  "title": "Nouveauté · Pack · Heartbreak Club"
+ },
+ {
+  "id": "story-2026-11-05-6",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-05-6.jpg"
+  ],
+  "publish_at": "2026-11-05T20:00:00+00:00",
+  "title": "Nouveauté · 10 Minutes 38 Seconds in This Strange World"
+ },
+ {
+  "id": "story-2026-11-05-7",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-05-7.jpg"
+  ],
+  "publish_at": "2026-11-05T22:30:00+00:00",
+  "title": "Nouveauté · Pack · Surrounded by…"
+ },
+ {
+  "id": "story-2026-11-06-6",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-06-6.jpg"
+  ],
+  "publish_at": "2026-11-06T20:00:00+00:00",
+  "title": "Nouveauté · Before Your Memory Fades"
+ },
+ {
+  "id": "story-2026-11-06-7",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-06-7.jpg"
+  ],
+  "publish_at": "2026-11-06T22:30:00+00:00",
+  "title": "Nouveauté · Pack · Elif Shafak"
+ },
+ {
+  "id": "story-2026-11-07-6",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-07-6.jpg"
+  ],
+  "publish_at": "2026-11-07T20:00:00+00:00",
+  "title": "Nouveauté · One Dark Window"
+ },
+ {
+  "id": "story-2026-11-07-7",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-07-7.jpg"
+  ],
+  "publish_at": "2026-11-07T22:30:00+00:00",
+  "title": "Nouveauté · Pack · Dostoevsky"
+ }
+]

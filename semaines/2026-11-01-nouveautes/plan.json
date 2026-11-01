@@ -1,0 +1,218 @@
+[
+ {
+  "id": "story-2026-11-02-6",
+  "kind": "story",
+  "publish_at": "2026-11-02T20:00:00+00:00",
+  "title": "Nouveauté · أكتب حتى لا أصاب بالجنون",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/أكتب حتى لا أصاب بالجنون - الجزء الثاني/aktub-hatta-la-2-aesthetic-2.jpg",
+     "title": "أكتب حتى لا أصاب بالجنون",
+     "kicker": "جديد على iread.ma",
+     "cta": "iread.ma",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-02-7",
+  "kind": "story",
+  "publish_at": "2026-11-02T22:30:00+00:00",
+  "title": "Nouveauté · Pack · Le café du temps",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/PACK Le café du temps/before-the-coffee-gets-cold-kie-pack-1.jpg",
+     "title": "Pack Le café du temps",
+     "kicker": "New pack",
+     "cta": "Discounted price on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-03-6",
+  "kind": "story",
+  "publish_at": "2026-11-03T20:00:00+00:00",
+  "title": "Nouveauté · It Happened One Summer",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/It Happened One Summer/it-happened-one-summer-aesthetic-1.jpg",
+     "title": "It Happened One Summer",
+     "kicker": "New on iread.ma",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-03-7",
+  "kind": "story",
+  "publish_at": "2026-11-03T22:30:00+00:00",
+  "title": "Nouveauté · Pack · YA Mystery",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/PACK YA Mystery/ya-mystery-kie-pack-1.jpg",
+     "title": "Pack YA Mystery",
+     "kicker": "New pack",
+     "cta": "Discounted price on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-04-6",
+  "kind": "story",
+  "publish_at": "2026-11-04T20:00:00+00:00",
+  "title": "Nouveauté · أكتب حتى لا أنكسر",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/أكتب حتى لا أنكسر - الجزء الثالث/aktub-hatta-la-3-aesthetic-2.jpg",
+     "title": "أكتب حتى لا أنكسر",
+     "kicker": "جديد على iread.ma",
+     "cta": "iread.ma",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-04-7",
+  "kind": "story",
+  "publish_at": "2026-11-04T22:30:00+00:00",
+  "title": "Nouveauté · Pack · Heartbreak Club",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/PACK Heartbreak Club/heartbreak-club-kie-pack-1.jpg",
+     "title": "Pack Heartbreak Club",
+     "kicker": "New pack",
+     "cta": "Discounted price on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-05-6",
+  "kind": "story",
+  "publish_at": "2026-11-05T20:00:00+00:00",
+  "title": "Nouveauté · 10 Minutes 38 Seconds in This Strange World",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/10 Minutes 38 Seconds in This Strange World/10-minutes-38-seconds-aesthetic-4.jpg",
+     "title": "10 Minutes 38 Seconds in This Strange World",
+     "kicker": "New on iread.ma",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-05-7",
+  "kind": "story",
+  "publish_at": "2026-11-05T22:30:00+00:00",
+  "title": "Nouveauté · Pack · Surrounded by…",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/PACK Surrounded by/surrounded-by-kie-pack-1.jpg",
+     "title": "Pack Surrounded by…",
+     "kicker": "New pack",
+     "cta": "Discounted price on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-06-6",
+  "kind": "story",
+  "publish_at": "2026-11-06T20:00:00+00:00",
+  "title": "Nouveauté · Before Your Memory Fades",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/Before Your Memory Fades/before-your-memory-fades-aesthetic-4.jpg",
+     "title": "Before Your Memory Fades",
+     "kicker": "New on iread.ma",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-06-7",
+  "kind": "story",
+  "publish_at": "2026-11-06T22:30:00+00:00",
+  "title": "Nouveauté · Pack · Elif Shafak",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/PACK Elif Shafak/elif-shafak-en-kie-pack-1.jpg",
+     "title": "Pack Elif Shafak",
+     "kicker": "New pack",
+     "cta": "Discounted price on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-07-6",
+  "kind": "story",
+  "publish_at": "2026-11-07T20:00:00+00:00",
+  "title": "Nouveauté · One Dark Window",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/One Dark Window/one-dark-window-aesthetic-1.jpg",
+     "title": "One Dark Window",
+     "kicker": "New on iread.ma",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-07-7",
+  "kind": "story",
+  "publish_at": "2026-11-07T22:30:00+00:00",
+  "title": "Nouveauté · Pack · Dostoevsky",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/PACK Dostoevsky/dostoevsky-en-kie-pack-1.jpg",
+     "title": "Pack Dostoevsky",
+     "kicker": "New pack",
+     "cta": "Discounted price on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ }
+]
