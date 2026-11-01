@@ -4,6 +4,7 @@
     python3 -B photos.py cand <slug>                            # télécharge, OCR, 2 planches numérotées
     python3 -B photos.py pick <slug> "<Dossier = titre exact du catalogue>" --aes 3 7 12 --pages 0 4 9
     python3 -B photos.py kie <slug> "<Dossier>" [--inspi N] [--scene "..."]   # PLAN B livre rare : 1 photo générée
+    python3 -B photos.py kiepack <pack-slug> "PACK <titre>" "slug1,slug2" "<décor>"   # PACK : photo des livres réunis
 
 Travail dans /tmp/iread-photos/<slug>/ : planche_aes.jpg et planche_pages.jpg (à REGARDER avec Read avant de choisir).
 Les numéros en jaune = candidats ; un cadre ROUGE = texte de type pseudo/site/filigrane détecté par OCR (à écarter sauf
@@ -206,6 +207,53 @@ def kie(slug, folder, inspi=None, scene=None, ratio="4:5"):
           "(1 seule nouvelle tentative autorisée).")
 
 
+KIE_PACK_PROMPT = (
+    "Photorealistic lifestyle 'bookstagram' photo for a bookshop's Instagram, showing a BUNDLE of {n} books together. "
+    "The books in the picture must be EXACTLY the {n} books shown in the reference images, one copy of each and no other "
+    "book: reproduce each front cover faithfully — identical title text, author name, colours, illustration, typography, "
+    "layout and language (do not translate, rewrite, restyle or invent any text on the covers). "
+    "Scene: {scene}. The books are arranged together (slightly fanned or overlapping, or a small stack with covers "
+    "facing up) so that EVERY front cover is fully visible, sharp and readable, together occupying about 55% of the "
+    "frame. Soft warm natural light, cozy elegant atmosphere, shallow depth of field, realistic paper texture and "
+    "shadows. No text overlay, no logo, no watermark, no extra readable book titles, no people's faces, no distorted hands."
+)
+
+
+def kie_pack(pack_slug, folder, slugs, scene, ratio="4:5"):
+    """PACK : 1 génération avec la couverture de chaque livre du pack (références 1..n). Range dans library/photos/<folder>/."""
+    import time, requests
+    credits = _kie_req("GET", "/api/v1/chat/credit").get("data")
+    print("crédits KIE avant :", credits)
+    if credits is not None and credits < 500:
+        raise SystemExit("Moins de 500 crédits KIE : on n'en dépense pas, signaler à Amine.")
+    refs = []
+    for s in slugs:
+        cover = os.path.join(REPO, "library", "couvertures", f"{s}.jpg")
+        if not os.path.exists(cover):
+            open(cover, "wb").write(urllib.request.urlopen(urllib.request.Request(
+                f"https://iread.ma/media/covers/{s}.jpg", headers={"User-Agent": UA}), timeout=30).read())
+        refs.append(_kie_upload(cover))
+    prompt = KIE_PACK_PROMPT.format(n=len(slugs), scene=scene)
+    r = _kie_req("POST", "/api/v1/jobs/createTask", json={"model": "nano-banana-pro", "input": {
+        "prompt": prompt, "image_input": refs, "aspect_ratio": ratio, "resolution": "2K", "output_format": "jpg"}})
+    if r.get("code") != 200:
+        raise SystemExit(f"KIE createTask : {r}")
+    tid, t0, wait = r["data"]["taskId"], time.time(), 4
+    while True:
+        d = _kie_req("GET", "/api/v1/jobs/recordInfo", params={"taskId": tid})["data"]
+        if d["state"] == "success":
+            break
+        if d["state"] == "fail" or time.time() - t0 > 600:
+            raise SystemExit(f"KIE échec : {d.get('failMsg')}")
+        time.sleep(wait); wait = min(wait * 1.5, 15)
+    url = json.loads(d["resultJson"])["resultUrls"][0]
+    dest = os.path.join(LIB, folder); os.makedirs(dest, exist_ok=True)
+    n = len([x for x in os.listdir(dest) if "-kie-" in x]) + 1
+    out = os.path.join(dest, f"{pack_slug}-kie-pack-{n}.jpg")
+    Image.open(io.BytesIO(requests.get(url, timeout=120).content)).convert("RGB").save(out, quality=92)
+    print("généré :", out, "| crédits restants :", _kie_req("GET", "/api/v1/chat/credit").get("data"))
+
+
 if __name__ == "__main__":
     a = sys.argv[1:]
     if a[0] == "search":
@@ -223,3 +271,5 @@ if __name__ == "__main__":
     elif a[0] == "kie":
         opt = {k: a[a.index(k) + 1] for k in ("--inspi", "--scene", "--ratio") if k in a}
         kie(a[1], a[2], opt.get("--inspi"), opt.get("--scene"), opt.get("--ratio", "4:5"))
+    elif a[0] == "kiepack":  # kiepack <pack-slug> "<Dossier>" "slug1,slug2,..." "<décor>"
+        kie_pack(a[1], a[2], a[3].split(","), a[4])

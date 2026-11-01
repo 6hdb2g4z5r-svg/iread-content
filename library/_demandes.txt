@@ -1,2 +1,11 @@
 # Demandes de l'agent contenu → agent photos (traiter EN PREMIER, puis supprimer la ligne une fois fait)
 # Format : Titre exact du catalogue | raison | date
+Emotional Intelligence | photos d'ambiance de l'édition du site (couverture blanche, cœur rouge) : les 4 photos étaient d'autres éditions | 2026-11-01
+Deep Work | édition FRANÇAISE du site (Alisio, bleue) : toutes les photos étaient l'édition anglaise | 2026-11-01
+La Peste | vraies pages surlignées de l'édition française (les pages étaient en italien, espagnol, anglais ou carte InstaQuote) | 2026-11-01
+Chanson douce | vraie page surlignée (la page était d'un autre livre, Morgane Moncomble) | 2026-11-01
+أنتيخريستوس II | photo d'ambiance du tome II seul (la seule photo montre aussi le tome I, absent du site) | 2026-11-01
+انتريستا 2: إيقاع النار | photo d'ambiance du tome 2 seul (la seule photo montre aussi le tome 1, absent du site) | 2026-11-01
+Plus rien ne pourra me blesser | photo d'ambiance de l'édition du site (bandeau « 4 millions ») | 2026-11-01
+Le Prince | photo d'ambiance de l'édition Pocket du site (aucune) | 2026-11-01
+No Longer Human | vraie page surlignée imprimée (les pages actuelles sont des captures ebook ou un passage sensible) | 2026-11-01
