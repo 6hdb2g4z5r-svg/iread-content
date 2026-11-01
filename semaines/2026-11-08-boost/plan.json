@@ -1,0 +1,469 @@
+[
+ {
+  "id": "story-2026-11-08-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-08T12:00:00+00:00",
+  "title": "Pack · Throne of Glass – Tomes 1 à 4",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Throne of Glass 1-4/throne-of-glass-1-4-kie-pack-1.jpg",
+     "title": "Throne of Glass – Tomes 1 à 4",
+     "books": [
+      "Throne of Glass",
+      "Crown of Midnight",
+      "The Assassin's Blade",
+      "Heir of Fire"
+     ],
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-08-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-08T12:00:00+00:00",
+  "title": "Pack · Blue Lock",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/blue-lock-1.jpg",
+      "couvertures/blue-lock-2.jpg",
+      "couvertures/blue-lock-3.jpg",
+      "couvertures/blue-lock-4.jpg"
+     ],
+     "title": "Blue Lock",
+     "sub": "Les tomes 1 à 6 du manga foot",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-08-new",
+  "kind": "story",
+  "publish_at": "2026-11-08T12:00:00+00:00",
+  "title": "Nouveauté · Before Your Memory Fades",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/Before Your Memory Fades/before-your-memory-fades-aesthetic-2.jpg",
+     "title": "Before Your Memory Fades",
+     "kicker": "New in",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-09-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-09T12:00:00+00:00",
+  "title": "Pack · Money Mindset",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Money Mindset/money-kie-pack-1.jpg",
+     "title": "Money Mindset",
+     "books": [
+      "Rich Dad Poor Dad",
+      "The Soul of Money",
+      "The Art of Spending Money"
+     ],
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-09-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-09T12:00:00+00:00",
+  "title": "Pack · على خطى النبي ﷺ",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/ala-minhaj-al-nubuwwa.jpg",
+      "couvertures/al-salam-alayka-ya-sahibi.jpg",
+      "couvertures/indama-iltaqaytu-umar.jpg",
+      "couvertures/madrasat-muhammad.jpg"
+     ],
+     "title": "على خطى النبي ﷺ",
+     "sub": "أدهم شرقاوي وجهاد الترباني",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-09-new",
+  "kind": "story",
+  "publish_at": "2026-11-09T12:00:00+00:00",
+  "title": "Nouveauté · One Dark Window",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/One Dark Window/one-dark-window-aesthetic-2.jpg",
+     "title": "One Dark Window",
+     "kicker": "New in",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-10-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-10T12:00:00+00:00",
+  "title": "Pack · Albert Camus",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Albert Camus/camus-kie-pack-1.jpg",
+     "title": "Albert Camus",
+     "books": [
+      "La Chute",
+      "La Peste",
+      "La Mort heureuse"
+     ],
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-10-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-10T12:00:00+00:00",
+  "title": "Pack · دوستويفسكي",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/al-layali-al-bayda.jpg",
+      "couvertures/muzallun-muhanun.jpg",
+      "couvertures/al-murahiq.jpg",
+      "couvertures/al-ablah.jpg"
+     ],
+     "title": "دوستويفسكي",
+     "sub": "أربع روايات للمعلم الروسي",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-10-new",
+  "kind": "story",
+  "publish_at": "2026-11-10T12:00:00+00:00",
+  "title": "Nouveauté · 10 Minutes 38 Seconds",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/10 Minutes 38 Seconds in This Strange World/10-minutes-38-seconds-aesthetic-4.jpg",
+     "title": "10 Minutes 38 Seconds",
+     "kicker": "New in",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-11-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-11T12:00:00+00:00",
+  "title": "Pack · سلسلة الطين والنار",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK سلسلة الطين والنار/tin-wa-nar-ar-kie-pack-1.jpg",
+     "title": "سلسلة الطين والنار",
+     "books": [
+      "جومانا",
+      "أبابيل",
+      "الجساسة",
+      "الزمهرير",
+      "السجيل"
+     ],
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-11-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-11T12:00:00+00:00",
+  "title": "Pack · Romantasy",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/fearless-lauren-roberts.jpg",
+      "couvertures/every-spiral-of-fate.jpg",
+      "couvertures/the-wicked-king.jpg",
+      "couvertures/tress-of-the-emerald-sea.jpg"
+     ],
+     "title": "Romantasy",
+     "sub": "Kingdoms, magic and impossible love",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-11-new",
+  "kind": "story",
+  "publish_at": "2026-11-11T12:00:00+00:00",
+  "title": "Nouveauté · King of Pride",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/King of Pride/king-of-pride-aesthetic-2.jpg",
+     "title": "King of Pride",
+     "kicker": "New in",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-12-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-12T12:00:00+00:00",
+  "title": "Pack · Twisted",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Twisted/twisted-kie-pack-1.jpg",
+     "title": "Twisted",
+     "books": [
+      "Twisted Love",
+      "Twisted Games",
+      "Twisted Hate",
+      "Twisted Lies"
+     ],
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-12-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-12T12:00:00+00:00",
+  "title": "Pack · Marc Levy",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/elle-et-lui.jpg",
+      "couvertures/si-c-etait-a-refaire.jpg",
+      "couvertures/l-etrange-voyage-de-monsieur-daldry.jpg",
+      "couvertures/marc-levy-9.jpg"
+     ],
+     "title": "Marc Levy",
+     "sub": "4 romans entre amour, voyage et suspense",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-12-new",
+  "kind": "story",
+  "publish_at": "2026-11-12T12:00:00+00:00",
+  "title": "Nouveauté · أكتب حتى لا أنكسر",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/أكتب حتى لا أنكسر - الجزء الثالث/aktub-hatta-la-3-aesthetic-2.jpg",
+     "title": "أكتب حتى لا أنكسر",
+     "kicker": "جديد",
+     "cta": "متوفر على iread.ma",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-13-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-13T12:00:00+00:00",
+  "title": "Pack · Nuits blanches garanties",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Nuits blanches garanties/nuits-blanches-kie-pack-1.jpg",
+     "title": "Nuits blanches garanties",
+     "books": [
+      "Le Roi du silence",
+      "L'Enfant aux cailloux",
+      "La Voisine sans histoire"
+     ],
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-13-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-13T12:00:00+00:00",
+  "title": "Pack · كلاسيكيات عالمية",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/1984-ar.jpg",
+      "couvertures/mazraat-al-hayawan.jpg",
+      "couvertures/al-umm-gorky.jpg",
+      "couvertures/l-alchimiste-ar.jpg"
+     ],
+     "title": "كلاسيكيات عالمية",
+     "sub": "أورويل وغوركي وكويلو",
+     "dark": false,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-13-new",
+  "kind": "story",
+  "publish_at": "2026-11-13T12:00:00+00:00",
+  "title": "Nouveauté · Before Your Memory Fades",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/Before Your Memory Fades/before-your-memory-fades-aesthetic-3.jpg",
+     "title": "Before Your Memory Fades",
+     "kicker": "New in",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-14-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "Pack · Le café du temps",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Le café du temps/before-the-coffee-gets-cold-kie-pack-2.jpg",
+     "title": "Le café du temps",
+     "books": [
+      "Tales from the Cafe",
+      "Before Your Memory Fades",
+      "Before We Say Goodbye",
+      "Before We Forget Kindness"
+     ],
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-14-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "Pack · اعتنِ بنفسك",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/taafayt.jpg",
+      "couvertures/al-wahsh.jpg",
+      "couvertures/kitab-al-raha.jpg",
+      "couvertures/mulahazat-kawkab-mutawattir.jpg"
+     ],
+     "title": "اعتنِ بنفسك",
+     "sub": "التعافي وتهدئة القلق والتصالح مع الذات",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-14-new",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "Nouveauté · It Happened One Summer",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/It Happened One Summer/it-happened-one-summer-aesthetic-4.jpg",
+     "title": "It Happened One Summer",
+     "kicker": "New in",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ }
+]

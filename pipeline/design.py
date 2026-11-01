@@ -315,6 +315,24 @@ def story_pack(cover_paths, title, sub, out, dark=True, kicker="Pack", lang="fr"
     return save(img, out)
 
 
+def story_pack_photo(photo_path, title, books, out, kicker="Pack", lang="fr", cta="Commande en DM ou sur iread.ma", n_label=None):
+    """Pack : photo d'ambiance du pack (KIE) en grand + liste des titres + avantages. Style « magazine »."""
+    ph = load(photo_path)
+    img = Image.new("RGB", (SW, SH), NAVY)
+    card = cover_crop(ph, 960, 1160)
+    shadow_paste(img, card, (60, 200), radius=30, alpha=140)
+    d = ImageDraw.Draw(img)
+    pill(img, SW // 2, 120, kicker, bg=GOLD, fg=NAVY, size=28)
+    y = draw_block(d, SW // 2, 1400, title, "serif", 70, 600, WHITE, 960, max_lines=2)
+    lab = n_label or ({"fr": f"{len(books)} livres", "en": f"{len(books)} books", "ar": f"{len(books)} كتب"}.get(lang, ""))
+    line = " · ".join(books) if len(" · ".join(books)) < 90 else lab
+    y = draw_block(d, SW // 2, y + 4, line, "sans", 28, 400, (205, 210, 222), 960, max_lines=2)
+    pl = pack_line(lang)
+    draw_center(d, SW // 2, max(y + 24, 1650), pl, tfont(pl, "sans", 27, 600), GOLD)
+    pill(img, SW // 2, 1760, cta, bg=GOLD, fg=NAVY)
+    return save(img, out)
+
+
 # ───────────────────────────── POSTS 1080x1350 ─────────────────────────────
 
 def post_photo(photo_path, out, cy=0.5):

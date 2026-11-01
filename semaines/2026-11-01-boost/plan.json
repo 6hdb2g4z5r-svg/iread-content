@@ -1,0 +1,766 @@
+[
+ {
+  "id": "story-2026-11-01-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-01T12:00:00+00:00",
+  "title": "Pack · The Shepherd King",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK The Shepherd King/shepherd-king-kie-pack-1.jpg",
+     "title": "The Shepherd King",
+     "books": [
+      "One Dark Window",
+      "Two Twisted Crowns"
+     ],
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-01-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-01T12:00:00+00:00",
+  "title": "Pack · Musso Addict",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/un-appartement-a-paris.jpg",
+      "couvertures/sept-ans-apres.jpg",
+      "couvertures/la-fille-de-papier.jpg",
+      "couvertures/je-reviens-te-chercher.jpg"
+     ],
+     "title": "Musso Addict",
+     "sub": "6 romans de Guillaume Musso",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-01-new",
+  "kind": "story",
+  "publish_at": "2026-11-01T12:00:00+00:00",
+  "title": "Nouveauté · King of Pride",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/King of Pride/king-of-pride-aesthetic-1.jpg",
+     "title": "King of Pride",
+     "kicker": "New in",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-01-pack-before-the-coffee-gets-cold",
+  "kind": "post",
+  "publish_at": "2026-11-01T12:00:00+00:00",
+  "title": "Pack · Le café du temps",
+  "caption": "☕ NEW PACK · Le café du temps\n\nTales from the Cafe · Before Your Memory Fades · Before We Say Goodbye · Before We Forget Kindness\n\nIn a tiny café in Tokyo, you can travel back in time… but only until your coffee gets cold. Four gentle, heart-warming books about the people we love and the words we never said. Perfect for slow evenings with a warm drink 🤍\n\n📚 The 4 books together at a discounted pack price\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #BeforeTheCoffeeGetsCold #ToshikazuKawaguchi #CozyReads #BooksMorocco #Bookstagram #BookTok\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Le café du temps/before-the-coffee-gets-cold-kie-pack-2.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-02-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-02T12:00:00+00:00",
+  "title": "Pack · Nuits blanches garanties",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Nuits blanches garanties/nuits-blanches-kie-pack-1.jpg",
+     "title": "Nuits blanches garanties",
+     "books": [
+      "Le Roi du silence",
+      "L'Enfant aux cailloux",
+      "La Voisine sans histoire"
+     ],
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-02-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-02T12:00:00+00:00",
+  "title": "Pack · المال والثراء",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/al-ab-al-ghani.jpg",
+      "couvertures/saykolojiyat-al-mal.jpg",
+      "couvertures/aghna-rajul-fi-babil.jpg",
+      "couvertures/fakkir-tusbih-ghaniyyan.jpg"
+     ],
+     "title": "المال والثراء",
+     "sub": "الأب الغني والأب الفقير · سيكولوجية المال · أغنى رجل في بابل · فكر تصبح غنيًا",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-02-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-02T12:00:00+00:00",
+  "title": "Pack · Main Character Energy",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/the-let-them-theory.jpg",
+      "couvertures/good-vibes-good-life.jpg",
+      "couvertures/healing-is-the-new-high.jpg",
+      "couvertures/101-essays.jpg"
+     ],
+     "title": "Main Character Energy",
+     "sub": "Self-love, calm and confidence in 4 books",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-02-pack-aktub-ar",
+  "kind": "post",
+  "publish_at": "2026-11-02T12:00:00+00:00",
+  "title": "Pack · سلسلة الكتابة للشيطان",
+  "caption": "🔥 باقة جديدة · سلسلة الكتابة للشيطان\n\nأكتب حتى لا يأكلني الشيطان · أكتب حتى لا أصاب بالجنون · أكتب حتى لا أنكسر\n\n«للبقاء على قيد الحياة يجب أن تكتبي القصص!» ثلاثية الرعب لمريم الحيسي كاملة، حيث تصبح الكتابة طوق النجاة الوحيد… وأخطر شيء في الوجود. هل تجرؤ على قراءتها ليلًا؟ 🖤\n\n📚 الأجزاء الثلاثة معًا بثمن مخفض\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #مريم_الحيسي #روايات_رعب #كتب_عربية #كتب_المغرب #قراءة #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK سلسلة الكتابة للشيطان/aktub-ar-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-02-new-our-fault",
+  "kind": "carousel",
+  "publish_at": "2026-11-02T12:00:00+00:00",
+  "title": "Our Fault",
+  "caption": "🌊 NEW IN · Our Fault – Mercedes Ron\n\nHow did I fall? Easy. He turned my world upside down.\n\nThe grand finale of the Culpables saga: Noah and Nick, more in love and more broken than ever. Secrets, jealousy and a final decision that changes everything 💙\n\n📚 Also in our Culpables pack (Your Fault + Our Fault, discounted price)\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #OurFault #MercedesRon #Culpables #BookTok #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Our Fault/our-fault-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Our Fault/our-fault-aesthetic-4.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-03-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-03T12:00:00+00:00",
+  "title": "Pack · روبرت غرين",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Robert Greene AR/robert-greene-ar-kie-pack-1.jpg",
+     "title": "روبرت غرين",
+     "books": [
+      "قواعد السطوة",
+      "قوانين الطبيعة البشرية",
+      "الإتقان",
+      "33 استراتيجية للحرب"
+     ],
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-03-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-03T12:00:00+00:00",
+  "title": "Pack · Power Moves",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/the-48-laws-of-power.jpg",
+      "couvertures/the-psychology-of-selling.jpg",
+      "couvertures/shoe-dog.jpg"
+     ],
+     "title": "Power Moves",
+     "sub": "Power, selling and ambition",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-03-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-03T12:00:00+00:00",
+  "title": "Pack · Racines marocaines",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/le-passe-simple.jpg",
+      "couvertures/la-nuit-sacree.jpg",
+      "couvertures/le-dernier-ami.jpg",
+      "couvertures/la-prisonniere-oufkir.jpg"
+     ],
+     "title": "Racines marocaines",
+     "sub": "Chraïbi, Ben Jelloun et Malika Oufkir",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-03-pack-femme-de-menage",
+  "kind": "post",
+  "publish_at": "2026-11-03T12:00:00+00:00",
+  "title": "Pack · La Femme de ménage",
+  "caption": "🔑 PACK · La Femme de ménage\n\nLa Femme de ménage · Les Secrets de la femme de ménage · La Femme de ménage voit tout\n\nMillie connaît tous les secrets des maisons où elle travaille… et certains auraient mieux fait de rester cachés. La trilogie de Freida McFadden, celle qu'on ne lâche plus avant 3 h du matin 😳\n\n📚 Les 3 tomes réunis, à prix réduit en pack\n🚚 Livraison gratuite dès 3 livres · Paiement à la livraison\n\n#iRead #ireadma #LaFemmeDeMenage #FreidaMcFadden #Thriller #LivreMaroc #Bookstagram #BookTokFrance\n\n👉 Commandez dès maintenant via DM, WhatsApp ou sur www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK La Femme de ménage/femme-de-menage-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-03-new-10-minutes-38-seconds",
+  "kind": "carousel",
+  "publish_at": "2026-11-03T12:00:00+00:00",
+  "title": "10 Minutes 38 Seconds in This Strange World",
+  "caption": "🌿 NEW IN · 10 Minutes 38 Seconds in This Strange World – Elif Shafak\n\nIn the last minutes of her life, Leila remembers: a taste, a smell, a song… and the five friends who never let her go.\n\nA vibrant, moving novel about friendship and Istanbul, by the author of The Forty Rules of Love 🤍\n\n📚 Also in our Elif Shafak pack (with The Forty Rules of Love, discounted price)\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #ElifShafak #10Minutes38Seconds #LiteraryFiction #BooksMorocco #Bookstagram #BookTok\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/10 Minutes 38 Seconds in This Strange World/10-minutes-38-seconds-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/10 Minutes 38 Seconds in This Strange World/10-minutes-38-seconds-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-04-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-04T12:00:00+00:00",
+  "title": "Pack · Into Darkness",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Into Darkness/into-darkness-kie-pack-1.jpg",
+     "title": "Into Darkness",
+     "books": [
+      "Lights Out",
+      "Game On"
+     ],
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-04-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-04T12:00:00+00:00",
+  "title": "Pack · Penseurs éternels",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/candide.jpg",
+      "couvertures/le-prince.jpg",
+      "couvertures/l-art-de-la-guerre.jpg"
+     ],
+     "title": "Penseurs éternels",
+     "sub": "Voltaire, Machiavel et Sun Tzu",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-04-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-04T12:00:00+00:00",
+  "title": "Pack · سلسلة رسائل",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/rasail-min-al-nabi.jpg",
+      "couvertures/rasail-min-al-quran.jpg",
+      "couvertures/rasail-min-al-sahaba.jpg",
+      "couvertures/rasail-min-al-tabiin.jpg"
+     ],
+     "title": "سلسلة رسائل",
+     "sub": "رسائل من النبي ﷺ والقرآن والصحابة والتابعين",
+     "dark": false,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-04-pack-heartbreak-club",
+  "kind": "post",
+  "publish_at": "2026-11-04T12:00:00+00:00",
+  "title": "Pack · Heartbreak Club",
+  "caption": "💔 NEW PACK · Heartbreak Club\n\nIf Only I Had Told Her · The Way I Used to Be · A Hue of Blu\n\nThree stories that break your heart… and slowly put it back together. First love, grief, the words left unsaid and the courage to heal. Keep the tissues close 🥲\n\n📚 The 3 books together at a discounted pack price\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #IfOnlyIHadToldHer #LauraNowlin #AmberSmith #SadBooks #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Heartbreak Club/heartbreak-club-kie-pack-2.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-04-new-one-dark-window",
+  "kind": "carousel",
+  "publish_at": "2026-11-04T12:00:00+00:00",
+  "title": "One Dark Window",
+  "caption": "🌫️ NEW IN · One Dark Window – Rachel Gillig\n\nA girl with a monster in her head. A cursed forest. A highwayman with secrets. Twelve magic cards to find before it's too late.\n\nGothic, dark and romantic: swipe for the passage that made us melt 👉\n\n📚 Also in our Shepherd King pack (with Two Twisted Crowns, discounted price)\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #OneDarkWindow #RachelGillig #Romantasy #GothicFantasy #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/One Dark Window/one-dark-window-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/One Dark Window/one-dark-window-page-2.jpg",
+     "box": [
+      0.0,
+      0.225,
+      1.0,
+      0.476
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-05-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-05T12:00:00+00:00",
+  "title": "Pack · Culpables",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Culpables/culpable-kie-pack-1.jpg",
+     "title": "Culpables",
+     "books": [
+      "Your Fault",
+      "Our Fault"
+     ],
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-05-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-05T12:00:00+00:00",
+  "title": "Pack · Mental de champion",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/plus-rien-ne-pourra-me-blesser.jpg",
+      "couvertures/la-psychologie-de-l-argent.jpg",
+      "couvertures/365-lois.jpg"
+     ],
+     "title": "Mental de champion",
+     "sub": "Goggins, Housel et Robert Greene",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-05-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-05T12:00:00+00:00",
+  "title": "Pack · ثلاثية مملكة الأشرار",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/mamlakat-al-ashrar.jpg",
+      "couvertures/mamlakat-al-malunin.jpg",
+      "couvertures/mamlakat-al-murabin.jpg"
+     ],
+     "title": "ثلاثية مملكة الأشرار",
+     "sub": "الثلاثية كاملة لكيري مانيسكالكو",
+     "dark": false,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-05-pack-tin-wa-nar-ar",
+  "kind": "post",
+  "publish_at": "2026-11-05T12:00:00+00:00",
+  "title": "Pack · سلسلة الطين والنار",
+  "caption": "⚔️ باقة · سلسلة الطين والنار\n\nجومانا · أبابيل · الجساسة · الزمهرير · السجيل\n\nالملحمة الفانتازية لأحمد آل حمدان في خمسة أجزاء: ممالك وأسرار ومعارك بين الطين والنار. عالم كامل ستعيش فيه أسابيع ولن ترغب في مغادرته ✨\n\n📚 الأجزاء الخمسة معًا بثمن مخفض\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #أحمد_آل_حمدان #الطين_والنار #روايات_فانتازيا #كتب_المغرب #قراءة #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK سلسلة الطين والنار/tin-wa-nar-ar-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-05-new-it-happened-one-summer",
+  "kind": "carousel",
+  "publish_at": "2026-11-05T12:00:00+00:00",
+  "title": "It Happened One Summer",
+  "caption": "☀️ NEW IN · It Happened One Summer – Tessa Bailey\n\nA Hollywood party girl exiled to a tiny fishing town. A grumpy sea captain who gives her one week. Guess who falls first? 😏\n\nFunny, sizzling, impossible to put down. Swipe for a sneak peek 👉\n\n📚 Also in our Tessa Bailey pack (3 rom-coms, discounted price)\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #ItHappenedOneSummer #TessaBailey #RomCom #BookTok #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/It Happened One Summer/it-happened-one-summer-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/It Happened One Summer/it-happened-one-summer-page-1.jpg",
+     "box": [
+      0.0,
+      0.33,
+      1.0,
+      0.49
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-06-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-06T12:00:00+00:00",
+  "title": "Pack · Colleen Hoover",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Colleen Hoover/colleen-hoover-kie-pack-1.jpg",
+     "title": "Colleen Hoover",
+     "books": [
+      "It Starts with Us",
+      "November 9",
+      "Without Merit",
+      "Layla"
+     ],
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-06-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-06T12:00:00+00:00",
+  "title": "Pack · أحمد خالد مصطفى",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/taghut.jpg",
+      "couvertures/ashirat-barhut.jpg",
+      "couvertures/al-shaytan-yahki.jpg",
+      "couvertures/antikhristos-2.jpg"
+     ],
+     "title": "أحمد خالد مصطفى",
+     "sub": "أربع روايات مظلمة وغامضة",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-06-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-06T12:00:00+00:00",
+  "title": "Pack · Dose de bonne humeur",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/le-bazar-du-zebre-a-pois.jpg",
+      "couvertures/cupidon-a-des-ailes-en-carton.jpg",
+      "couvertures/le-spleen-du-pop-corn.jpg"
+     ],
+     "title": "Dose de bonne humeur",
+     "sub": "3 romans feel-good de Raphaëlle Giordano",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-06-pack-camus",
+  "kind": "post",
+  "publish_at": "2026-11-06T12:00:00+00:00",
+  "title": "Pack · Albert Camus",
+  "caption": "☀️ PACK · Albert Camus\n\nLa Chute · La Peste · La Mort heureuse\n\nLe soleil d'Alger, l'absurde, la liberté et le bonheur à conquérir. Trois livres courts mais puissants du prix Nobel, à relire à chaque âge de la vie 🌊\n\n📚 Les 3 romans réunis, à prix réduit en pack\n🚚 Livraison gratuite dès 3 livres · Paiement à la livraison\n\n#iRead #ireadma #AlbertCamus #LaPeste #LaChute #Classiques #LivreMaroc #Bookstagram\n\n👉 Commandez dès maintenant via DM, WhatsApp ou sur www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Albert Camus/camus-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-06-new-aktub-hatta-la-2",
+  "kind": "carousel",
+  "publish_at": "2026-11-06T12:00:00+00:00",
+  "title": "أكتب حتى لا أصاب بالجنون",
+  "caption": "🦋 جديد · أكتب حتى لا أصاب بالجنون – مريم الحيسي\n\n«هل ما زلتم تكتبون؟ أم توقفتم عن الكتابة؟»\n\nالجزء الثاني من سلسلة الكتابة للشيطان: الرعب يعود أقوى، والحد بين الخيال والواقع يصبح أكثر هشاشة. لعشاق الرعب فقط 🖤\n\n📚 متوفر أيضًا في باقة السلسلة كاملة (3 أجزاء بثمن مخفض)\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #مريم_الحيسي #روايات_رعب #كتب_عربية #كتب_المغرب #قراءة #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/أكتب حتى لا أصاب بالجنون - الجزء الثاني/aktub-hatta-la-2-kie-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/أكتب حتى لا أصاب بالجنون - الجزء الثاني/aktub-hatta-la-2-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-07-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-07T12:00:00+00:00",
+  "title": "Pack · Freida McFadden",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Freida McFadden/freida-mcfadden-en-kie-pack-1.jpg",
+     "title": "Freida McFadden",
+     "books": [
+      "Never Lie",
+      "Dead Med",
+      "Want to Know a Secret?",
+      "The Surrogate Mother",
+      "The Housemaid Is Watching"
+     ],
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-07-pk2",
+  "kind": "story",
+  "publish_at": "2026-11-07T12:00:00+00:00",
+  "title": "Pack · Le goût des livres",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/la-bibliotheque-des-reves-secrets.jpg",
+      "couvertures/la-librairie-de-teheran.jpg",
+      "couvertures/le-monde-de-sophie.jpg"
+     ],
+     "title": "Le goût des livres",
+     "sub": "Des romans qui célèbrent la lecture",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-07-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-07T12:00:00+00:00",
+  "title": "Pack · شهد قربان",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/scorpius-1.jpg",
+      "couvertures/scorpius-2.jpg",
+      "couvertures/stockholm.jpg",
+      "couvertures/al-yaqut.jpg"
+     ],
+     "title": "شهد قربان",
+     "sub": "عالم شهد قربان الخيالي",
+     "dark": false,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-07-pack-off-campus",
+  "kind": "post",
+  "publish_at": "2026-11-07T12:00:00+00:00",
+  "title": "Pack · Off-Campus",
+  "caption": "🏒 PACK · Off-Campus\n\nThe Deal · The Mistake · The Score · The Goal · The Legacy\n\nHockey players, fake dating, banter and the swooniest college romances of BookTok. All 5 books of Elle Kennedy's series, to binge in one go 💙\n\n📚 The 5 books together at a discounted pack price\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #OffCampus #ElleKennedy #TheDeal #RomanceBooks #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Off-Campus/off-campus-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-07-new-kill-joy",
+  "kind": "carousel",
+  "publish_at": "2026-11-07T12:00:00+00:00",
+  "title": "Kill Joy",
+  "caption": "🔪 NEW IN · Kill Joy – Holly Jackson\n\nSix suspects. Three hours. One murder…\n\nBefore Pip solved a real murder, she played a murder-mystery party with her friends. The fun, short prequel to A Good Girl's Guide to Murder. Swipe for a clue 👉\n\n📚 Also in our YA Mystery pack (with The Cousins and Five Survive, discounted price)\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #KillJoy #HollyJackson #AGoodGirlsGuideToMurder #YAThriller #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Kill Joy/kill-joy-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Kill Joy/kill-joy-page-1.jpg",
+     "box": [
+      0.05,
+      0.293,
+      1.0,
+      0.405
+     ]
+    }
+   }
+  ]
+ }
+]
