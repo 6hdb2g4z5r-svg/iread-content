@@ -152,11 +152,13 @@ def _kie_req(method, path, **kw):
 
 
 def _kie_upload(local):
-    import requests
+    import requests, uuid
+    # nom unique : sinon deux runs en parallèle (cover.jpg) s'écrasent sur le serveur KIE (bug du 01/11)
+    uniq = f"{uuid.uuid4().hex[:10]}-{os.path.basename(local)}"
     r = requests.post("https://kieai.redpandaai.co/api/file-stream-upload",
                       headers={"Authorization": f"Bearer {_kie_key()}"},
-                      files={"file": (os.path.basename(local), open(local, "rb"))},
-                      data={"uploadPath": "iread/inputs", "fileName": os.path.basename(local)}, timeout=120).json()
+                      files={"file": (uniq, open(local, "rb"))},
+                      data={"uploadPath": "iread/inputs", "fileName": uniq}, timeout=120).json()
     d = r.get("data") or {}
     return d.get("downloadUrl") or d.get("fileUrl")
 
