@@ -146,3 +146,8 @@ photos/Before Your Memory Fades/before-your-memory-fades-aesthetic-4.jpg | 2026-
 photos/PACK Elif Shafak/elif-shafak-en-kie-pack-1.jpg | 2026-11-06 | story-2026-11-06-7
 photos/One Dark Window/one-dark-window-aesthetic-1.jpg | 2026-11-07 | story-2026-11-07-6
 photos/PACK Dostoevsky/dostoevsky-en-kie-pack-1.jpg | 2026-11-07 | story-2026-11-07-7
+photos/PACK Racines marocaines/racines-marocaines-kie-pack-1.jpg | 2026-11-04 | post-2026-11-04-pack-racines-marocaines
+photos/PACK Surrounded by/surrounded-by-kie-pack-1.jpg | 2026-11-06 | post-2026-11-06-pack-surrounded-by
+photos/PACK Dostoevsky/dostoevsky-en-kie-pack-2.jpg | 2026-11-08 | post-2026-11-08-pack-dostoevsky-en
+photos/PACK La Femme de ménage/femme-de-menage-kie-pack-2.jpg | 2026-11-03 | post-2026-11-03-pack-femme-de-menage
+photos/King of Pride/king-of-pride-aesthetic-4.jpg | 2026-11-03 | post-2026-11-03-new-king-of-pride

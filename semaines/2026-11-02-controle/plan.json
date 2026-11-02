@@ -1,0 +1,302 @@
+[
+ {
+  "id": "story-2026-11-02-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "Pack · Nuits blanches garanties",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/le-roi-du-silence.jpg",
+      "couvertures/l-enfant-aux-cailloux.jpg",
+      "couvertures/la-voisine-sans-histoire.jpg"
+     ],
+     "title": "Nuits blanches garanties",
+     "sub": "Trois thrillers impossibles à lâcher",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-02-7",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "Pack · Le café du temps",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/tales-from-the-cafe.jpg",
+      "couvertures/before-your-memory-fades.jpg",
+      "couvertures/before-we-say-goodbye.jpg",
+      "couvertures/before-we-forget-kindness.jpg"
+     ],
+     "title": "Le café du temps",
+     "sub": "4 tomes de Before the Coffee Gets Cold",
+     "dark": false,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-03-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "روبرت غرين",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/qawaid-al-satwa.jpg",
+      "couvertures/qawanin-al-tabia-al-bashariya.jpg",
+      "couvertures/al-itqan.jpg",
+      "couvertures/33-istratijiya-lil-harb.jpg"
+     ],
+     "title": "روبرت غرين",
+     "sub": "4 كتب عن السلطة والإتقان والطبيعة البشرية",
+     "dark": false,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-04-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "Pack · Into Darkness",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/lights-out.jpg",
+      "couvertures/game-on.jpg"
+     ],
+     "title": "Into Darkness",
+     "sub": "Dark romance by Navessa Allen, 18+",
+     "dark": false,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-04-7",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "Pack · Heartbreak Club",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/if-only-i-had-told-her.jpg",
+      "couvertures/the-way-i-used-to-be.jpg",
+      "couvertures/a-hue-of-blu.jpg"
+     ],
+     "title": "Heartbreak Club",
+     "sub": "Three stories that break your heart",
+     "dark": false,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-05-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "Pack · Culpables",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/your-fault.jpg",
+      "couvertures/our-fault.jpg"
+     ],
+     "title": "Culpables",
+     "sub": "Your Fault + Our Fault by Mercedes Ron",
+     "dark": false,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-06-7",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "Pack · Elif Shafak",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/10-minutes-38-seconds.jpg",
+      "couvertures/the-forty-rules-of-love.jpg"
+     ],
+     "title": "Elif Shafak",
+     "sub": "Two novels by Elif Shafak",
+     "dark": false,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-09-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "Pack · Money Mindset",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/rich-dad-poor-dad.jpg",
+      "couvertures/the-soul-of-money.jpg",
+      "couvertures/the-art-of-spending-money.jpg"
+     ],
+     "title": "Money Mindset",
+     "sub": "Three books to change how you see money",
+     "dark": false,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-10-pk1",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:00:00+00:00",
+  "title": "Pack · Albert Camus",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/la-chute.jpg",
+      "couvertures/la-peste.jpg",
+      "couvertures/la-mort-heureuse.jpg"
+     ],
+     "title": "Albert Camus",
+     "sub": "La Chute, La Peste et La Mort heureuse",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-03-pack-femme-de-menage",
+  "kind": "post",
+  "publish_at": "2026-11-03T10:50:00+00:00",
+  "title": "Pack · La Femme de ménage",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK La Femme de ménage/femme-de-menage-kie-pack-2.jpg",
+     "cy": 0.6
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-03-new-king-of-pride",
+  "kind": "carousel",
+  "publish_at": "2026-11-03T12:30:00+00:00",
+  "title": "King of Pride",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/King of Pride/king-of-pride-aesthetic-4.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/King of Pride/king-of-pride-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-04-pack-racines-marocaines",
+  "kind": "post",
+  "publish_at": "2026-11-04T12:30:00+00:00",
+  "title": "Pack · Racines marocaines",
+  "caption": "🇲🇦 PACK · Racines marocaines\n\nLe passé simple · La nuit sacrée · Le dernier ami · La prisonnière\n\nDriss Chraïbi, Tahar Ben Jelloun et Malika Oufkir : quatre livres qui racontent le Maroc, ses silences et ses blessures, par celles et ceux qui l'ont vécu 🤍\n\n📚 Les 4 livres réunis, à prix réduit en pack\n🚚 Livraison gratuite dès 3 livres · Paiement à la livraison\n\n#iRead #ireadma #LittératureMarocaine #TaharBenJelloun #DrissChraibi #MalikaOufkir #LivreMaroc #Bookstagram\n\n👉 Commandez dès maintenant via DM, WhatsApp ou sur www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Racines marocaines/racines-marocaines-kie-pack-1.jpg",
+     "cy": 0.55
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-06-pack-surrounded-by",
+  "kind": "post",
+  "publish_at": "2026-11-06T12:30:00+00:00",
+  "title": "Pack · Surrounded by…",
+  "caption": "🎭 PACK · Surrounded by…\n\nSurrounded by Narcissists · Surrounded by Psychopaths · Surrounded by Liars · Surrounded by Energy Vampires\n\nThomas Erikson shows you how to spot the people who drain you, use you or lie to you, and how to protect yourself from them. Who do you know? 👀\n\n📚 The 4 books together at a discounted pack price\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #ThomasErikson #SurroundedBy #Psychology #SelfGrowth #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Surrounded by/surrounded-by-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-08-pack-dostoevsky-en",
+  "kind": "post",
+  "publish_at": "2026-11-08T14:20:00+00:00",
+  "title": "Pack · Dostoevsky",
+  "caption": "🕯️ PACK · Dostoevsky\n\nThe Double · Poor Folk\n\nBefore Crime and Punishment, there were these two: a clerk who meets his own double, and two lonely souls writing letters across a St Petersburg courtyard. The early Dostoevsky, already unforgettable ❄️\n\n📚 The 2 books together at a discounted pack price\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #Dostoevsky #TheDouble #PoorFolk #ClassicLiterature #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Dostoevsky/dostoevsky-en-kie-pack-2.jpg",
+     "cy": 0.55
+    }
+   }
+  ]
+ }
+]
