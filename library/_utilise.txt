@@ -151,3 +151,59 @@ photos/PACK Surrounded by/surrounded-by-kie-pack-1.jpg | 2026-11-06 | post-2026-
 photos/PACK Dostoevsky/dostoevsky-en-kie-pack-2.jpg | 2026-11-08 | post-2026-11-08-pack-dostoevsky-en
 photos/PACK La Femme de ménage/femme-de-menage-kie-pack-2.jpg | 2026-11-03 | post-2026-11-03-pack-femme-de-menage
 photos/King of Pride/king-of-pride-aesthetic-4.jpg | 2026-11-03 | post-2026-11-03-new-king-of-pride
+photos/تعافيت/taafayt-kie-aesthetic-1.jpg | 2026-11-15 | story-2026-11-15-1
+photos/The Stranger/the-stranger-aesthetic-4.jpg | 2026-11-15 | post-2026-11-15-the-stranger
+photos/The Stranger/the-stranger-page-3-redresse.jpg | 2026-11-15 | post-2026-11-15-the-stranger
+photos/Tales from the Cafe/tales-from-the-cafe-page-1.jpg | 2026-11-15 | story-2026-11-15-2
+photos/السلام عليك يا صاحبي/al-salam-alayka-ya-sahibi-aesthetic-1.jpg | 2026-11-15 | post-2026-11-15-al-salam-alayka-ya-sahibi
+photos/السلام عليك يا صاحبي/al-salam-alayka-ya-sahibi-page-3.jpg | 2026-11-15 | post-2026-11-15-al-salam-alayka-ya-sahibi
+photos/PACK Romantasy 2/romantasy-2-kie-pack-1.jpg | 2026-11-15 | post-2026-11-15-pack-romantasy-2
+photos/Never Lie/never-lie-aesthetic-1.jpg | 2026-11-15 | post-2026-11-15-never-lie
+photos/Never Lie/never-lie-aesthetic-2.jpg | 2026-11-15 | post-2026-11-15-never-lie
+photos/The Secret Fiancée/the-secret-fiancee-kie-aesthetic-1.jpg | 2026-11-16 | story-2026-11-16-1
+photos/Mindset/mindset-aesthetic-1.jpg | 2026-11-16 | post-2026-11-16-mindset
+photos/Mindset/mindset-page-2.jpg | 2026-11-16 | post-2026-11-16-mindset
+photos/The Let Them Theory/let-them-theory-page-4.jpg | 2026-11-16 | story-2026-11-16-2
+photos/صاحب الظل الطويل/sahib-al-zill-al-tawil-aesthetic-1.jpg | 2026-11-16 | post-2026-11-16-sahib-al-zill-al-tawil
+photos/صاحب الظل الطويل/sahib-al-zill-al-tawil-page-2.jpg | 2026-11-16 | post-2026-11-16-sahib-al-zill-al-tawil
+photos/PACK Le goût des livres/gout-des-livres-kie-pack-1.jpg | 2026-11-16 | post-2026-11-16-pack-gout-des-livres
+photos/No Longer Human/no-longer-human-aesthetic-1.jpg | 2026-11-16 | post-2026-11-16-no-longer-human
+photos/السجيل/al-sijjil-aesthetic-1.jpg | 2026-11-17 | story-2026-11-17-1
+photos/لكنود/lakanud-kie-aesthetic-1.jpg | 2026-11-17 | post-2026-11-17-lakanud
+photos/لكنود/lakanud-page-1.jpg | 2026-11-17 | post-2026-11-17-lakanud
+photos/Atomic Habits/atomic-habits-page-4.jpg | 2026-11-17 | story-2026-11-17-2
+photos/The Way I Used to Be/the-way-i-used-to-be-aesthetic-1.jpg | 2026-11-17 | post-2026-11-17-the-way-i-used-to-be
+photos/The Way I Used to Be/the-way-i-used-to-be-aesthetic-2.jpg | 2026-11-17 | post-2026-11-17-the-way-i-used-to-be
+photos/PACK Penseurs éternels/penseurs-eternels-kie-pack-1.jpg | 2026-11-17 | post-2026-11-17-pack-penseurs-eternels
+photos/PUNCTUATIONS/iread-3-kutub-tafkir.jpg | 2026-11-17 | story-2026-11-17-4
+photos/قوة العادات/quwwat-al-adat-kie-aesthetic-1.jpg | 2026-11-17 | post-2026-11-17-quwwat-al-adat
+photos/A Hue of Blu/a-hue-of-blu-kie-aesthetic-1.jpg | 2026-11-18 | story-2026-11-18-1
+photos/كتاب الراحة/kitab-al-raha-kie-aesthetic-1.jpg | 2026-11-18 | post-2026-11-18-kitab-al-raha
+photos/One Dark Window/one-dark-window-page-2.jpg | 2026-11-18 | story-2026-11-18-2
+photos/If Only I Had Told Her/if-only-i-had-told-her-aesthetic-1.jpg | 2026-11-18 | post-2026-11-18-if-only-i-had-told-her
+photos/If Only I Had Told Her/if-only-i-had-told-her-aesthetic-2.jpg | 2026-11-18 | post-2026-11-18-if-only-i-had-told-her
+photos/محاط بالحمقى/muhat-bil-hamqa-kie-aesthetic-1.jpg | 2026-11-18 | post-2026-11-18-muhat-bil-hamqa
+photos/What Every Body Is Saying/what-every-body-is-saying-aesthetic-1.jpg | 2026-11-18 | post-2026-11-18-what-every-body-is-saying
+photos/What Every Body Is Saying/what-every-body-is-saying-aesthetic-2.jpg | 2026-11-18 | post-2026-11-18-what-every-body-is-saying
+photos/جمالية الدين: معارج القلب إلى حياة الروح/jamaliyat-al-din-kie-aesthetic-1.jpg | 2026-11-19 | story-2026-11-19-1
+photos/Men Are from Mars, Women Are from Venus/men-are-from-mars-aesthetic-2.jpg | 2026-11-19 | post-2026-11-19-men-are-from-mars
+photos/Men Are from Mars, Women Are from Venus/men-are-from-mars-aesthetic-3.jpg | 2026-11-19 | post-2026-11-19-men-are-from-mars
+photos/السلام عليك يا صاحبي/al-salam-alayka-ya-sahibi-page-1.jpg | 2026-11-19 | story-2026-11-19-2
+photos/مدرسة محمد ﷺ/madrasat-muhammad-kie-aesthetic-1.jpg | 2026-11-19 | post-2026-11-19-madrasat-muhammad
+photos/PACK YA Mystery/ya-mystery-kie-pack-2.jpg | 2026-11-19 | post-2026-11-19-pack-ya-mystery
+photos/PUNCTUATIONS/iread-livres-qui-ont-change-mon-regard.jpg | 2026-11-19 | story-2026-11-19-4
+photos/ملاحظات حول كوكب متوتر/mulahazat-kawkab-mutawattir-kie-aesthetic-1.jpg | 2026-11-19 | post-2026-11-19-mulahazat-kawkab-mutawattir
+photos/مزرعة الحيوان/mazraat-al-hayawan-kie-aesthetic-1.jpg | 2026-11-20 | story-2026-11-20-1
+photos/هناك أنهار في السماء/hunak-anhar-fi-al-sama-kie-aesthetic-1.jpg | 2026-11-20 | post-2026-11-20-hunak-anhar-fi-al-sama
+photos/Mindset/mindset-page-3.jpg | 2026-11-20 | story-2026-11-20-2
+photos/The Body Keeps the Score/body-keeps-the-score-aesthetic-1.jpg | 2026-11-20 | post-2026-11-20-the-body-keeps-the-score
+photos/The Body Keeps the Score/body-keeps-the-score-aesthetic-2.jpg | 2026-11-20 | post-2026-11-20-the-body-keeps-the-score
+photos/PACK Mahfouz/mahfouz-kie-pack-1.jpg | 2026-11-20 | post-2026-11-20-pack-mahfouz
+photos/Too Nice for Your Own Good/too-nice-for-your-own-good-kie-aesthetic-1.jpg | 2026-11-20 | post-2026-11-20-too-nice-for-your-own-good
+photos/The Cousins/the-cousins-aesthetic-1.jpg | 2026-11-21 | story-2026-11-21-1
+photos/La psychologie de l'argent/la-psychologie-de-l-argent-aesthetic-1.jpg | 2026-11-21 | post-2026-11-21-la-psychologie-de-l-argent
+photos/Tales from the Cafe/tales-from-the-cafe-page-3.jpg | 2026-11-21 | story-2026-11-21-2
+photos/تأملات/taammulat-malek-bennabi-kie-aesthetic-1.jpg | 2026-11-21 | post-2026-11-21-taammulat-malek-bennabi
+photos/Fix Her Up/fixherup-aesthetic-2.jpg | 2026-11-21 | post-2026-11-21-fix-her-up
+photos/Fix Her Up/fixherup-aesthetic-3.jpg | 2026-11-21 | post-2026-11-21-fix-her-up
+photos/ابق قويًا: 365 يومًا في السنة/ibqa-qawiyyan-kie-aesthetic-1.jpg | 2026-11-21 | post-2026-11-21-ibqa-qawiyyan

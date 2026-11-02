@@ -1,0 +1,1284 @@
+[
+ {
+  "id": "story-2026-11-15-1",
+  "kind": "story",
+  "publish_at": "2026-11-15T10:00:00+00:00",
+  "title": "تعافيت",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/تعافيت/taafayt-kie-aesthetic-1.jpg",
+     "title": "تعافيت",
+     "kicker": "قراءة اليوم",
+     "cta": "متوفر على iread.ma",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-15-the-stranger",
+  "kind": "carousel",
+  "publish_at": "2026-11-15T12:00:00+00:00",
+  "title": "The Stranger",
+  "caption": "🌞 The Stranger – Albert Camus\n\nA man who won't pretend. A sun that won't let up. A trial that judges him for everything except what he did.\n\nA short, sharp classic you finish in one sitting and think about for years. Swipe for a passage 👉\n\n📚 Also in our Modern Classics pack (discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TheStranger #AlbertCamus #ModernClassics #Absurdism #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/The Stranger/the-stranger-aesthetic-4.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/The Stranger/the-stranger-page-3-redresse.jpg",
+     "box": [
+      0.03,
+      0.343,
+      1,
+      0.688
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-15-2",
+  "kind": "story",
+  "publish_at": "2026-11-15T12:45:00+00:00",
+  "title": "Extrait · Tales from the Cafe",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/tales-from-the-cafe.jpg",
+     "page_path": "photos/Tales from the Cafe/tales-from-the-cafe-page-1.jpg",
+     "title": "Tales from the Cafe",
+     "author": "Toshikazu Kawaguchi",
+     "box": [
+      0,
+      0,
+      1,
+      0.601
+     ],
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-15-al-salam-alayka-ya-sahibi",
+  "kind": "carousel",
+  "publish_at": "2026-11-15T15:00:00+00:00",
+  "title": "السلام عليك يا صاحبي",
+  "caption": "🌿 السلام عليك يا صاحبي – أدهم شرقاوي\n\nكلمات تشبه رسالة من صديق يعرف ما في قلبك، بأسلوب أدهم شرقاوي القريب من الروح\n\nاسحب لتقرأ صفحة منه 👈\n\n📚 متوفر أيضًا في باقة «Sur les pas du Prophète» بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #أدهم_شرقاوي #السلام_عليك_يا_صاحبي #كتب_عربية #قراءة #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/السلام عليك يا صاحبي/al-salam-alayka-ya-sahibi-aesthetic-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/السلام عليك يا صاحبي/al-salam-alayka-ya-sahibi-page-3.jpg",
+     "box": [
+      0.0,
+      0.03,
+      1,
+      0.98
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-15-3",
+  "kind": "story",
+  "publish_at": "2026-11-15T15:45:00+00:00",
+  "title": "Too Nice ou No Excuses ?",
+  "slides": [
+   {
+    "fn": "story_ab",
+    "args": {
+     "cover_a": "couvertures/too-nice-for-your-own-good.jpg",
+     "cover_b": "couvertures/no-excuses.jpg",
+     "question": "Too nice or no excuses?",
+     "sub": "Which one do you need this month?",
+     "cta": "Answer by message"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-15-pack-romantasy-2",
+  "kind": "post",
+  "publish_at": "2026-11-15T16:30:00+00:00",
+  "title": "Pack · Romantasy 2",
+  "caption": "🥀 PACK · Romantasy 2\n\nA Curse for True Love · The Prisoner's Throne · Watch Me\n\nStephanie Garber, Holly Black and Tahereh Mafi: curses, crowns and impossible love stories for long autumn nights.\n\n📚 The 3 books together at a discounted pack price\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #Romantasy #StephanieGarber #HollyBlack #TaherehMafi #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Romantasy 2/romantasy-2-kie-pack-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-15-4",
+  "kind": "story",
+  "publish_at": "2026-11-15T18:30:00+00:00",
+  "title": "Pack · Think Different",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/mindset.jpg",
+      "couvertures/purple-cow.jpg",
+      "couvertures/the-tipping-point.jpg",
+      "couvertures/the-power-of-instinct.jpg"
+     ],
+     "title": "Think Different",
+     "sub": "Mindset, marketing and influence",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-15-never-lie",
+  "kind": "carousel",
+  "publish_at": "2026-11-15T21:25:00+00:00",
+  "title": "Never Lie",
+  "caption": "🖤 Never Lie – Freida McFadden\n\nA snowstorm. A newlywed couple. An isolated manor that once belonged to a famous psychiatrist who vanished… and a hidden room full of her session tapes.\n\nDon't start it at night unless you plan to finish it. 😶\n\n📚 Also in our Freida McFadden pack (5 books, discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #NeverLie #FreidaMcFadden #Thriller #BookTok #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Never Lie/never-lie-aesthetic-1.jpg"
+    }
+   },
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Never Lie/never-lie-aesthetic-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-15-5",
+  "kind": "story",
+  "publish_at": "2026-11-15T22:15:00+00:00",
+  "title": "Pack · Heartbreak Club",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/if-only-i-had-told-her.jpg",
+      "couvertures/the-way-i-used-to-be.jpg",
+      "couvertures/a-hue-of-blu.jpg"
+     ],
+     "title": "Heartbreak Club",
+     "sub": "Three novels that break your heart… and mend it",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-16-1",
+  "kind": "story",
+  "publish_at": "2026-11-16T10:00:00+00:00",
+  "title": "The Secret Fiancée",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/The Secret Fiancée/the-secret-fiancee-kie-aesthetic-1.jpg",
+     "title": "The Secret Fiancée",
+     "kicker": "Today's read",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-16-mindset",
+  "kind": "carousel",
+  "publish_at": "2026-11-16T12:00:00+00:00",
+  "title": "Mindset",
+  "caption": "🌱 Mindset – Carol S. Dweck\n\nIs talent something you have, or something you build? Decades of research boiled down to one idea that changes how you see failure, school, work and love.\n\nSwipe for the passage 👉\n\n📚 Also in our Think Different pack (discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #Mindset #CarolDweck #GrowthMindset #SelfGrowth #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Mindset/mindset-aesthetic-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Mindset/mindset-page-2.jpg",
+     "box": [
+      0.02,
+      0.47,
+      1,
+      0.612
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-16-2",
+  "kind": "story",
+  "publish_at": "2026-11-16T12:45:00+00:00",
+  "title": "Extrait · The Let Them Theory",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/the-let-them-theory.jpg",
+     "page_path": "photos/The Let Them Theory/let-them-theory-page-4.jpg",
+     "title": "The Let Them Theory",
+     "author": "Mel Robbins",
+     "box": [
+      0.03,
+      0.02,
+      0.97,
+      0.775
+     ],
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-16-sahib-al-zill-al-tawil",
+  "kind": "carousel",
+  "publish_at": "2026-11-16T15:00:00+00:00",
+  "title": "صاحب الظل الطويل",
+  "caption": "✉️ صاحب الظل الطويل – جين ويبستر\n\nيتيمة موهوبة، ومتبرع مجهول يتكفل بدراستها بشرط واحد، أن تكتب له الرسائل\n\nرواية كلاسيكية خفيفة ودافئة تقرأها بابتسامة، اسحب لترى صفحة منها 👈\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #صاحب_الظل_الطويل #جين_ويبستر #روايات_عالمية #روايات #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/صاحب الظل الطويل/sahib-al-zill-al-tawil-aesthetic-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/صاحب الظل الطويل/sahib-al-zill-al-tawil-page-2.jpg",
+     "box": [
+      0.17,
+      0.12,
+      1,
+      0.565
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-16-3",
+  "kind": "story",
+  "publish_at": "2026-11-16T15:45:00+00:00",
+  "title": "Plus rien ne pourra me blesser",
+  "slides": [
+   {
+    "fn": "story_cover",
+    "args": {
+     "cover_path": "couvertures/plus-rien-ne-pourra-me-blesser.jpg",
+     "title": "Plus rien ne pourra me blesser",
+     "author": "David Goggins",
+     "tagline": "Le mental d'acier, version française",
+     "kicker": "Coup de cœur",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-16-pack-gout-des-livres",
+  "kind": "post",
+  "publish_at": "2026-11-16T16:30:00+00:00",
+  "title": "Pack · Le goût des livres",
+  "caption": "📚 PACK · Le goût des livres\n\nLa Bibliothèque des rêves secrets · La Librairie de Téhéran · Le Monde de Sophie\n\nBibliothèques, librairies et philosophie : trois romans pour celles et ceux qui aiment aimer les livres.\n\n📚 Les 3 livres ensemble à prix réduit en pack\n\n🚚 Livraison gratuite dès 3 livres · Paiement à la livraison\n\n#iRead #ireadma #LeMondeDeSophie #MichikoAoyama #MarjanKamali #RomanFrançais #LivreMaroc #Bookstagram\n\n👉 Commandez dès maintenant via DM, WhatsApp ou sur www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Le goût des livres/gout-des-livres-kie-pack-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-16-4",
+  "kind": "story",
+  "publish_at": "2026-11-16T18:30:00+00:00",
+  "title": "Pack · Plot Twists",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/if-we-were-villains.jpg",
+      "couvertures/yellowface.jpg",
+      "couvertures/we-fell-apart.jpg"
+     ],
+     "title": "Plot Twists",
+     "sub": "Dark academia, satire and secrets",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-16-no-longer-human",
+  "kind": "post",
+  "publish_at": "2026-11-16T21:25:00+00:00",
+  "title": "No Longer Human",
+  "caption": "🥀 No Longer Human – Osamu Dazai\n\nOne of Japan's best-loved novels: a man who hides behind a clown's mask because he can't work out how other people live.\n\nDelicate, unsettling and impossible to forget.\n\n📚 Also in our Modern Classics pack (discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #NoLongerHuman #OsamuDazai #JapaneseLiterature #Classics #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/No Longer Human/no-longer-human-aesthetic-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-16-5",
+  "kind": "story",
+  "publish_at": "2026-11-16T22:15:00+00:00",
+  "title": "Pack · Into Darkness",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/lights-out.jpg",
+      "couvertures/game-on.jpg"
+     ],
+     "title": "Into Darkness",
+     "sub": "Navessa Allen · dark romance, 18+",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-17-1",
+  "kind": "story",
+  "publish_at": "2026-11-17T10:00:00+00:00",
+  "title": "السجيل",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/السجيل/al-sijjil-aesthetic-1.jpg",
+     "title": "السجيل",
+     "kicker": "قراءة اليوم",
+     "cta": "متوفر على iread.ma",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-17-lakanud",
+  "kind": "carousel",
+  "publish_at": "2026-11-17T12:00:00+00:00",
+  "title": "لكنود",
+  "caption": "💙 لكنود – إسلام جمال\n\nكتاب عن النعم التي ننساها، وعن الإنسان حين يعتاد على ما بين يديه فلا يراه\n\nفصول قصيرة تعيد إليك عين الشكر، اسحب لتقرأ صفحة منه 👈\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #لكنود #إسلام_جمال #تطوير_الذات #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/لكنود/lakanud-kie-aesthetic-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/لكنود/lakanud-page-1.jpg",
+     "box": [
+      0.05,
+      0.1,
+      1,
+      0.585
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-17-2",
+  "kind": "story",
+  "publish_at": "2026-11-17T12:45:00+00:00",
+  "title": "Extrait · Atomic Habits",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/atomic-habits.jpg",
+     "page_path": "photos/Atomic Habits/atomic-habits-page-4.jpg",
+     "title": "Atomic Habits",
+     "author": "James Clear",
+     "box": [
+      0.08,
+      0.02,
+      0.8,
+      1
+     ],
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-17-the-way-i-used-to-be",
+  "kind": "carousel",
+  "publish_at": "2026-11-17T15:00:00+00:00",
+  "title": "The Way I Used to Be",
+  "caption": "🌼 The Way I Used to Be – Amber Smith\n\nFour years of high school. One girl trying to find her voice again after the worst night of her life.\n\nA raw, tender YA novel about healing, for mature readers. Have a tissue nearby. 🤍\n\n📚 Also in our new Heartbreak Club pack (discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TheWayIUsedToBe #AmberSmith #YABooks #BookTok #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/The Way I Used to Be/the-way-i-used-to-be-aesthetic-1.jpg"
+    }
+   },
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/The Way I Used to Be/the-way-i-used-to-be-aesthetic-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-17-3",
+  "kind": "story",
+  "publish_at": "2026-11-17T15:45:00+00:00",
+  "title": "Téhéran ou Rêves secrets ?",
+  "slides": [
+   {
+    "fn": "story_ab",
+    "args": {
+     "cover_a": "couvertures/la-librairie-de-teheran.jpg",
+     "cover_b": "couvertures/la-bibliotheque-des-reves-secrets.jpg",
+     "question": "Téhéran ou rêves secrets ?",
+     "sub": "Quel roman ouvres-tu en premier ?",
+     "cta": "Réponds en message"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-17-pack-penseurs-eternels",
+  "kind": "post",
+  "publish_at": "2026-11-17T16:30:00+00:00",
+  "title": "Pack · Penseurs éternels",
+  "caption": "🖋️ PACK · Penseurs éternels\n\nCandide · Le Prince · L'Art de la guerre\n\nVoltaire, Machiavel et Sun Tzu : trois classiques courts qui font réfléchir depuis des siècles, sur le monde, le pouvoir et la stratégie.\n\n📚 Les 3 livres ensemble à prix réduit en pack\n\n🚚 Livraison gratuite dès 3 livres · Paiement à la livraison\n\n#iRead #ireadma #Voltaire #Machiavel #SunTzu #Classiques #LivreMaroc #Bookstagram\n\n👉 Commandez dès maintenant via DM, WhatsApp ou sur www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Penseurs éternels/penseurs-eternels-kie-pack-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-17-4",
+  "kind": "story",
+  "publish_at": "2026-11-17T18:30:00+00:00",
+  "title": "3 كتب قد تغيّر طريقة تفكيرك",
+  "slides": [
+   {
+    "fn": "story_visual",
+    "args": {
+     "src_path": "photos/PUNCTUATIONS/iread-3-kutub-tafkir.jpg",
+     "kicker": "اختياراتنا",
+     "cta": "اطلبه عبر الرسائل"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-17-quwwat-al-adat",
+  "kind": "post",
+  "publish_at": "2026-11-17T21:25:00+00:00",
+  "title": "قوة العادات",
+  "caption": "⏰ قوة العادات – تشارلز دويج\n\nلماذا نفعل ما نفعله كل يوم؟ وكيف تعمل العادة في الدماغ؟ وكيف نغيرها فعلًا؟\n\nكتاب يشرح السر بقصص حقيقية من الحياة والعمل والرياضة 💪\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #قوة_العادات #تشارلز_دويج #تطوير_الذات #العادات #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/قوة العادات/quwwat-al-adat-kie-aesthetic-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-17-5",
+  "kind": "story",
+  "publish_at": "2026-11-17T22:15:00+00:00",
+  "title": "Pack · Self-Discipline",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/no-excuses.jpg",
+      "couvertures/the-5am-club.jpg",
+      "couvertures/too-nice-for-your-own-good.jpg"
+     ],
+     "title": "Self-Discipline",
+     "sub": "Discipline, routine and self-assertion",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-18-1",
+  "kind": "story",
+  "publish_at": "2026-11-18T10:00:00+00:00",
+  "title": "A Hue of Blu",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/A Hue of Blu/a-hue-of-blu-kie-aesthetic-1.jpg",
+     "title": "A Hue of Blu",
+     "kicker": "Today's read",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-18-kitab-al-raha",
+  "kind": "post",
+  "publish_at": "2026-11-18T12:00:00+00:00",
+  "title": "كتاب الراحة",
+  "caption": "🍊 كتاب الراحة – مات هيغ\n\nأفكار قصيرة ومواساة لطيفة للأيام الصعبة، من كاتب مكتبة منتصف الليل\n\nتفتحه من أي صفحة وتجد ما تحتاجه 🤍\n\n📚 متوفر أيضًا في باقة «Prendre soin de soi» بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #كتاب_الراحة #مات_هيغ #الصحة_النفسية #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/كتاب الراحة/kitab-al-raha-kie-aesthetic-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-18-2",
+  "kind": "story",
+  "publish_at": "2026-11-18T12:45:00+00:00",
+  "title": "Extrait · One Dark Window",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/one-dark-window.jpg",
+     "page_path": "photos/One Dark Window/one-dark-window-page-2.jpg",
+     "title": "One Dark Window",
+     "author": "Rachel Gillig",
+     "box": [
+      0,
+      0.243,
+      1,
+      0.484
+     ],
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-18-if-only-i-had-told-her",
+  "kind": "carousel",
+  "publish_at": "2026-11-18T15:00:00+00:00",
+  "title": "If Only I Had Told Her",
+  "caption": "🌹 If Only I Had Told Her – Laura Nowlin\n\nFinn has loved Autumn for as long as he can remember. Four friends, one secret, and all the words they never said.\n\nThe heart-wrenching companion to If He Had Been with Me. BookTok, you've been warned. 😭\n\n📚 Also in our new Heartbreak Club pack (discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #IfOnlyIHadToldHer #LauraNowlin #YARomance #BookTok #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/If Only I Had Told Her/if-only-i-had-told-her-aesthetic-1.jpg"
+    }
+   },
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/If Only I Had Told Her/if-only-i-had-told-her-aesthetic-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-18-3",
+  "kind": "story",
+  "publish_at": "2026-11-18T15:45:00+00:00",
+  "title": "Le Bazar du zèbre à pois",
+  "slides": [
+   {
+    "fn": "story_cover",
+    "args": {
+     "cover_path": "couvertures/le-bazar-du-zebre-a-pois.jpg",
+     "title": "Le Bazar du zèbre à pois",
+     "author": "Raphaëlle Giordano",
+     "tagline": "Un roman qui donne envie d'oser",
+     "kicker": "Coup de cœur",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-18-muhat-bil-hamqa",
+  "kind": "post",
+  "publish_at": "2026-11-18T16:30:00+00:00",
+  "title": "محاط بالحمقى",
+  "caption": "🟥🟨🟩🟦 محاط بالحمقى – توماس إريكسون\n\nأربعة أنماط من الناس، وأربعة ألوان تساعدك على فهم من حولك والتعامل معهم في العمل والبيت\n\nبعد قراءته ستعرف لماذا لا يفهمك البعض، ولماذا لا تفهمهم 😅\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #محاط_بالحمقى #توماس_إريكسون #علم_النفس #تطوير_الذات #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/محاط بالحمقى/muhat-bil-hamqa-kie-aesthetic-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-18-4",
+  "kind": "story",
+  "publish_at": "2026-11-18T18:30:00+00:00",
+  "title": "Pack · Dose de bonne humeur",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/le-bazar-du-zebre-a-pois.jpg",
+      "couvertures/cupidon-a-des-ailes-en-carton.jpg",
+      "couvertures/le-spleen-du-pop-corn.jpg"
+     ],
+     "title": "Dose de bonne humeur",
+     "sub": "Trois romans feel-good de Raphaëlle Giordano",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-18-what-every-body-is-saying",
+  "kind": "carousel",
+  "publish_at": "2026-11-18T21:25:00+00:00",
+  "title": "What Every Body Is Saying",
+  "caption": "🕵️ What Every Body Is Saying – Joe Navarro\n\nAn ex-FBI agent's guide to speed-reading people: what feet, hands and faces say when words don't.\n\nYou'll never sit through a meeting, a date or a negotiation the same way again. 👀\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #WhatEveryBodyIsSaying #JoeNavarro #BodyLanguage #Psychology #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/What Every Body Is Saying/what-every-body-is-saying-aesthetic-1.jpg"
+    }
+   },
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/What Every Body Is Saying/what-every-body-is-saying-aesthetic-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-18-5",
+  "kind": "story",
+  "publish_at": "2026-11-18T22:15:00+00:00",
+  "title": "Pack · Culpables",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/your-fault.jpg",
+      "couvertures/our-fault.jpg"
+     ],
+     "title": "Culpables",
+     "sub": "Your Fault + Our Fault, Mercedes Ron",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-19-1",
+  "kind": "story",
+  "publish_at": "2026-11-19T10:00:00+00:00",
+  "title": "جمالية الدين",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/جمالية الدين: معارج القلب إلى حياة الروح/jamaliyat-al-din-kie-aesthetic-1.jpg",
+     "title": "جمالية الدين",
+     "kicker": "قراءة اليوم",
+     "cta": "متوفر على iread.ma",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-19-men-are-from-mars",
+  "kind": "carousel",
+  "publish_at": "2026-11-19T12:00:00+00:00",
+  "title": "Men Are from Mars, Women Are from Venus",
+  "caption": "💚 Men Are from Mars, Women Are from Venus – John Gray\n\nThe classic guide to understanding the opposite sex: why we argue, why we go quiet, and how to actually listen.\n\nMillions of couples can't be wrong. Who would you gift it to? 😄\n\n📚 Also in our People Skills pack (discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #MenAreFromMars #JohnGray #Relationships #SelfGrowth #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Men Are from Mars, Women Are from Venus/men-are-from-mars-aesthetic-2.jpg"
+    }
+   },
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Men Are from Mars, Women Are from Venus/men-are-from-mars-aesthetic-3.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-19-2",
+  "kind": "story",
+  "publish_at": "2026-11-19T12:45:00+00:00",
+  "title": "Extrait · السلام عليك يا صاحبي",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/al-salam-alayka-ya-sahibi.jpg",
+     "page_path": "photos/السلام عليك يا صاحبي/al-salam-alayka-ya-sahibi-page-1.jpg",
+     "title": "السلام عليك يا صاحبي",
+     "author": "أدهم شرقاوي",
+     "box": [
+      0.1,
+      0.1,
+      0.75,
+      0.492
+     ],
+     "kicker": "مقتطف",
+     "cta": "اطلبه عبر الرسائل",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-19-madrasat-muhammad",
+  "kind": "post",
+  "publish_at": "2026-11-19T15:00:00+00:00",
+  "title": "مدرسة محمد ﷺ",
+  "caption": "🕌 مدرسة محمد ﷺ – جهاد الترباني\n\nدروس من سيرة النبي ﷺ تصل إلى القلب وتصلح الحياة اليومية، من صاحب كتاب مئة من عظماء أمة الإسلام\n\n📚 متوفر أيضًا في باقة «Sur les pas du Prophète» بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #مدرسة_محمد #جهاد_الترباني #السيرة_النبوية #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/مدرسة محمد ﷺ/madrasat-muhammad-kie-aesthetic-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-19-3",
+  "kind": "story",
+  "publish_at": "2026-11-19T15:45:00+00:00",
+  "title": "الجساسة أم السجيل؟",
+  "slides": [
+   {
+    "fn": "story_ab",
+    "args": {
+     "cover_a": "couvertures/al-jassasa.jpg",
+     "cover_b": "couvertures/al-sijjil.jpg",
+     "question": "الجساسة أم السجيل؟",
+     "sub": "أي رواية من سلسلة الطين والنار تبدأ بها؟",
+     "cta": "أجبنا في الرسائل"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-19-pack-ya-mystery",
+  "kind": "post",
+  "publish_at": "2026-11-19T16:30:00+00:00",
+  "title": "Pack · YA Mystery",
+  "caption": "🔎 NEW PACK · YA Mystery\n\nThe Cousins · Five Survive · Kill Joy\n\nKaren M. McManus and Holly Jackson: family secrets, a road trip gone wrong and a murder party. Three thrillers to devour in one weekend.\n\n📚 The 3 books together at a discounted pack price\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #KarenMcManus #HollyJackson #YAThriller #BookTok #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK YA Mystery/ya-mystery-kie-pack-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-19-4",
+  "kind": "story",
+  "publish_at": "2026-11-19T18:30:00+00:00",
+  "title": "Les livres qui ont changé mon regard",
+  "slides": [
+   {
+    "fn": "story_visual",
+    "args": {
+     "src_path": "photos/PUNCTUATIONS/iread-livres-qui-ont-change-mon-regard.jpg",
+     "kicker": "Notre sélection",
+     "cta": "Commande en DM"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-19-mulahazat-kawkab-mutawattir",
+  "kind": "post",
+  "publish_at": "2026-11-19T21:25:00+00:00",
+  "title": "ملاحظات حول كوكب متوتر",
+  "caption": "✨ ملاحظات حول كوكب متوتر – مات هيغ\n\nكيف نحافظ على هدوئنا في عالم سريع وقلق لا يتوقف؟ ملاحظات صادقة عن الأخبار والهاتف والمقارنة والتوتر اليومي\n\n📚 متوفر أيضًا في باقة «Prendre soin de soi» بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #ملاحظات_حول_كوكب_متوتر #مات_هيغ #الصحة_النفسية #تطوير_الذات #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/ملاحظات حول كوكب متوتر/mulahazat-kawkab-mutawattir-kie-aesthetic-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-19-5",
+  "kind": "story",
+  "publish_at": "2026-11-19T22:15:00+00:00",
+  "title": "Pack · سلسلة الكتابة للشيطان",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/aktub-hatta-la-yakulani.jpg",
+      "couvertures/aktub-hatta-la-2.jpg",
+      "couvertures/aktub-hatta-la-3.jpg"
+     ],
+     "title": "سلسلة الكتابة للشيطان",
+     "sub": "الأجزاء الثلاثة لمريم الحيسي",
+     "dark": true,
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-20-1",
+  "kind": "story",
+  "publish_at": "2026-11-20T10:00:00+00:00",
+  "title": "مزرعة الحيوان",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/مزرعة الحيوان/mazraat-al-hayawan-kie-aesthetic-1.jpg",
+     "title": "مزرعة الحيوان",
+     "kicker": "قراءة اليوم",
+     "cta": "متوفر على iread.ma",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-20-hunak-anhar-fi-al-sama",
+  "kind": "post",
+  "publish_at": "2026-11-20T12:00:00+00:00",
+  "title": "هناك أنهار في السماء",
+  "caption": "🌅 هناك أنهار في السماء – إليف شافاك\n\nقطرة ماء تعبر القرون، وتربط بين ملك آشوري ولندن الفيكتورية ونهر دجلة اليوم\n\nرواية شاعرية من صاحبة قواعد العشق الأربعون 🤍\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #إليف_شافاك #هناك_أنهار_في_السماء #روايات #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/هناك أنهار في السماء/hunak-anhar-fi-al-sama-kie-aesthetic-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-20-2",
+  "kind": "story",
+  "publish_at": "2026-11-20T12:45:00+00:00",
+  "title": "Extrait · Mindset",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/mindset.jpg",
+     "page_path": "photos/Mindset/mindset-page-3.jpg",
+     "title": "Mindset",
+     "author": "Carol S. Dweck",
+     "box": [
+      0,
+      0.398,
+      1,
+      0.6
+     ],
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-20-the-body-keeps-the-score",
+  "kind": "carousel",
+  "publish_at": "2026-11-20T15:00:00+00:00",
+  "title": "The Body Keeps the Score",
+  "caption": "💙 The Body Keeps the Score – Bessel van der Kolk\n\nHow trauma lives in the brain and body, and the paths that help people recover.\n\nA modern reference on healing, read by therapists and curious minds alike. Take it slowly, one chapter at a time.\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TheBodyKeepsTheScore #BesselVanDerKolk #Healing #Psychology #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/The Body Keeps the Score/body-keeps-the-score-aesthetic-1.jpg"
+    }
+   },
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/The Body Keeps the Score/body-keeps-the-score-aesthetic-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-20-3",
+  "kind": "story",
+  "publish_at": "2026-11-20T15:45:00+00:00",
+  "title": "جمرة",
+  "slides": [
+   {
+    "fn": "story_cover",
+    "args": {
+     "cover_path": "couvertures/jamra.jpg",
+     "title": "جمرة",
+     "author": "دعاء الجدعاني",
+     "tagline": "رواية تترك أثرها طويلًا",
+     "kicker": "اختيارنا",
+     "cta": "اطلبه عبر الرسائل",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-20-pack-mahfouz",
+  "kind": "post",
+  "publish_at": "2026-11-20T16:30:00+00:00",
+  "title": "Pack · Mahfouz",
+  "caption": "☕ باقة · محفوظ، الأساسيات\n\nملحمة الحرافيش + أولاد حارتنا\n\nرائعتان للروائي المصري الحائز على جائزة نوبل نجيب محفوظ، معًا بثمن مخفض في باقة واحدة 📚\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #نجيب_محفوظ #ملحمة_الحرافيش #أولاد_حارتنا #أدب_عربي #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Mahfouz/mahfouz-kie-pack-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-20-4",
+  "kind": "story",
+  "publish_at": "2026-11-20T18:30:00+00:00",
+  "title": "Pack · روبرت غرين",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/qawaid-al-satwa.jpg",
+      "couvertures/qawanin-al-tabia-al-bashariya.jpg",
+      "couvertures/al-itqan.jpg",
+      "couvertures/33-istratijiya-lil-harb.jpg"
+     ],
+     "title": "روبرت غرين",
+     "sub": "السطوة والإتقان والطبيعة البشرية والاستراتيجية",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-20-too-nice-for-your-own-good",
+  "kind": "post",
+  "publish_at": "2026-11-20T21:25:00+00:00",
+  "title": "Too Nice for Your Own Good",
+  "caption": "😊 Too Nice for Your Own Good – Duke Robinson\n\nHow to stop making the 9 self-sabotaging mistakes of people who can't say no.\n\nKind doesn't have to mean exhausted.\n\n📚 Also in our new Self-Discipline pack (discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TooNiceForYourOwnGood #DukeRobinson #Boundaries #SelfGrowth #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Too Nice for Your Own Good/too-nice-for-your-own-good-kie-aesthetic-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-20-5",
+  "kind": "story",
+  "publish_at": "2026-11-20T22:15:00+00:00",
+  "title": "Pack · Elif Shafak",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/10-minutes-38-seconds.jpg",
+      "couvertures/the-forty-rules-of-love.jpg"
+     ],
+     "title": "Elif Shafak",
+     "sub": "10 Minutes 38 Seconds + The Forty Rules of Love",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-21-1",
+  "kind": "story",
+  "publish_at": "2026-11-21T10:00:00+00:00",
+  "title": "The Cousins",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/The Cousins/the-cousins-aesthetic-1.jpg",
+     "title": "The Cousins",
+     "kicker": "Today's read",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-21-la-psychologie-de-l-argent",
+  "kind": "post",
+  "publish_at": "2026-11-21T12:00:00+00:00",
+  "title": "La psychologie de l'argent",
+  "caption": "💸 La psychologie de l'argent – Morgan Housel\n\nS'enrichir, ce n'est pas qu'une question de chiffres : c'est une question de comportement.\n\nDes leçons intemporelles sur la richesse, la cupidité et le bonheur, en courtes histoires faciles à lire.\n\n📚 Aussi dans notre pack Mental de champion (prix réduit).\n\n🚚 Livraison gratuite dès 3 livres · Paiement à la livraison\n\n#iRead #ireadma #LaPsychologieDeLArgent #MorganHousel #Finance #Argent #LivreMaroc #Bookstagram\n\n👉 Commandez dès maintenant via DM, WhatsApp ou sur www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/La psychologie de l'argent/la-psychologie-de-l-argent-aesthetic-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-21-2",
+  "kind": "story",
+  "publish_at": "2026-11-21T12:45:00+00:00",
+  "title": "Extrait · Tales from the Cafe",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/tales-from-the-cafe.jpg",
+     "page_path": "photos/Tales from the Cafe/tales-from-the-cafe-page-3.jpg",
+     "title": "Tales from the Cafe",
+     "author": "Toshikazu Kawaguchi",
+     "box": [
+      0,
+      0.1,
+      1,
+      0.812
+     ],
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-21-taammulat-malek-bennabi",
+  "kind": "post",
+  "publish_at": "2026-11-21T15:00:00+00:00",
+  "title": "تأملات",
+  "caption": "🕯️ تأملات – مالك بن نبي\n\nخواطر المفكر الجزائري الكبير حول الإنسان والحضارة ومشكلات عالمنا العربي والإسلامي\n\nكتاب صغير لمن يحب أن يفكر 🌿\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #مالك_بن_نبي #تأملات #فكر #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/تأملات/taammulat-malek-bennabi-kie-aesthetic-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-21-3",
+  "kind": "story",
+  "publish_at": "2026-11-21T15:45:00+00:00",
+  "title": "Candide ou Le Prince ?",
+  "slides": [
+   {
+    "fn": "story_ab",
+    "args": {
+     "cover_a": "couvertures/candide.jpg",
+     "cover_b": "couvertures/le-prince.jpg",
+     "question": "Candide ou Le Prince ?",
+     "sub": "Voltaire ou Machiavel, ton camp ?",
+     "cta": "Réponds en message"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-21-fix-her-up",
+  "kind": "carousel",
+  "publish_at": "2026-11-21T16:30:00+00:00",
+  "title": "Fix Her Up",
+  "caption": "🔨 Fix Her Up – Tessa Bailey\n\nGeorgie needs to be taken seriously. Travis needs a fake girlfriend to fix his reputation. What could go wrong? 😏\n\nA fun, spicy rom-com, for adult readers.\n\n📚 Also in our new Tessa Bailey pack (discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #FixHerUp #TessaBailey #RomCom #BookTok #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Fix Her Up/fixherup-aesthetic-2.jpg"
+    }
+   },
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Fix Her Up/fixherup-aesthetic-3.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-21-4",
+  "kind": "story",
+  "publish_at": "2026-11-21T18:30:00+00:00",
+  "title": "Pack · Albert Camus",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/la-chute.jpg",
+      "couvertures/la-peste.jpg",
+      "couvertures/la-mort-heureuse.jpg"
+     ],
+     "title": "Albert Camus",
+     "sub": "La Chute, La Peste et La Mort heureuse",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-21-ibqa-qawiyyan",
+  "kind": "post",
+  "publish_at": "2026-11-21T21:25:00+00:00",
+  "title": "ابق قويًا",
+  "caption": "🕊️ ابق قويًا: 365 يومًا في السنة – ديمي لوفاتو\n\nكلمة قصيرة لكل يوم من أيام السنة، تذكرك بأن الطريق يستمر وأنك أقوى مما تظن\n\nرفيق لطيف لصباحاتك ☕\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #ابق_قويا #ديمي_لوفاتو #تطوير_الذات #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/ابق قويًا: 365 يومًا في السنة/ibqa-qawiyyan-kie-aesthetic-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-21-5",
+  "kind": "story",
+  "publish_at": "2026-11-21T22:15:00+00:00",
+  "title": "Pack · Surrounded by…",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/surrounded-by-narcissists.jpg",
+      "couvertures/surrounded-by-psychopaths.jpg",
+      "couvertures/surrounded-by-liars.jpg",
+      "couvertures/surrounded-by-energy-vampires.jpg"
+     ],
+     "title": "Surrounded by…",
+     "sub": "The 4 Thomas Erikson books",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ }
+]
