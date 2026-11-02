@@ -2797,10 +2797,9 @@
   },
   {
    "id": "post-2026-11-21-fix-her-up",
-   "kind": "carousel",
+   "kind": "post",
    "media": [
-    "posts/2026-11-21-fix-her-up/1.jpg",
-    "posts/2026-11-21-fix-her-up/2.jpg"
+    "posts/2026-11-21-fix-her-up/1.jpg"
    ],
    "publish_at": "2026-11-21T16:30:00+00:00",
    "title": "Fix Her Up",
