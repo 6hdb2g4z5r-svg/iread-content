@@ -111,9 +111,11 @@ def pick(slug, folder, aes, pages):
         if not labels:
             continue
         lst = json.load(open(os.path.join(d, f"{kind}.json")))
-        n = len([x for x in os.listdir(dest) if f"-{suffix}-" in x])
         for l in labels:
-            n += 1
+            # premier numéro libre : ne jamais écraser un fichier rangé par un autre agent (ex. agent F, photos Instagram)
+            n = 1
+            while os.path.exists(os.path.join(dest, f"{slug}-{suffix}-{n}.jpg")):
+                n += 1
             shutil.copy(lst[int(l)], os.path.join(dest, f"{slug}-{suffix}-{n}.jpg"))
     print(folder, "→", sorted(os.listdir(dest)))
 
