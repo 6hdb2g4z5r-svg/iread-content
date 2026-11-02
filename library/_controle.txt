@@ -23,3 +23,5 @@
 02/11 | story-2026-11-10-4 | liste avec Deep Work archivé | retiré
 02/11 | 19 stories | doublons visuels, éditions, textes coupés, pack incomplet | retirées
 02/11 | 9 stories de packs | photos KIE à texte faux | refaites en collage de vraies couvertures
+02/11 | 9 carrousels | slide 2 = 2e photo de couverture, aucune page disponible | passés en photo seule (demande d'Amine)
+02/11 | post-2026-11-21-fix-her-up | slide 2 = couverture | remplacée par une vraie page

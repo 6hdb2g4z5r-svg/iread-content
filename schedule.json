@@ -1209,10 +1209,9 @@
   },
   {
    "id": "post-2026-11-03-new-king-of-pride",
-   "kind": "carousel",
+   "kind": "post",
    "media": [
-    "posts/2026-11-03-new-king-of-pride/1.jpg",
-    "posts/2026-11-03-new-king-of-pride/2.jpg"
+    "posts/2026-11-03-new-king-of-pride/1.jpg"
    ],
    "publish_at": "2026-11-03T12:30:00+00:00",
    "title": "King of Pride",
@@ -1238,10 +1237,9 @@
   },
   {
    "id": "post-2026-11-03-new-10-minutes-38-seconds",
-   "kind": "carousel",
+   "kind": "post",
    "media": [
-    "posts/2026-11-03-new-10-minutes-38-seconds/1.jpg",
-    "posts/2026-11-03-new-10-minutes-38-seconds/2.jpg"
+    "posts/2026-11-03-new-10-minutes-38-seconds/1.jpg"
    ],
    "publish_at": "2026-11-03T14:55:00+00:00",
    "title": "10 Minutes 38 Seconds in This Strange World",
@@ -1915,10 +1913,9 @@
   },
   {
    "id": "post-2026-11-10-al-ayyam-allati-sata-ti",
-   "kind": "carousel",
+   "kind": "post",
    "media": [
-    "posts/2026-11-10-al-ayyam-allati-sata-ti/1.jpg",
-    "posts/2026-11-10-al-ayyam-allati-sata-ti/2.jpg"
+    "posts/2026-11-10-al-ayyam-allati-sata-ti/1.jpg"
    ],
    "publish_at": "2026-11-10T14:20:00+00:00",
    "title": "الأيام التي ستأتي",
@@ -2306,10 +2303,9 @@
   },
   {
    "id": "post-2026-11-15-never-lie",
-   "kind": "carousel",
+   "kind": "post",
    "media": [
-    "posts/2026-11-15-never-lie/1.jpg",
-    "posts/2026-11-15-never-lie/2.jpg"
+    "posts/2026-11-15-never-lie/1.jpg"
    ],
    "publish_at": "2026-11-15T21:25:00+00:00",
    "title": "Never Lie",
@@ -2442,10 +2438,9 @@
   },
   {
    "id": "post-2026-11-17-the-way-i-used-to-be",
-   "kind": "carousel",
+   "kind": "post",
    "media": [
-    "posts/2026-11-17-the-way-i-used-to-be/1.jpg",
-    "posts/2026-11-17-the-way-i-used-to-be/2.jpg"
+    "posts/2026-11-17-the-way-i-used-to-be/1.jpg"
    ],
    "publish_at": "2026-11-17T15:00:00+00:00",
    "title": "The Way I Used to Be",
@@ -2528,10 +2523,9 @@
   },
   {
    "id": "post-2026-11-18-if-only-i-had-told-her",
-   "kind": "carousel",
+   "kind": "post",
    "media": [
-    "posts/2026-11-18-if-only-i-had-told-her/1.jpg",
-    "posts/2026-11-18-if-only-i-had-told-her/2.jpg"
+    "posts/2026-11-18-if-only-i-had-told-her/1.jpg"
    ],
    "publish_at": "2026-11-18T15:00:00+00:00",
    "title": "If Only I Had Told Her",
@@ -2567,10 +2561,9 @@
   },
   {
    "id": "post-2026-11-18-what-every-body-is-saying",
-   "kind": "carousel",
+   "kind": "post",
    "media": [
-    "posts/2026-11-18-what-every-body-is-saying/1.jpg",
-    "posts/2026-11-18-what-every-body-is-saying/2.jpg"
+    "posts/2026-11-18-what-every-body-is-saying/1.jpg"
    ],
    "publish_at": "2026-11-18T21:25:00+00:00",
    "title": "What Every Body Is Saying",
@@ -2596,10 +2589,9 @@
   },
   {
    "id": "post-2026-11-19-men-are-from-mars",
-   "kind": "carousel",
+   "kind": "post",
    "media": [
-    "posts/2026-11-19-men-are-from-mars/1.jpg",
-    "posts/2026-11-19-men-are-from-mars/2.jpg"
+    "posts/2026-11-19-men-are-from-mars/1.jpg"
    ],
    "publish_at": "2026-11-19T12:00:00+00:00",
    "title": "Men Are from Mars, Women Are from Venus",
@@ -2701,10 +2693,9 @@
   },
   {
    "id": "post-2026-11-20-the-body-keeps-the-score",
-   "kind": "carousel",
+   "kind": "post",
    "media": [
-    "posts/2026-11-20-the-body-keeps-the-score/1.jpg",
-    "posts/2026-11-20-the-body-keeps-the-score/2.jpg"
+    "posts/2026-11-20-the-body-keeps-the-score/1.jpg"
    ],
    "publish_at": "2026-11-20T15:00:00+00:00",
    "title": "The Body Keeps the Score",
