@@ -1209,9 +1209,10 @@
   },
   {
    "id": "post-2026-11-03-new-king-of-pride",
-   "kind": "post",
+   "kind": "carousel",
    "media": [
-    "posts/2026-11-03-new-king-of-pride/1.jpg"
+    "posts/2026-11-03-new-king-of-pride/1.jpg",
+    "posts/2026-11-03-new-king-of-pride/2.jpg"
    ],
    "publish_at": "2026-11-03T12:30:00+00:00",
    "title": "King of Pride",
