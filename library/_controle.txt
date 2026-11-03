@@ -26,3 +26,14 @@
 02/11 | 9 carrousels | slide 2 = 2e photo de couverture, aucune page disponible | passés en photo seule (demande d'Amine)
 02/11 | post-2026-11-21-fix-her-up | slide 2 = couverture | remplacée par une vraie page
 02/11 | post-2026-11-21-fix-her-up | la page-1 du dossier vient de It Happened One Summer | écartée, post en photo seule
+03/11 | post-2026-11-16-pack-gout-des-livres | KIE : auteur et éditeur faux, titres tronqués ; 2 essais = couvertures inventées | retiré
+03/11 | story-2026-11-15-5 | visuel identique à story-2026-11-12-5 | retirée
+03/11 | stories 03-4, 05-6, 08-1, 11-1, 12-1, 13-new | autre édition ou couverture coupée | refaites avec la couverture du site
+03/11 | post jumana, post al-zamharir | capture d'un autre compte (autocollants), autre livre visible | autre photo, même chemin
+03/11 | post the-summer-i-turned-pretty, post 10-minutes | pastille d'une autre édition, livre coupé | autre photo, même chemin
+03/11 | post al-khadima | slides 2 et 4 tronquées | retirées, page 120 gardée
+03/11 | post-2026-11-12-the-art-of-war | page Giles, couverture Cleary ; citation de la légende venant de Giles | citation retirée, page demandée
+03/11 | posts pack romantasy-2, all-of-us-villains | titres masqués | nouvelles photos KIE
+03/11 | post al-ayyam, post no-longer-human | sans page | vraie page ajoutée
+03/11 | post al-salam-alayka | nom de pack latin dans une légende arabe | corrigé
+03/11 | stories nouvelles 15-pk6, 15-pk7, 16-pk7 | 15 et 16/11 sous 3 stories de packs | ajoutées, à valider

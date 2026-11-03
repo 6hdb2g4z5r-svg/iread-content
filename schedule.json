@@ -1370,9 +1370,7 @@
    "kind": "carousel",
    "media": [
     "posts/2026-11-04-al-khadima/1.jpg",
-    "posts/2026-11-04-al-khadima/2.jpg",
-    "posts/2026-11-04-al-khadima/3.jpg",
-    "posts/2026-11-04-al-khadima/4.jpg"
+    "posts/2026-11-04-al-khadima/3.jpg"
    ],
    "publish_at": "2026-11-04T19:45:00+00:00",
    "title": "الخادمة",
@@ -1916,9 +1914,10 @@
   },
   {
    "id": "post-2026-11-10-al-ayyam-allati-sata-ti",
-   "kind": "post",
+   "kind": "carousel",
    "media": [
-    "posts/2026-11-10-al-ayyam-allati-sata-ti/1.jpg"
+    "posts/2026-11-10-al-ayyam-allati-sata-ti/1.jpg",
+    "posts/2026-11-10-al-ayyam-allati-sata-ti/2.jpg"
    ],
    "publish_at": "2026-11-10T14:20:00+00:00",
    "title": "الأيام التي ستأتي",
@@ -2060,7 +2059,7 @@
    ],
    "publish_at": "2026-11-12T11:05:00+00:00",
    "title": "The Art of War",
-   "caption": "⚔️ The Art of War – Sun Tzu (translated by Thomas Cleary)\n\n\"Attack him where he is unprepared, appear where you are not expected.\"\n\n2,500 years old and still read by leaders, athletes and entrepreneurs. Strategy in its purest form 👉\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TheArtOfWar #SunTzu #Strategy #Leadership #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅"
+   "caption": "⚔️ The Art of War – Sun Tzu (translated by Thomas Cleary)\n\n2,500 years old and still read by leaders, athletes and entrepreneurs. Strategy in its purest form 👉\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TheArtOfWar #SunTzu #Strategy #Leadership #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅"
   },
   {
    "id": "story-2026-11-02-pk3",
@@ -2274,7 +2273,7 @@
    ],
    "publish_at": "2026-11-15T15:00:00+00:00",
    "title": "السلام عليك يا صاحبي",
-   "caption": "🌿 السلام عليك يا صاحبي – أدهم شرقاوي\n\nكلمات تشبه رسالة من صديق يعرف ما في قلبك، بأسلوب أدهم شرقاوي القريب من الروح\n\nاسحب لتقرأ صفحة منه 👈\n\n📚 متوفر أيضًا في باقة «Sur les pas du Prophète» بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #أدهم_شرقاوي #السلام_عليك_يا_صاحبي #كتب_عربية #قراءة #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅"
+   "caption": "🌿 السلام عليك يا صاحبي – أدهم شرقاوي\n\nكلمات تشبه رسالة من صديق يعرف ما في قلبك، بأسلوب أدهم شرقاوي القريب من الروح\n\nاسحب لتقرأ صفحة منه 👈\n\n📚 متوفر أيضًا في باقة بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #أدهم_شرقاوي #السلام_عليك_يا_صاحبي #كتب_عربية #قراءة #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅"
   },
   {
    "id": "story-2026-11-15-3",
@@ -2305,6 +2304,15 @@
    "title": "Pack · Think Different"
   },
   {
+   "id": "story-2026-11-15-pk7",
+   "kind": "story",
+   "media": [
+    "stories/2026-11-15-pk7.jpg"
+   ],
+   "publish_at": "2026-11-15T19:30:00+00:00",
+   "title": "Pack · Frissons en arabe 2"
+  },
+  {
    "id": "post-2026-11-15-never-lie",
    "kind": "post",
    "media": [
@@ -2315,13 +2323,13 @@
    "caption": "🖤 Never Lie – Freida McFadden\n\nA snowstorm. A newlywed couple. An isolated manor that once belonged to a famous psychiatrist who vanished… and a hidden room full of her session tapes.\n\nDon't start it at night unless you plan to finish it. 😶\n\n📚 Also in our Freida McFadden pack (5 books, discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #NeverLie #FreidaMcFadden #Thriller #BookTok #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅"
   },
   {
-   "id": "story-2026-11-15-5",
+   "id": "story-2026-11-15-pk6",
    "kind": "story",
    "media": [
-    "stories/2026-11-15-5.jpg"
+    "stories/2026-11-15-pk6.jpg"
    ],
    "publish_at": "2026-11-15T22:15:00+00:00",
-   "title": "Pack · Heartbreak Club"
+   "title": "Pack · Nuits blanches garanties"
   },
   {
    "id": "story-2026-11-16-1",
@@ -2373,16 +2381,6 @@
    "title": "Plus rien ne pourra me blesser"
   },
   {
-   "id": "post-2026-11-16-pack-gout-des-livres",
-   "kind": "post",
-   "media": [
-    "posts/2026-11-16-pack-gout-des-livres/1.jpg"
-   ],
-   "publish_at": "2026-11-16T16:30:00+00:00",
-   "title": "Pack · Le goût des livres",
-   "caption": "📚 PACK · Le goût des livres\n\nLa Bibliothèque des rêves secrets · La Librairie de Téhéran · Le Monde de Sophie\n\nBibliothèques, librairies et philosophie : trois romans pour celles et ceux qui aiment aimer les livres.\n\n📚 Les 3 livres ensemble à prix réduit en pack\n\n🚚 Livraison gratuite dès 3 livres · Paiement à la livraison\n\n#iRead #ireadma #LeMondeDeSophie #MichikoAoyama #MarjanKamali #RomanFrançais #LivreMaroc #Bookstagram\n\n👉 Commandez dès maintenant via DM, WhatsApp ou sur www.iread.ma ✅"
-  },
-  {
    "id": "story-2026-11-16-4",
    "kind": "story",
    "media": [
@@ -2392,10 +2390,20 @@
    "title": "Pack · Plot Twists"
   },
   {
-   "id": "post-2026-11-16-no-longer-human",
-   "kind": "post",
+   "id": "story-2026-11-16-pk7",
+   "kind": "story",
    "media": [
-    "posts/2026-11-16-no-longer-human/1.jpg"
+    "stories/2026-11-16-pk7.jpg"
+   ],
+   "publish_at": "2026-11-16T19:30:00+00:00",
+   "title": "Pack · أرض زيكولا 2 و 3"
+  },
+  {
+   "id": "post-2026-11-16-no-longer-human",
+   "kind": "carousel",
+   "media": [
+    "posts/2026-11-16-no-longer-human/1.jpg",
+    "posts/2026-11-16-no-longer-human/2.jpg"
    ],
    "publish_at": "2026-11-16T21:25:00+00:00",
    "title": "No Longer Human",
