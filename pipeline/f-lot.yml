@@ -1,0 +1,31 @@
+name: Agent F (photos Instagram vers library/photos)
+on:
+  push:
+    branches: [main]
+    paths: ["library/_f_lot.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: f-lot
+  cancel-in-progress: false
+jobs:
+  ranger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -q pillow
+      - id: lot
+        continue-on-error: true
+        run: python3 -B pipeline/f_lot.py
+      - run: |
+          git config user.name "iread-agent-f"; git config user.email "bot@iread.ma"
+          git add -A library
+          git diff --cached --quiet && exit 0
+          git commit -m "Photos Instagram : lot rangé par l'agent F"
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push && exit 0; sleep 10; done
+          exit 1
+      - if: steps.lot.outcome == 'failure'
+        run: exit 1
