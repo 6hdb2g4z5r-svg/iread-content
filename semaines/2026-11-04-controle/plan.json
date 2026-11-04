@@ -1,0 +1,97 @@
+[
+ {
+  "id": "story-2026-11-12-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-12T16:30:00+00:00",
+  "title": "Pack · Mahfouz",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/malhamat-al-harafish.jpg",
+      "couvertures/awlad-haratina.jpg"
+     ],
+     "title": "نجيب محفوظ",
+     "sub": "ملحمة الحرافيش وأولاد حارتنا",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل الخاصة"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-14-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-14T12:10:00+00:00",
+  "title": "Pack · Modern Classics",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/the-stranger.jpg",
+      "couvertures/no-longer-human.jpg",
+      "couvertures/the-kite-runner.jpg"
+     ],
+     "title": "Modern Classics",
+     "sub": "Camus, Dazai and Hosseini: 3 classics that stay with you",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-17-pk7",
+  "kind": "story",
+  "publish_at": "2026-11-17T19:30:00+00:00",
+  "title": "Pack · Musso Addict",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/un-appartement-a-paris.jpg",
+      "couvertures/sept-ans-apres.jpg",
+      "couvertures/la-fille-de-papier.jpg",
+      "couvertures/que-serais-je-sans-toi.jpg"
+     ],
+     "title": "Musso Addict",
+     "sub": "6 romans de Guillaume Musso",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-17-pk8",
+  "kind": "story",
+  "publish_at": "2026-11-17T13:40:00+00:00",
+  "title": "Pack · مملكة البلاغة",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/kuikul.jpg",
+      "couvertures/abadul.jpg"
+     ],
+     "title": "مملكة البلاغة",
+     "sub": "كويكول وأبادول لحنان لاشين",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل الخاصة"
+    }
+   }
+  ]
+ }
+]

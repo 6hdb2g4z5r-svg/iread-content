@@ -40,3 +40,16 @@
 03/11 | post-2026-11-03-new-king-of-pride | photo seule, part dans moins de 45 min | non touché, pages disponibles
 03/11 | post-2026-11-18-if-only-i-had-told-her | page disponible, post hors des 14 jours | à ajouter au prochain passage qui le couvre
 03/11 | post-2026-11-03-new-king-of-pride | photo seule | page 1 ajoutée, exception aux 45 min demandée par Amine
+04/11 | story-2026-11-12-pk1 | photo KIE Twisted, accroches déformées, livre dans le miroir | retiré, remplacé par story-2026-11-12-pk3 (Mahfouz, à valider)
+04/11 | story-2026-11-14-pk1 | photo KIE Le café du temps, texte faux et couvertures redessinées | retiré, remplacé par story-2026-11-14-pk3 (Modern Classics, à valider)
+04/11 | story-2026-11-17-2 | page d'Atomic Habits fabriquée, citation fausse | refait avec page-2 réelle, page-4 dans _ecartees
+04/11 | post-2026-11-17-quwwat-al-adat | logos New Balance visibles | logos effacés sur le post (source library inchangée)
+04/11 | story-2026-11-05-4-v2 | Shoe Dog exemplaire abîmé, blurb coupé | refait avec la couverture du site
+04/11 | story-2026-11-05-pk1 | même jour que le post Your Fault | déplacé au 06/11 19:45
+04/11 | story-2026-11-06-5-v2 | même jour que le post Elle & lui | déplacé au 05/11 18:10
+04/11 | story-2026-11-05-pk3 | libère le créneau, langue | déplacé au 05/11 15:45
+04/11 | story-2026-11-07-2-v2 | même jour que le post Twisted Games | échangé avec story-2026-11-09-2 (09/11 19:45)
+04/11 | story-2026-11-17-pk7, pk8 | 17/11 à 1 story de pack | ajoutées, à valider
+04/11 | post-2026-11-12-the-art-of-war | page Giles, couverture Cleary | gardé selon règle h, page déjà demandée
+04/11 | post-2026-11-15-pack-romantasy-2, post-2026-11-17-pack-penseurs-eternels | micro-textes KIE faux (A SHATHEH ME NOVEL, Françsts Voltaire) | gardés, à arbitrer par Amine
+04/11 | post-2026-11-15-never-lie, post-2026-11-17-the-way-i-used-to-be | photos proches du site mais pas identiques | gardés, à arbitrer par Amine
