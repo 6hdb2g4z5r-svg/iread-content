@@ -76,3 +76,21 @@ DenDICMMaFz | reel | - | reel, ignoré | 2026-11-03
 DeXPtQ6Onf6 | reel | - | reel, ignoré | 2026-11-03
 CSQ6FOVHN54 | reel | - | reel, ignoré | 2026-11-03
 CUjsxNel4jo | reel | - | reel, ignoré | 2026-11-03
+DUBalRhCuNl | garde | La Peste | 1 cover (Folio, édition du site) | 2026-11-04
+Da4_ZjIDf_G | ecarte | La Peste | texte ajouté sur les slides, page de titre seule | 2026-11-04
+DB1EnrbIowM | garde | Le Prince | 2 covers (Pocket) | 2026-11-04
+DN_e-W4ANQw | garde | Le Prince | 1 cover (Pocket) | 2026-11-04
+DR43mfGjWF3 | garde | Le Prince | 1 cover + 1 page (p. 69, recadrée) ; autres pages avec notes collées | 2026-11-04
+CJWMz4wHETE | ecarte | Chanson douce | pages d'un autre livre visibles autour de la couverture | 2026-11-04
+DRUbzenCFlo | ecarte | الخادمة | fond blanc, slide de texte, dos du livre | 2026-11-04
+DI9afJWNlSr | garde | الخادمة | 1 cover ; pages coupées sur les côtés écartées | 2026-11-04
+De4n9g3COmG | hors-catalogue | - | livre non vendu sur iread.ma | 2026-11-04
+DeWvaGPDd31 | ecarte | Too Nice for Your Own Good | édition arabe Jarir, site = anglais | 2026-11-04
+DdbfA-pjOn_ | garde | الأيام التي ستأتي | 1 cover ; pages à contre-jour écartées | 2026-11-04
+Ddq1UjMAlu3 | garde | الأيام التي ستأتي | 1 page (p. 13, recadrée) ; passages sur la mort écartés | 2026-11-04
+DI9h1vTuar- | garde | جمرة | 1 page (citation) ; filigrane 215_3.mk sur les couvertures, onglets sur le texte | 2026-11-04
+DdHqEMakdyz | garde | الجلاد تحت جلدي | 1 page (recadrée) ; couverture écartée, tampon طبعة خاصة absent du site | 2026-11-04
+DeK6vBeDC4p | ecarte | جلسات نفسية | réimpression sans logo d'éditeur, autre édition que le site | 2026-11-04
+DeZ8kQ4OnLq | reel | - | reel, ignoré | 2026-11-04
+DdLBOFOTuS7 | reel | - | reel, ignoré | 2026-11-04
+Derv_MrTzlm | reel | - | reel, ignoré | 2026-11-04
