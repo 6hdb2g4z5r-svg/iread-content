@@ -296,10 +296,13 @@ def story_pack(cover_paths, title, sub, out, dark=True, kicker="Pack", lang="fr"
     pill(img, SW // 2, 230, kicker, bg=GOLD, fg=NAVY)
     y = draw_block(d, SW // 2, 300, title, "serif", 74, 600, fg, 960, max_lines=2)
     draw_block(d, SW // 2, y + 6, sub, "sans", 30, 400, sub_c, 960, max_lines=2)
-    covs = [load(c) for c in cover_paths[:4]]
+    covs = [load(c) for c in cover_paths[:6]]
     n = len(covs)
-    # bigger covers: 3 in one big row, 4 in a 2x2 grid
-    if n == 4:
+    # bigger covers: 3 in one big row, 4 in a 2x2 grid, 6 in a 3x2 grid
+    if n in (5, 6):
+        cw, ch = 300, 450; xs = [75, 390, 705]; ys = [600, 1100]
+        pos = [(xs[i % 3], ys[i // 3]) for i in range(n)]
+    elif n == 4:
         cw, ch = 370, 520; xs = [145, 565]; ys = [530, 1080]
         pos = [(xs[i % 2], ys[i // 2]) for i in range(4)]
     else:

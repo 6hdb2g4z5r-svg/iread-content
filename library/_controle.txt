@@ -53,3 +53,17 @@
 04/11 | post-2026-11-12-the-art-of-war | page Giles, couverture Cleary | gardé selon règle h, page déjà demandée
 04/11 | post-2026-11-15-pack-romantasy-2, post-2026-11-17-pack-penseurs-eternels | micro-textes KIE faux (A SHATHEH ME NOVEL, Françsts Voltaire) | gardés, à arbitrer par Amine
 04/11 | post-2026-11-15-never-lie, post-2026-11-17-the-way-i-used-to-be | photos proches du site mais pas identiques | gardés, à arbitrer par Amine
+06/11 | post-2026-11-08-pack-dostoevsky-en | The Double couvert, titre coupé | refait avec kie-pack-1
+06/11 | story-2026-11-07-7 | même photo que le post du 08/11 après correction | refait en collage de couvertures
+06/11 | post-2026-11-15-the-stranger | couverture coupée, mot manuscrit de tiers | slide 1 refaite (aesthetic-1 recadrée)
+06/11 | post-2026-11-15-al-salam-alayka-ya-sahibi | coin coupé | slide 1 refaite (aesthetic-3)
+06/11 | post-2026-11-16-mindset | haut de la couverture coupé | recadré
+06/11 | post-2026-11-16-sahib-al-zill-al-tawil | photo sombre, coupée | slide 1 refaite (aesthetic-2), gobelet effacé
+06/11 | post-2026-11-18-if-only-i-had-told-her | main sur l'auteur, pas de page | carrousel photo aesthetic-3 + page-1
+06/11 | story-2026-11-17-pk7 | 4 couvertures pour 6 romans | refaite avec les 6
+06/11 | story-2026-11-19-1 | photo KIE, auteur illisible | refaite avec la couverture du site
+06/11 | post-2026-11-07-al-zamharir-v2 | légende : tome présenté hors de la saga | من → في
+06/11 | post-2026-11-18-kitab-al-raha, 19-madrasat, 19-mulahazat | nom de pack en latin dans une phrase arabe | nom retiré
+06/11 | 9 posts 14-19/11 | photos IA voisines | heures changées, plus aucune paire jusqu'au 19/11 21:25
+06/11 | story-2026-11-18-pk6, 19-pk6, 19-pk7 | moins de 3 stories de packs | ajoutées, à valider
+06/11 | reels #214308, #216726 | doublon du post du 23/10 ; sans légende et édition UK | signalés à Amine
