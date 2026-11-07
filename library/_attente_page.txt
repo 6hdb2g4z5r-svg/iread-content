@@ -1,0 +1,27 @@
+# Posts de livres retirés de schedule.json le 07/11/2026 (Claude, demande d'Amine)
+# Règle : plus aucun post de livre avec la couverture seule. Pas de page = pas de post.
+# Un item revient dans schedule.json seulement en carrousel (slide 1 = photo du livre,
+# slide 2 = vraie page du livre), à une date libre, et la ligne est alors retirée d'ici.
+# Item complet (légende, médias) : schedule.json au commit f6b70426e786d7390ac871e593a5924423c2663d.
+# id | Titre | date prévue (UTC) | note
+post-2026-11-07-al-zamharir-v2 | الزمهرير | 2026-11-07T17:20 | page à trouver
+post-2026-11-07-le-roi-du-silence-v2 | Le Roi du silence | 2026-11-07T19:45 | page à trouver
+post-2026-11-08-1984-ar | 1984 | 2026-11-08T21:25 | page à trouver (édition arabe)
+post-2026-11-09-yasmin-abyad | ياسمين أبيض | 2026-11-09T14:20 | page à trouver
+post-2026-11-11-abadul | أبادول | 2026-11-11T14:20 | page à trouver
+post-2026-11-15-never-lie | Never Lie | 2026-11-15T16:30 | page à trouver
+post-2026-11-19-madrasat-muhammad | مدرسة محمد ﷺ | 2026-11-16T15:00 | page à trouver
+post-2026-11-17-the-way-i-used-to-be | The Way I Used to Be | 2026-11-17T15:00 | page à trouver
+post-2026-11-18-kitab-al-raha | كتاب الراحة | 2026-11-18T12:00 | page à trouver
+post-2026-11-18-muhat-bil-hamqa | محاط بالحمقى | 2026-11-18T16:30 | page à trouver
+post-2026-11-18-what-every-body-is-saying | What Every Body Is Saying | 2026-11-18T21:25 | page à trouver
+post-2026-11-17-quwwat-al-adat | قوة العادات | 2026-11-19T12:00 | page à trouver
+post-2026-11-19-men-are-from-mars | Men Are from Mars, Women Are from Venus | 2026-11-19T15:00 | page à trouver
+post-2026-11-19-mulahazat-kawkab-mutawattir | ملاحظات حول كوكب متوتر | 2026-11-19T21:25 | page à trouver
+post-2026-11-20-hunak-anhar-fi-al-sama | هناك أنهار في السماء | 2026-11-20T12:00 | page à trouver
+post-2026-11-20-the-body-keeps-the-score | The Body Keeps the Score | 2026-11-20T15:00 | PAGE DISPONIBLE : body-keeps-the-score-page-2.jpg -> refaire en carrousel
+post-2026-11-20-too-nice-for-your-own-good | Too Nice for Your Own Good | 2026-11-20T21:25 | page à trouver
+post-2026-11-21-la-psychologie-de-l-argent | La psychologie de l'argent | 2026-11-21T12:00 | page à trouver
+post-2026-11-21-taammulat-malek-bennabi | تأملات | 2026-11-21T15:00 | page à trouver
+post-2026-11-21-fix-her-up | Fix Her Up | 2026-11-21T16:30 | PAGE DISPONIBLE : fixherup-page-2.jpg -> refaire en carrousel
+post-2026-11-21-ibqa-qawiyyan | ابق قويًا | 2026-11-21T21:25 | page à trouver
