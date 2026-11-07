@@ -170,7 +170,7 @@ Two Twisted Crowns | ok
 كتاب الراحة | ok-kie
 ابق قويًا: 365 يومًا في السنة | ok-kie
 جمالية الدين: معارج القلب إلى حياة الروح | ok-kie
-Five Survive | skip
+Five Survive | partiel
 الجلاد تحت جلدي | partiel
 عقدك النفسية سجنك الأبدي | partiel
 La Librairie de Téhéran | partiel
@@ -185,3 +185,6 @@ Talk Like TED | partiel
 قواعد جارتين | partiel
 سيكولوجية المال | partiel
 رسائل من النبي ﷺ | partiel
+Blue Lock – Tome 1 | partiel
+Et que Dieu me pardonne | partiel
+Le Rocher de Tanios | partiel
