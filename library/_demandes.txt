@@ -2,22 +2,14 @@
 # Format : Titre exact du catalogue | raison | date
 Emotional Intelligence | photos d'ambiance de l'édition du site (couverture blanche, cœur rouge) : les 4 photos étaient d'autres éditions | 2026-11-01
 Deep Work | édition FRANÇAISE du site (Alisio, bleue) : toutes les photos étaient l'édition anglaise | 2026-11-01
-La Peste | vraies pages surlignées de l'édition française (les pages étaient en italien, espagnol, anglais ou carte InstaQuote) | 2026-11-01
 Chanson douce | vraie page surlignée (la page était d'un autre livre, Morgane Moncomble) | 2026-11-01
 أنتيخريستوس II | photo d'ambiance du tome II seul (la seule photo montre aussi le tome I, absent du site) | 2026-11-01
 انتريستا 2: إيقاع النار | photo d'ambiance du tome 2 seul (la seule photo montre aussi le tome 1, absent du site) | 2026-11-01
 Plus rien ne pourra me blesser | photo d'ambiance de l'édition du site (bandeau « 4 millions ») | 2026-11-01
-No Longer Human | vraie page surlignée imprimée (les pages actuelles sont des captures ebook ou un passage sensible) | 2026-11-01
 Le Monde de Sophie | photos d'ambiance de l'édition française Points (les 2 photos étaient Sophie's World, anglais, écartées) | 2026-11-02
-The Body Keeps the Score | vraies pages surlignées de l'édition du site (pages actuelles : autre livre ou passage sensible) | 2026-11-02
 PACK | bonne-humeur | photo de pack à retenter (KIE a inventé les couvertures) | 2026-11-02
 PACK | plot-twists | photo de pack à retenter (KIE : We Were Liars, texte déformé, 2 échecs) | 2026-11-02
-10 Minutes 38 Seconds in This Strange World | page surlignée demandée pour carrousel (slide 2) | 2026-11-02
-Never Lie | page surlignée demandée pour carrousel (slide 2) | 2026-11-02
-The Way I Used to Be | page surlignée demandée pour carrousel (slide 2) | 2026-11-02
 What Every Body Is Saying | page surlignée demandée pour carrousel (slide 2) | 2026-11-02
-Men Are from Mars, Women Are from Venus | page surlignée demandée pour carrousel (slide 2) | 2026-11-02
-The Body Keeps the Score | page surlignée demandée pour carrousel (slide 2) | 2026-11-02
 Fix Her Up | page surlignée demandée pour carrousel (slide 2) ; page-1 écartée, c'était It Happened One Summer | 2026-11-02
 Les amants de Casablanca | page réelle manquante (post du 2026-11-02) | 2026-11-02
 قنديشة: اللعنة المدفونة | page réelle manquante (post du 2026-11-02) | 2026-11-02
@@ -30,7 +22,6 @@ Elle & lui | page réelle manquante (post du 2026-11-06) | 2026-11-02
 أين المفر | page réelle manquante (post du 2026-11-06) | 2026-11-02
 Le Roi du silence | page réelle manquante (post du 2026-11-07) | 2026-11-02
 الزمهرير | page réelle manquante (post du 2026-11-07) | 2026-11-02
-1984 | page réelle manquante (post du 2026-11-08) | 2026-11-02
 ياسمين أبيض | page réelle manquante (post du 2026-11-09) | 2026-11-02
 أبادول | page réelle manquante (post du 2026-11-11) | 2026-11-02
 قوة العادات | page réelle manquante (post du 2026-11-17) | 2026-11-02
@@ -46,4 +37,3 @@ La psychologie de l'argent | page réelle manquante (post du 2026-11-21) | 2026-
 The Art of War | vraie page de l'édition Thomas Cleary (les pages actuelles sont la traduction Giles) | 2026-11-03
 الخادمة | page entière nette, sans ligne coupée ni rectangle | 2026-11-03
 PACK | gout-des-livres | photo de pack à retenter (KIE invente les couvertures, 3 essais écartés) | 2026-11-03
-Your Fault | page entière en portrait 4:5 plein cadre, idéalement surlignée (l'actuelle est recadrée sur fond) | 2026-11-04

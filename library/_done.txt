@@ -1,9 +1,9 @@
 # Titre | statut (ok/partiel/skip) — tenu par l'agent photos
 101 Essays That Will Change the Way You Think | ok
-1984 | ok-kie
+1984 | partiel
 Atomic Habits | ok
 Can't Hurt Me | ok
-Deep Work | ok
+Deep Work | skip
 Does It Hurt | ok
 Ego Is the Enemy | ok
 Fearless | ok
@@ -15,7 +15,7 @@ How to Talk to Anyone | ok
 Ikigai | ok-kie
 It Starts with Us | ok
 La Chute | ok
-La Peste | ok
+La Peste | partiel
 Meditations | ok
 Miracle Morning | ok-kie
 November 9 | ok
@@ -106,7 +106,7 @@ Le Défi | ok-kie
 Plus rien ne pourra me blesser | partiel
 La psychologie de l'argent | partiel
 Mindset | partiel
-Never Lie | partiel
+Never Lie | ok
 The Kite Runner | ok
 The Stranger | ok
 Throne of Glass | ok-kie
@@ -149,7 +149,7 @@ All of Our Demise | ok-kie
 What Every Body Is Saying | partiel
 Before We Say Goodbye | partiel
 A Hue of Blu | ok-kie
-The Way I Used to Be | partiel
+The Way I Used to Be | ok
 If Only I Had Told Her | partiel
 My Killer Vacation | partiel
 Surrounded by Narcissists | partiel
