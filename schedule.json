@@ -301,6 +301,12 @@
   {"id": "story-2026-11-20-liste-money-ar", "kind": "story", "media": ["stories/2026-11-20-liste-money-ar.jpg"], "publish_at": "2026-11-20T14:00:00+00:00", "title": "Liste · غيّر علاقتك بالمال"},
   {"id": "story-2026-11-21-liste-classics-en", "kind": "story", "media": ["stories/2026-11-21-liste-classics-en.jpg"], "publish_at": "2026-11-21T14:00:00+00:00", "title": "Liste · The Classics everyone should read once"},
   {"id": "story-2026-11-22-liste-thriller-fr", "kind": "story", "media": ["stories/2026-11-22-liste-thriller-fr.jpg"], "publish_at": "2026-11-22T14:00:00+00:00", "title": "Liste · Des thrillers impossibles à lâcher"},
-  {"id": "story-2026-11-23-liste-heal-ar", "kind": "story", "media": ["stories/2026-11-23-liste-heal-ar.jpg"], "publish_at": "2026-11-23T14:00:00+00:00", "title": "Liste · كتب تشبه جلسة علاج"}
- ]
+  {"id": "story-2026-11-23-liste-heal-ar", "kind": "story", "media": ["stories/2026-11-23-liste-heal-ar.jpg"], "publish_at": "2026-11-23T14:00:00+00:00", "title": "Liste · كتب تشبه جلسة علاج"},
+  {"id": "story-2026-11-10-video-good-vibes", "kind": "story", "media": ["stories/video-good-vibes-good-life.mp4"], "publish_at": "2026-11-10T13:15:00+00:00", "title": "Extrait vidéo · Good Vibes, Good Life"},
+  {"id": "story-2026-11-12-video-good-vibes", "kind": "story", "media": ["stories/video-good-vibes-good-life.mp4"], "publish_at": "2026-11-12T12:10:00+00:00", "title": "Extrait vidéo · Good Vibes, Good Life"},
+  {"id": "story-2026-11-14-video-good-vibes", "kind": "story", "media": ["stories/video-good-vibes-good-life.mp4"], "publish_at": "2026-11-14T11:00:00+00:00", "title": "Extrait vidéo · Good Vibes, Good Life"},
+  {"id": "story-2026-11-16-video-good-vibes", "kind": "story", "media": ["stories/video-good-vibes-good-life.mp4"], "publish_at": "2026-11-16T16:45:00+00:00", "title": "Extrait vidéo · Good Vibes, Good Life"},
+  {"id": "story-2026-11-18-video-good-vibes", "kind": "story", "media": ["stories/video-good-vibes-good-life.mp4"], "publish_at": "2026-11-18T11:20:00+00:00", "title": "Extrait vidéo · Good Vibes, Good Life"},
+  {"id": "story-2026-11-20-video-good-vibes", "kind": "story", "media": ["stories/video-good-vibes-good-life.mp4"], "publish_at": "2026-11-20T11:20:00+00:00", "title": "Extrait vidéo · Good Vibes, Good Life"}
+]
 }
