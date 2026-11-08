@@ -286,6 +286,21 @@
   {"id": "story-2026-11-21-2", "kind": "story", "media": ["stories/2026-11-21-2.jpg"], "publish_at": "2026-11-21T12:45:00+00:00", "title": "Extrait · Tales from the Cafe"},
   {"id": "story-2026-11-21-3", "kind": "story", "media": ["stories/2026-11-21-3.jpg"], "publish_at": "2026-11-21T15:45:00+00:00", "title": "Candide ou Le Prince ?"},
   {"id": "story-2026-11-21-4", "kind": "story", "media": ["stories/2026-11-21-4.jpg"], "publish_at": "2026-11-21T18:30:00+00:00", "title": "Pack · Albert Camus"},
-  {"id": "story-2026-11-21-5", "kind": "story", "media": ["stories/2026-11-21-5.jpg"], "publish_at": "2026-11-21T22:15:00+00:00", "title": "Pack · Surrounded by…"}
+  {"id": "story-2026-11-21-5", "kind": "story", "media": ["stories/2026-11-21-5.jpg"], "publish_at": "2026-11-21T22:15:00+00:00", "title": "Pack · Surrounded by…"},
+  {"id": "story-2026-11-09-liste-classics-ar", "kind": "story", "media": ["stories/2026-11-09-liste-classics-ar.jpg"], "publish_at": "2026-11-09T14:00:00+00:00", "title": "Liste · روائع خالدة اقرأها مرة في حياتك"},
+  {"id": "story-2026-11-10-liste-think-en", "kind": "story", "media": ["stories/2026-11-10-liste-think-en.jpg"], "publish_at": "2026-11-10T17:15:00+00:00", "title": "Liste · Books that rewire how you think"},
+  {"id": "story-2026-11-11-liste-money-fr", "kind": "story", "media": ["stories/2026-11-11-liste-money-fr.jpg"], "publish_at": "2026-11-11T14:00:00+00:00", "title": "Liste · Changez votre rapport à l'argent"},
+  {"id": "story-2026-11-12-liste-thriller-en", "kind": "story", "media": ["stories/2026-11-12-liste-thriller-en.jpg"], "publish_at": "2026-11-12T14:00:00+00:00", "title": "Liste · Thrillers you won't put down"},
+  {"id": "story-2026-11-13-liste-heal-fr", "kind": "story", "media": ["stories/2026-11-13-liste-heal-fr.jpg"], "publish_at": "2026-11-13T17:15:00+00:00", "title": "Liste · Des livres qui font du bien"},
+  {"id": "story-2026-11-14-liste-think-ar", "kind": "story", "media": ["stories/2026-11-14-liste-think-ar.jpg"], "publish_at": "2026-11-14T18:30:00+00:00", "title": "Liste · كتب تعيد تشكيل طريقة تفكيرك"},
+  {"id": "story-2026-11-15-liste-money-en", "kind": "story", "media": ["stories/2026-11-15-liste-money-en.jpg"], "publish_at": "2026-11-15T14:00:00+00:00", "title": "Liste · Fix your money mindset"},
+  {"id": "story-2026-11-16-liste-classics-fr", "kind": "story", "media": ["stories/2026-11-16-liste-classics-fr.jpg"], "publish_at": "2026-11-16T14:00:00+00:00", "title": "Liste · Les Classiques à lire au moins une fois"},
+  {"id": "story-2026-11-17-liste-thriller-ar", "kind": "story", "media": ["stories/2026-11-17-liste-thriller-ar.jpg"], "publish_at": "2026-11-17T14:30:00+00:00", "title": "Liste · روايات تشويق لن تتركها من يدك"},
+  {"id": "story-2026-11-18-liste-heal-en", "kind": "story", "media": ["stories/2026-11-18-liste-heal-en.jpg"], "publish_at": "2026-11-18T14:00:00+00:00", "title": "Liste · Books that feel like therapy"},
+  {"id": "story-2026-11-19-liste-think-fr", "kind": "story", "media": ["stories/2026-11-19-liste-think-fr.jpg"], "publish_at": "2026-11-19T14:00:00+00:00", "title": "Liste · Des livres pour mieux penser"},
+  {"id": "story-2026-11-20-liste-money-ar", "kind": "story", "media": ["stories/2026-11-20-liste-money-ar.jpg"], "publish_at": "2026-11-20T14:00:00+00:00", "title": "Liste · غيّر علاقتك بالمال"},
+  {"id": "story-2026-11-21-liste-classics-en", "kind": "story", "media": ["stories/2026-11-21-liste-classics-en.jpg"], "publish_at": "2026-11-21T14:00:00+00:00", "title": "Liste · The Classics everyone should read once"},
+  {"id": "story-2026-11-22-liste-thriller-fr", "kind": "story", "media": ["stories/2026-11-22-liste-thriller-fr.jpg"], "publish_at": "2026-11-22T14:00:00+00:00", "title": "Liste · Des thrillers impossibles à lâcher"},
+  {"id": "story-2026-11-23-liste-heal-ar", "kind": "story", "media": ["stories/2026-11-23-liste-heal-ar.jpg"], "publish_at": "2026-11-23T14:00:00+00:00", "title": "Liste · كتب تشبه جلسة علاج"}
  ]
 }
