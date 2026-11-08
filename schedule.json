@@ -307,6 +307,12 @@
   {"id": "story-2026-11-14-video-good-vibes", "kind": "story", "media": ["stories/video-good-vibes-good-life.mp4"], "publish_at": "2026-11-14T11:00:00+00:00", "title": "Extrait vidéo · Good Vibes, Good Life"},
   {"id": "story-2026-11-16-video-good-vibes", "kind": "story", "media": ["stories/video-good-vibes-good-life.mp4"], "publish_at": "2026-11-16T16:45:00+00:00", "title": "Extrait vidéo · Good Vibes, Good Life"},
   {"id": "story-2026-11-18-video-good-vibes", "kind": "story", "media": ["stories/video-good-vibes-good-life.mp4"], "publish_at": "2026-11-18T11:20:00+00:00", "title": "Extrait vidéo · Good Vibes, Good Life"},
-  {"id": "story-2026-11-20-video-good-vibes", "kind": "story", "media": ["stories/video-good-vibes-good-life.mp4"], "publish_at": "2026-11-20T11:20:00+00:00", "title": "Extrait vidéo · Good Vibes, Good Life"}
+  {"id": "story-2026-11-20-video-good-vibes", "kind": "story", "media": ["stories/video-good-vibes-good-life.mp4"], "publish_at": "2026-11-20T11:20:00+00:00", "title": "Extrait vidéo · Good Vibes, Good Life"},
+  {"id": "story-2026-11-11-video-art-of-war", "kind": "story", "media": ["stories/video-the-art-of-war.mp4"], "publish_at": "2026-11-11T11:35:00+00:00", "title": "Extrait vidéo · The Art of War"},
+  {"id": "story-2026-11-13-video-art-of-war", "kind": "story", "media": ["stories/video-the-art-of-war.mp4"], "publish_at": "2026-11-13T12:25:00+00:00", "title": "Extrait vidéo · The Art of War"},
+  {"id": "story-2026-11-15-video-art-of-war", "kind": "story", "media": ["stories/video-the-art-of-war.mp4"], "publish_at": "2026-11-15T17:05:00+00:00", "title": "Extrait vidéo · The Art of War"},
+  {"id": "story-2026-11-17-video-art-of-war", "kind": "story", "media": ["stories/video-the-art-of-war.mp4"], "publish_at": "2026-11-17T11:00:00+00:00", "title": "Extrait vidéo · The Art of War"},
+  {"id": "story-2026-11-19-video-art-of-war", "kind": "story", "media": ["stories/video-the-art-of-war.mp4"], "publish_at": "2026-11-19T11:20:00+00:00", "title": "Extrait vidéo · The Art of War"},
+  {"id": "story-2026-11-21-video-art-of-war", "kind": "story", "media": ["stories/video-the-art-of-war.mp4"], "publish_at": "2026-11-21T11:20:00+00:00", "title": "Extrait vidéo · The Art of War"}
 ]
 }
