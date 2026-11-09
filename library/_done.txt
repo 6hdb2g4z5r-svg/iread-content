@@ -102,7 +102,7 @@ The Perfect Son | partiel
 Le Défi | ok-kie
 نظرية التغافل | ok-kie
 أنوثة طاغية | ok-kie
-الأيام التي ستأتي | partiel
+الأيام التي ستأتي | ok
 Plus rien ne pourra me blesser | partiel
 La psychologie de l'argent | partiel
 Mindset | partiel
@@ -195,3 +195,5 @@ Stratégie Océan Bleu | partiel
 Blue Ocean Strategy | partiel
 This Is How You Heal | partiel
 The Secret | partiel
+الليالي البيضاء | partiel
+جلسات نفسية | partiel
