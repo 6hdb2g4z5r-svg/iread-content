@@ -1,0 +1,91 @@
+[
+ {
+  "id": "post-2026-11-20-the-body-keeps-the-score",
+  "kind": "carousel",
+  "publish_at": "2026-11-11T12:10:00+00:00",
+  "title": "The Body Keeps the Score",
+  "caption": "💙 The Body Keeps the Score – Bessel van der Kolk\n\nHow trauma lives in the brain and body, and the paths that help people recover.\n\nA modern reference on healing, read by therapists and curious minds alike. Take it slowly, one chapter at a time.\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TheBodyKeepsTheScore #BesselVanDerKolk #Healing #Psychology #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/The Body Keeps the Score/body-keeps-the-score-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/The Body Keeps the Score/the-body-keeps-the-score-page-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-19-men-are-from-mars",
+  "kind": "carousel",
+  "publish_at": "2026-11-12T11:05:00+00:00",
+  "title": "Men Are from Mars, Women Are from Venus",
+  "caption": "💚 Men Are from Mars, Women Are from Venus – John Gray\n\nThe classic guide to understanding the opposite sex: why we argue, why we go quiet, and how to actually listen.\n\nMillions of couples can't be wrong. Who would you gift it to? 😄\n\n📚 Also in our People Skills pack (discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #MenAreFromMars #JohnGray #Relationships #SelfGrowth #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Men Are from Mars, Women Are from Venus/men-are-from-mars-aesthetic-2.jpg",
+     "cy": 0.38
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Men Are from Mars, Women Are from Venus/men-are-from-mars-page-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-17-the-way-i-used-to-be",
+  "kind": "carousel",
+  "publish_at": "2026-11-15T16:30:00+00:00",
+  "title": "The Way I Used to Be",
+  "caption": "🌼 The Way I Used to Be – Amber Smith\n\nFour years of high school. One girl trying to find her voice again after the worst night of her life.\n\nA raw, tender YA novel about healing, for mature readers. Have a tissue nearby. 🤍\n\n📚 Also in our new Heartbreak Club pack (discounted price).\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TheWayIUsedToBe #AmberSmith #YABooks #BookTok #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/The Way I Used to Be/the-way-i-used-to-be-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/The Way I Used to Be/the-way-i-used-to-be-page-3.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-21-5-v2",
+  "kind": "story",
+  "publish_at": "2026-11-21T22:15:00+00:00",
+  "title": "Pack · Maple Hills",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/icebreaker-hannah-grace.jpg",
+      "couvertures/daydream-hannah-grace.jpg"
+     ],
+     "title": "Maple Hills",
+     "sub": "Icebreaker & Daydream by Hannah Grace",
+     "dark": false,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ }
+]

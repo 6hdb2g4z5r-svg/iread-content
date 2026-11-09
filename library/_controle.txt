@@ -67,3 +67,19 @@
 06/11 | 9 posts 14-19/11 | photos IA voisines | heures changées, plus aucune paire jusqu'au 19/11 21:25
 06/11 | story-2026-11-18-pk6, 19-pk6, 19-pk7 | moins de 3 stories de packs | ajoutées, à valider
 06/11 | reels #214308, #216726 | doublon du post du 23/10 ; sans légende et édition UK | signalés à Amine
+09/11 | post-2026-11-09-how-to-stop-worrying, story-2026-11-10-2 | How to Stop Worrying en rupture (stock 0) | retirés
+09/11 | story-2026-11-12-2, story-2026-11-14-2 | The Power of Your Subconscious Mind en rupture | retirées
+09/11 | story-2026-11-11-liste-money-fr | La psychologie de l'argent en rupture | retirée
+09/11 | story-2026-11-18-liste-heal-en | The Mountain Is You en rupture | retirée
+09/11 | story-2026-11-22-liste-thriller-fr | La psy et La prof en rupture | retirée
+09/11 | post-2026-11-12-the-art-of-war | page Giles, couverture Cleary (règle h) | retiré, _attente_page.txt
+09/11 | story-*-video-art-of-war ×6 | extrait en traduction Giles + 6 stories identiques | retirées
+09/11 | story-*-video-good-vibes ×5 (12,14,16,18,20/11) | même vidéo que le 10/11 | retirées, gardée 10/11
+09/11 | story-2026-11-21-5 | même visuel que story-2026-11-09-5 (Surrounded by) | remplacée par story-2026-11-21-5-v2 (pack Maple Hills), à valider
+09/11 | post-2026-11-20-the-body-keeps-the-score | page disponible | revenu en carrousel 11/11 12:10
+09/11 | post-2026-11-19-men-are-from-mars | page disponible | revenu en carrousel 12/11 11:05 (slide 1 sur fond flou, livre entier)
+09/11 | post-2026-11-17-the-way-i-used-to-be | page disponible | revenu en carrousel 15/11 16:30
+09/11 | post-2026-11-17-lakanud | photos IA voisines (Penseurs 17/11 16:30) | déplacé au 18/11 12:00
+09/11 | reel #216726 (09/11) | toujours sans légende | signalé
+09/11 | reel #367738 (11/11) | vidéo = The Teacher, Not Quite Dead Yet, The Boyfriend, The Guest List, Never Lie ; légende = pack Freida McFadden (5 autres livres) ; pas de couverture | signalé
+09/11 | reel #368313 (12/11) | Atomic Habits déjà en post le 19/10 | signalé
