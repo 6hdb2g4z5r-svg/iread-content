@@ -1,0 +1,1154 @@
+[
+ {
+  "id": "story-2026-11-22-1",
+  "kind": "story",
+  "publish_at": "2026-11-22T10:00:00+00:00",
+  "title": "La Peste",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/La Peste/lapeste-aesthetic-1.jpg",
+     "title": "La Peste",
+     "kicker": "Lecture du jour",
+     "cta": "Disponible sur iread.ma",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-22-qawaid-jartin",
+  "kind": "carousel",
+  "publish_at": "2026-11-22T12:00:00+00:00",
+  "title": "قواعد جارتين",
+  "caption": "⚔️ قواعد جارتين – عمرو عبد الحميد\n\nعالم جديد من خيال مؤلف ثنائية أرض زيكولا: بلدة لها قواعدها الصارمة، ولكل قاعدة ثمن… ومن يجرؤ على كسرها يدفعه غاليًا.\n\nفانتازيا وتشويق من الصفحة الأولى 🔥 اسحب لتقرأ صفحتين منها 👈\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #عمرو_عبد_الحميد #قواعد_جارتين #أرض_زيكولا #فانتازيا #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/قواعد جارتين/qawaid-jartin-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/قواعد جارتين/qawaid-jartin-page-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/قواعد جارتين/qawaid-jartin-page-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-22-2",
+  "kind": "story",
+  "publish_at": "2026-11-22T12:45:00+00:00",
+  "title": "Extrait · Ego Is the Enemy",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/ego-is-the-enemy.jpg",
+     "page_path": "photos/Ego Is the Enemy/ego-is-the-enemy-page-3.jpg",
+     "title": "Ego Is the Enemy",
+     "author": "Ryan Holiday",
+     "box": [
+      0.05,
+      0.325,
+      1,
+      0.567
+     ],
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-22-3",
+  "kind": "story",
+  "publish_at": "2026-11-22T15:45:00+00:00",
+  "title": "Coup de cœur · Le Passé simple",
+  "slides": [
+   {
+    "fn": "story_cover",
+    "args": {
+     "cover_path": "couvertures/le-passe-simple.jpg",
+     "title": "Le Passé simple",
+     "author": "Driss Chraïbi",
+     "tagline": "Le roman marocain qui a fait scandale en 1954.",
+     "kicker": "Coup de cœur",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-22-4",
+  "kind": "story",
+  "publish_at": "2026-11-22T18:30:00+00:00",
+  "title": "Pack · Musso Addict",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/un-appartement-a-paris.jpg",
+      "couvertures/sept-ans-apres.jpg",
+      "couvertures/la-fille-de-papier.jpg",
+      "couvertures/que-serais-je-sans-toi.jpg",
+      "couvertures/je-reviens-te-chercher.jpg",
+      "couvertures/sauve-moi.jpg"
+     ],
+     "title": "Musso Addict",
+     "sub": "6 romans de Guillaume Musso réunis",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-22-pack-maple-hills",
+  "kind": "post",
+  "publish_at": "2026-11-22T21:25:00+00:00",
+  "title": "Pack · Maple Hills",
+  "caption": "🏒 NEW PACK · Maple Hills\n\nIcebreaker · Daydream\n\nHannah Grace's hockey romances: Anastasia and Nate forced to share the ice, then Halle and Henry between books and matches. Cozy, funny and swoony, perfect for winter nights ❄️\n\n📚 The 2 books together at a discounted pack price\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #MapleHills #Icebreaker #HannahGrace #HockeyRomance #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Maple Hills/maple-hills-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-22-5",
+  "kind": "story",
+  "publish_at": "2026-11-22T22:15:00+00:00",
+  "title": "Pack · أنتيخريستوس 1 و 2",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK أنتيخريستوس/antikhristos-ar-kie-pack-1.jpg",
+     "title": "أنتيخريستوس 1 و 2",
+     "books": [
+      "أنتيخريستوس",
+      "أنتيخريستوس II"
+     ],
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-23-1",
+  "kind": "story",
+  "publish_at": "2026-11-23T10:00:00+00:00",
+  "title": "Fearless",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/Fearless/fearless-aesthetic-1.jpg",
+     "title": "Fearless",
+     "kicker": "Today's read",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-23-la-librairie-de-teheran",
+  "kind": "carousel",
+  "publish_at": "2026-11-23T12:00:00+00:00",
+  "title": "La Librairie de Téhéran",
+  "caption": "📚 La Librairie de Téhéran – Marjan Kamali\n\nTéhéran, été 1953. Dans une petite librairie de quartier, Roya rencontre Bahman : un premier amour, des poèmes de Rûmî… puis un rendez-vous manqué au milieu d'un coup d'État. Soixante ans plus tard, leurs chemins se croisent à nouveau.\n\nUne histoire d'amour bouleversante au doux parfum d'Iran 🌹 Glissez pour lire la page 👉\n\n📚 Aussi dans notre pack « Le goût des livres » (prix réduit)\n\n🚚 Livraison gratuite dès 3 livres · Paiement à la livraison\n\n#iRead #ireadma #LaLibrairieDeTeheran #MarjanKamali #RomanDAmour #LivreMaroc #Bookstagram #LectureDuMoment\n\n👉 Commandez dès maintenant via DM, WhatsApp ou sur www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/La Librairie de Téhéran/la-librairie-de-teheran-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/La Librairie de Téhéran/la-librairie-de-teheran-page-2.jpg",
+     "box": [
+      0,
+      0,
+      1,
+      0.755
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-23-2",
+  "kind": "story",
+  "publish_at": "2026-11-23T12:45:00+00:00",
+  "title": "مقتطف · جمرة",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/jamra.jpg",
+     "page_path": "photos/جمرة/jamra-page-1.jpg",
+     "title": "جمرة",
+     "author": "دعاء الجدعاني",
+     "box": [
+      0.2,
+      0.475,
+      0.76,
+      0.655
+     ],
+     "kicker": "مقتطف",
+     "cta": "اطلبه عبر الرسائل",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-23-3",
+  "kind": "story",
+  "publish_at": "2026-11-23T15:45:00+00:00",
+  "title": "Les amants de Casablanca ou Regardez-nous danser ?",
+  "slides": [
+   {
+    "fn": "story_ab",
+    "args": {
+     "cover_a": "couvertures/les-amants-de-casablanca.jpg",
+     "cover_b": "couvertures/regardez-nous-danser.jpg",
+     "question": "Ben Jelloun ou Slimani ?",
+     "sub": "Deux plumes marocaines, deux romans. Lequel ce mois-ci ?",
+     "cta": "Réponds en message"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-23-fastajabna-lah",
+  "kind": "carousel",
+  "publish_at": "2026-11-23T16:30:00+00:00",
+  "title": "فاستجبنا له",
+  "caption": "🤍 فاستجبنا له – فهد البشارة\n\nرواية عن العائلة والصبر وقوة الدعاء، عن الانتظار الطويل وعن يقين بأن الله يسمع.\n\nحكاية دافئة تلامس القلب 🌅 اسحب لتقرأ صفحة منها 👈\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #فهد_البشارة #فاستجبنا_له #روايات #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/فاستجبنا له/fastajabna-lah-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/فاستجبنا له/fastajabna-lah-page-1.jpg",
+     "box": [
+      0,
+      0,
+      0.885,
+      1
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-23-4",
+  "kind": "story",
+  "publish_at": "2026-11-23T18:30:00+00:00",
+  "title": "Pack · Marketing & stratégie",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/this-is-marketing.jpg",
+      "couvertures/influence-cialdini.jpg",
+      "couvertures/blue-ocean-strategy.jpg",
+      "couvertures/good-to-great.jpg"
+     ],
+     "title": "Marketing & stratégie",
+     "sub": "Seth Godin, Cialdini, Blue Ocean & Jim Collins",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-23-pack-hajar-al-shams-ar",
+  "kind": "post",
+  "publish_at": "2026-11-23T21:25:00+00:00",
+  "title": "Pack · حجر الشمس",
+  "caption": "☀️ باقة جديدة · حجر الشمس\n\nسماء بلا ضياء · إعصار بلا قرار · نار بلا شرار\n\nسلسلة خولة حمدي كاملة بأجزائها الثلاثة: مغامرة وفانتازيا وأسرار تتكشف جزءًا بعد جزء… ابدأها ولن تتوقف ✨\n\n📚 الأجزاء الثلاثة معًا بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #خولة_حمدي #حجر_الشمس #روايات #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبها الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK حجر الشمس/hajar-al-shams-ar-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-23-5",
+  "kind": "story",
+  "publish_at": "2026-11-23T22:15:00+00:00",
+  "title": "Pack · Colleen Hoover 2",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/hopeless-colleen-hoover.jpg",
+      "couvertures/maybe-now.jpg",
+      "couvertures/reminders-of-him.jpg",
+      "couvertures/confess-colleen-hoover.jpg"
+     ],
+     "title": "Colleen Hoover 2",
+     "sub": "Hopeless · Maybe Now · Reminders of Him · Confess",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-24-1",
+  "kind": "story",
+  "publish_at": "2026-11-24T10:00:00+00:00",
+  "title": "قواعد العشق الأربعون",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/قواعد العشق الأربعون/quarante-regles-de-l-amour-ar-aesthetic-1.jpg",
+     "title": "قواعد العشق الأربعون",
+     "kicker": "قراءة اليوم",
+     "cta": "متوفر على iread.ma",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-24-the-secret",
+  "kind": "carousel",
+  "publish_at": "2026-11-24T12:00:00+00:00",
+  "title": "The Secret",
+  "caption": "✨ The Secret – Rhonda Byrne\n\nThe book that made millions of readers believe in the law of attraction: your thoughts shape your life, so choose them well.\n\nEasy to read, hard to forget, and perfect to end the year with the right mindset. Swipe for two highlighted pages 👉\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TheSecret #RhondaByrne #LawOfAttraction #Mindset #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/The Secret/the-secret-rhonda-byrne-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/The Secret/the-secret-rhonda-byrne-page-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/The Secret/the-secret-rhonda-byrne-page-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-24-2",
+  "kind": "story",
+  "publish_at": "2026-11-24T12:45:00+00:00",
+  "title": "Extrait · La Chute",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/la-chute.jpg",
+     "page_path": "photos/La Chute/lachute-page-1.jpg",
+     "title": "La Chute",
+     "author": "Albert Camus",
+     "box": [
+      0.07,
+      0.2,
+      0.81,
+      0.507
+     ],
+     "kicker": "Extrait",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-24-3",
+  "kind": "story",
+  "publish_at": "2026-11-24T15:45:00+00:00",
+  "title": "Coup de cœur · A Tale of Two Cities",
+  "slides": [
+   {
+    "fn": "story_cover",
+    "args": {
+     "cover_path": "couvertures/a-tale-of-two-cities.jpg",
+     "title": "A Tale of Two Cities",
+     "author": "Charles Dickens",
+     "tagline": "Love, sacrifice and revolution between London and Paris.",
+     "kicker": "Staff pick",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-24-azmat-rujula",
+  "kind": "carousel",
+  "publish_at": "2026-11-24T16:30:00+00:00",
+  "title": "أزمة رجولة",
+  "caption": "🌹 أزمة رجولة – فاتن حمود\n\nنصوص قصيرة عن الحب والكرامة والنضج، تقول ما نشعر به ولا نجرؤ دائمًا على قوله… وتذكّرنا بأن نمنح أنفسنا الحب أولًا.\n\nاسحب لتقرأ صفحتين منه 👈\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #فاتن_حمود #أزمة_رجولة #خواطر #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/أزمة رجولة/azmat-rujula-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/أزمة رجولة/azmat-rujula-page-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/أزمة رجولة/azmat-rujula-page-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-24-4",
+  "kind": "story",
+  "publish_at": "2026-11-24T18:30:00+00:00",
+  "title": "Pack · Nouveau départ",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/le-pouvoir-du-moment-present.jpg",
+      "couvertures/le-pouvoir-des-habitudes.jpg",
+      "couvertures/miracle-morning.jpg",
+      "couvertures/l-obstacle-est-le-chemin.jpg"
+     ],
+     "title": "Nouveau départ",
+     "sub": "4 livres pour reprendre sa vie en main",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-24-5",
+  "kind": "story",
+  "publish_at": "2026-11-24T22:15:00+00:00",
+  "title": "Pack · Maple Hills",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Maple Hills/maple-hills-kie-pack-1.jpg",
+     "title": "Maple Hills",
+     "books": [
+      "Icebreaker",
+      "Daydream"
+     ],
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-25-1",
+  "kind": "story",
+  "publish_at": "2026-11-25T10:00:00+00:00",
+  "title": "Chanson douce",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/Chanson douce/chansondouce-aesthetic-1.jpg",
+     "title": "Chanson douce",
+     "kicker": "Lecture du jour",
+     "cta": "Disponible sur iread.ma",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-25-al-marida-al-samita",
+  "kind": "carousel",
+  "publish_at": "2026-11-25T12:00:00+00:00",
+  "title": "المريضة الصامتة",
+  "caption": "🎨 المريضة الصامتة – ألكس ميكايليديس\n\nأليشيا رسامة مشهورة أطلقت النار على زوجها 5 مرات… ثم لم تنطق بكلمة واحدة بعدها. المعالج النفسي ثيو مصمم على أن يجعلها تتكلم.\n\nتشويق نفسي بنهاية لن تتوقعها أبدًا 😶 اسحب لتقرأ صفحة منها 👈\n\n📚 متوفرة أيضًا في باقة روايات التشويق النفسي بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #المريضة_الصامتة #ألكس_ميكايليديس #روايات_تشويق #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/المريضة الصامتة/al-marida-al-samita-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/المريضة الصامتة/al-marida-al-samita-page-2.jpg",
+     "box": [
+      0,
+      0,
+      1,
+      0.957
+     ]
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/المريضة الصامتة/al-marida-al-samita-page-1.jpg",
+     "box": [
+      0,
+      0,
+      1,
+      0.962
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-25-2",
+  "kind": "story",
+  "publish_at": "2026-11-25T12:45:00+00:00",
+  "title": "Extrait · Two Twisted Crowns",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/two-twisted-crowns.jpg",
+     "page_path": "photos/Two Twisted Crowns/two-twisted-crowns-page-1.jpg",
+     "title": "Two Twisted Crowns",
+     "author": "Rachel Gillig",
+     "box": [
+      0.01,
+      0.35,
+      0.985,
+      0.59
+     ],
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-25-3",
+  "kind": "story",
+  "publish_at": "2026-11-25T15:45:00+00:00",
+  "title": "الخيميائي أم عالم صوفي ؟",
+  "slides": [
+   {
+    "fn": "story_ab",
+    "args": {
+     "cover_a": "couvertures/l-alchimiste-ar.jpg",
+     "cover_b": "couvertures/alam-sofi.jpg",
+     "question": "الخيميائي أم عالم صوفي؟",
+     "sub": "روايتان عن البحث عن المعنى، بأيهما تبدأ؟",
+     "cta": "أجب في رسالة"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-25-4",
+  "kind": "story",
+  "publish_at": "2026-11-25T18:30:00+00:00",
+  "title": "Pack · Shatter Me 1–6",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/shatter-me.jpg",
+      "couvertures/unravel-me.jpg",
+      "couvertures/ignite-me.jpg",
+      "couvertures/restore-me.jpg",
+      "couvertures/defy-me.jpg",
+      "couvertures/imagine-me.jpg"
+     ],
+     "title": "Shatter Me 1–6",
+     "sub": "The complete saga by Tahereh Mafi",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-25-pack-dark-romantasy",
+  "kind": "post",
+  "publish_at": "2026-11-25T21:25:00+00:00",
+  "title": "Pack · Dark Romantasy",
+  "caption": "🖤 NEW PACK · Dark Romantasy\n\nPhantasma · Heartless Hunter · The Atlas Complex\n\nDeadly games, witch hunters and secret magical societies: three dark, addictive fantasies with an impossible love at their heart 🗡️\n\n📚 The 3 books together at a discounted pack price\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #DarkRomantasy #Phantasma #HeartlessHunter #TheAtlasComplex #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Dark Romantasy/dark-romantasy-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-25-5",
+  "kind": "story",
+  "publish_at": "2026-11-25T22:15:00+00:00",
+  "title": "Pack · العوسج 1 و 2",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/al-awsaj.jpg",
+      "couvertures/al-awsaj-2.jpg"
+     ],
+     "title": "العوسج 1 و 2",
+     "sub": "رواية الجوهرة الرمال بجزأيها",
+     "dark": true,
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-26-1",
+  "kind": "story",
+  "publish_at": "2026-11-26T10:00:00+00:00",
+  "title": "Le Rocher de Tanios",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/Le Rocher de Tanios/le-rocher-de-tanios-aesthetic-1.jpg",
+     "title": "Le Rocher de Tanios",
+     "kicker": "Lecture du jour",
+     "cta": "Disponible sur iread.ma",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-26-no-excuses",
+  "kind": "carousel",
+  "publish_at": "2026-11-26T12:00:00+00:00",
+  "title": "No Excuses!",
+  "caption": "🚫 No Excuses! – Brian Tracy\n\nThe power of self-discipline in 21 practical ways: for your goals, your work, your money, your health and your relationships.\n\nIf this year was full of \"tomorrow\", let this be the book that turns it into \"today\" 💪 Swipe for the page 👉\n\n📚 Also in our Self-Discipline pack (discounted price)\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #NoExcuses #BrianTracy #SelfDiscipline #Productivity #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/No Excuses!/no-excuses-aesthetic-3.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/No Excuses!/no-excuses-page-1.jpg",
+     "box": [
+      0,
+      0,
+      1,
+      0.669
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-26-2",
+  "kind": "story",
+  "publish_at": "2026-11-26T12:45:00+00:00",
+  "title": "مقتطف · الأيام التي ستأتي",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/al-ayyam-allati-sata-ti.jpg",
+     "page_path": "photos/الأيام التي ستأتي/al-ayyam-allati-sata-ti-page-2.jpg",
+     "title": "الأيام التي ستأتي",
+     "author": "",
+     "box": [
+      0.05,
+      0.47,
+      1,
+      0.79
+     ],
+     "kicker": "مقتطف",
+     "cta": "اطلبه عبر الرسائل",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-26-3",
+  "kind": "story",
+  "publish_at": "2026-11-26T15:45:00+00:00",
+  "title": "Coup de cœur · مزرعة الحيوان",
+  "slides": [
+   {
+    "fn": "story_cover",
+    "args": {
+     "cover_path": "couvertures/mazraat-al-hayawan.jpg",
+     "title": "مزرعة الحيوان",
+     "author": "جورج أورويل",
+     "tagline": "حكاية رمزية خالدة عن السلطة والحرية",
+     "kicker": "اختيارنا",
+     "cta": "اطلبه عبر الرسائل",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-26-saykolojiyat-al-mal",
+  "kind": "carousel",
+  "publish_at": "2026-11-26T16:30:00+00:00",
+  "title": "سيكولوجية المال",
+  "caption": "💰 سيكولوجية المال – مورجان هاوسل\n\nالنجاح المالي لا يتعلق بما تعرفه، بل بطريقة تصرفك. 19 قصة قصيرة عن الطمع والخوف والصبر، وعن علاقتنا الغريبة بالمال.\n\nكتاب يغيّر نظرتك إلى المال والسعادة 📈 اسحب لتقرأ 👈\n\n📚 متوفر أيضًا في باقة المال بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #سيكولوجية_المال #مورجان_هاوسل #المال #تطوير_الذات #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/سيكولوجية المال/saykolojiyat-al-mal-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/سيكولوجية المال/saykolojiyat-al-mal-page-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-26-4",
+  "kind": "story",
+  "publish_at": "2026-11-26T18:30:00+00:00",
+  "title": "Pack · Marc Levy",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/elle-et-lui.jpg",
+      "couvertures/si-c-etait-a-refaire.jpg",
+      "couvertures/l-etrange-voyage-de-monsieur-daldry.jpg",
+      "couvertures/marc-levy-9.jpg"
+     ],
+     "title": "Marc Levy",
+     "sub": "4 romans pour voyager et aimer",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-26-5",
+  "kind": "story",
+  "publish_at": "2026-11-26T22:15:00+00:00",
+  "title": "Pack · حجر الشمس",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK حجر الشمس/hajar-al-shams-ar-kie-pack-1.jpg",
+     "title": "حجر الشمس",
+     "books": [
+      "سماء بلا ضياء",
+      "إعصار بلا قرار",
+      "نار بلا شرار"
+     ],
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-27-1",
+  "kind": "story",
+  "publish_at": "2026-11-27T10:00:00+00:00",
+  "title": "Et que Dieu me pardonne",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/Et que Dieu me pardonne/et-que-dieu-me-pardonne-aesthetic-1.jpg",
+     "title": "Et que Dieu me pardonne",
+     "kicker": "Lecture du jour",
+     "cta": "Disponible sur iread.ma",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-27-awwal-marra-atadabbar",
+  "kind": "carousel",
+  "publish_at": "2026-11-27T12:00:00+00:00",
+  "title": "أول مرة أتدبر القرآن",
+  "caption": "📖 أول مرة أتدبر القرآن – عادل محمد خليل\n\nدليلك لفهم وتدبر القرآن من سورة الفاتحة إلى سورة الناس: فوائد ولطائف ومعانٍ قريبة من القلب، بأسلوب بسيط يناسب الجميع.\n\nرفيق جميل لكل جمعة 🤍 اسحب لتقرأ صفحة منه 👈\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #أول_مرة_أتدبر_القرآن #تدبر_القرآن #القرآن_الكريم #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/أول مرة أتدبر القرآن/awwal-marra-atadabbar-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/أول مرة أتدبر القرآن/awwal-marra-atadabbar-page-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-27-2",
+  "kind": "story",
+  "publish_at": "2026-11-27T12:45:00+00:00",
+  "title": "Extrait · Without Merit",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/without-merit.jpg",
+     "page_path": "photos/Without Merit/without-merit-page-1.jpg",
+     "title": "Without Merit",
+     "author": "Colleen Hoover",
+     "box": [
+      0.1,
+      0.466,
+      0.86,
+      0.597
+     ],
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-27-3",
+  "kind": "story",
+  "publish_at": "2026-11-27T15:45:00+00:00",
+  "title": "Atomic Habits ou The Compound Effect ?",
+  "slides": [
+   {
+    "fn": "story_ab",
+    "args": {
+     "cover_a": "couvertures/atomic-habits.jpg",
+     "cover_b": "couvertures/the-compound-effect.jpg",
+     "question": "Atomic Habits or The Compound Effect?",
+     "sub": "Two books, one idea: small steps, big results. Your pick?",
+     "cta": "Answer by message"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-27-4",
+  "kind": "story",
+  "publish_at": "2026-11-27T18:30:00+00:00",
+  "title": "Pack · عماد رشاد عثمان",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/al-jallad-tahta-jildi.jpg",
+      "couvertures/mumtali-bil-faragh.jpg"
+     ],
+     "title": "عماد رشاد عثمان",
+     "sub": "الجلاد تحت جلدي · ممتلئ بالفراغ",
+     "dark": true,
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-27-pack-antikhristos-ar",
+  "kind": "post",
+  "publish_at": "2026-11-27T21:25:00+00:00",
+  "title": "Pack · أنتيخريستوس 1 و 2",
+  "caption": "🔥 باقة جديدة · أنتيخريستوس 1 و 2\n\nأنتيخريستوس · أنتيخريستوس II\n\nالرواية التي أثارت الجدل لـ د. أحمد خالد مصطفى مع جزئها الثاني: رحلة مظلمة بين التاريخ والأسرار والأساطير… هل تجرؤ على قراءتها؟ 🕯️\n\n📚 الجزآن معًا بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #أنتيخريستوس #أحمد_خالد_مصطفى #روايات #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبها الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK أنتيخريستوس/antikhristos-ar-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-27-5",
+  "kind": "story",
+  "publish_at": "2026-11-27T22:15:00+00:00",
+  "title": "Pack · Rose Hill",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/wild-eyes-elsie-silver.jpg",
+      "couvertures/wild-side-elsie-silver.jpg",
+      "couvertures/wildcard-elsie-silver.jpg"
+     ],
+     "title": "Rose Hill",
+     "sub": "Wild Eyes · Wild Side · Wildcard",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-28-1",
+  "kind": "story",
+  "publish_at": "2026-11-28T10:00:00+00:00",
+  "title": "The Secret Fiancée",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/The Secret Fiancée/the-secret-fiancee-aesthetic-1.jpg",
+     "title": "The Secret Fiancée",
+     "kicker": "Today's read",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-28-nazariyat-al-taghafful",
+  "kind": "carousel",
+  "publish_at": "2026-11-28T12:00:00+00:00",
+  "title": "نظرية التغافل",
+  "caption": "🌿 نظرية التغافل – ميل روبينز وسوير روبينز\n\nالنسخة العربية من The Let Them Theory: دعهم يفعلون ما يريدون، واصرف طاقتك على ما يمكنك التحكم فيه. فكرة بسيطة غيّرت حياة الملايين.\n\nاسحب لتقرأ 👈\n\n📚 متوفر أيضًا في باقة «ثقي بنفسك» بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #نظرية_التغافل #ميل_روبينز #تطوير_الذات #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/نظرية التغافل/nazariyat-al-taghafful-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/نظرية التغافل/nazariyat-al-taghafful-page-2.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/نظرية التغافل/nazariyat-al-taghafful-page-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-28-2",
+  "kind": "story",
+  "publish_at": "2026-11-28T12:45:00+00:00",
+  "title": "Extrait · Le Prince",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/le-prince.jpg",
+     "page_path": "photos/Le Prince/leprince-page-4.jpg",
+     "title": "Le Prince",
+     "author": "Nicolas Machiavel",
+     "box": [
+      0,
+      0.247,
+      1,
+      0.686
+     ],
+     "kicker": "Extrait",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-28-3",
+  "kind": "story",
+  "publish_at": "2026-11-28T15:45:00+00:00",
+  "title": "Coup de cœur · Un rien peut tout changer !",
+  "slides": [
+   {
+    "fn": "story_cover",
+    "args": {
+     "cover_path": "couvertures/un-rien-peut-tout-changer.jpg",
+     "title": "Un rien peut tout changer !",
+     "author": "James Clear",
+     "tagline": "La version française d'Atomic Habits.",
+     "kicker": "Coup de cœur",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-28-unuthat-taghiya",
+  "kind": "carousel",
+  "publish_at": "2026-11-28T16:30:00+00:00",
+  "title": "أنوثة طاغية",
+  "caption": "🌸 أنوثة طاغية – هالة بنت محمد غبان\n\nلكل أنثى حقيقية، محبة، قادرة على النجاح: كتاب عن الثقة بالنفس والأنوثة، وعن التغيير الذي يبدأ من الداخل.\n\nاسحب لتقرأ صفحة منه 👈\n\n📚 متوفر أيضًا في باقة «ثقي بنفسك» بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #أنوثة_طاغية #هالة_غبان #تطوير_الذات #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/أنوثة طاغية/unuthat-taghiya-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/أنوثة طاغية/unuthat-taghiya-page-1.jpg",
+     "box": [
+      0.075,
+      0,
+      1,
+      1
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-28-4",
+  "kind": "story",
+  "publish_at": "2026-11-28T18:30:00+00:00",
+  "title": "Pack · Mental de champion",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/plus-rien-ne-pourra-me-blesser.jpg",
+      "couvertures/reflechissez-riche-journal.jpg",
+      "couvertures/365-lois.jpg"
+     ],
+     "title": "Mental de champion",
+     "sub": "Goggins, Napoleon Hill et Robert Greene",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-28-5",
+  "kind": "story",
+  "publish_at": "2026-11-28T22:15:00+00:00",
+  "title": "Pack · Dark Romantasy",
+  "slides": [
+   {
+    "fn": "story_pack_photo",
+    "args": {
+     "photo_path": "photos/PACK Dark Romantasy/dark-romantasy-kie-pack-1.jpg",
+     "title": "Dark Romantasy",
+     "books": [
+      "Phantasma",
+      "Heartless Hunter",
+      "The Atlas Complex"
+     ],
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ }
+]
