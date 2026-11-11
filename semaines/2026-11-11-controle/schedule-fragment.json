@@ -1,0 +1,47 @@
+[
+ {
+  "id": "story-2026-11-20-pk3",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-20-pk3.jpg"
+  ],
+  "publish_at": "2026-11-20T19:30:00+00:00",
+  "title": "Pack · Racines marocaines"
+ },
+ {
+  "id": "story-2026-11-21-pk3",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-21-pk3.jpg"
+  ],
+  "publish_at": "2026-11-21T19:30:00+00:00",
+  "title": "Pack · سلسلة رسائل"
+ },
+ {
+  "id": "story-2026-11-22-pk3",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-22-pk3.jpg"
+  ],
+  "publish_at": "2026-11-22T19:30:00+00:00",
+  "title": "Pack · Le goût des livres"
+ },
+ {
+  "id": "story-2026-11-23-pk3",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-23-pk3.jpg"
+  ],
+  "publish_at": "2026-11-23T19:30:00+00:00",
+  "title": "Pack · Mental de champion"
+ },
+ {
+  "id": "story-2026-11-24-pk3",
+  "kind": "story",
+  "media": [
+   "stories/2026-11-24-pk3.jpg"
+  ],
+  "publish_at": "2026-11-24T19:30:00+00:00",
+  "title": "Pack · Frissons en arabe"
+ }
+]

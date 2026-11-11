@@ -1,0 +1,11 @@
+[
+ {"id":"story-2026-11-17-5-v2","kind":"story","publish_at":"2026-11-17T22:15:00+00:00","title":"Pack · Ali Hazelwood",
+  "slides":[{"fn":"story_pack","args":{"cover_paths":["couvertures/the-love-hypothesis.jpg","couvertures/deep-end.jpg"],"title":"Ali Hazelwood","sub":"The Love Hypothesis · Deep End","dark":true,"kicker":"New pack","lang":"en","cta":"Order via DM or on iread.ma"}}]},
+ {"id":"story-2026-11-22-4-v2","kind":"story","publish_at":"2026-11-22T18:30:00+00:00","title":"Pack · تعافي النفس",
+  "slides":[{"fn":"story_pack","args":{"cover_paths":["couvertures/abi-alladhi-akrah.jpg","couvertures/alaqat-khatira.jpg","couvertures/al-jallad-tahta-jildi.jpg"],"title":"تعافي النفس","sub":"أبي الذي أكره · علاقات خطرة · الجلاد تحت جلدي","dark":true,"kicker":"باقة جديدة","lang":"ar","cta":"اطلبها عبر الرسائل أو على iread.ma"}}]},
+ {"id":"story-2026-11-18-pk6","kind":"story","publish_at":"2026-11-18T19:30:00+00:00","title":"Pack · خولة حمدي",
+  "slides":[{"fn":"story_pack","args":{"cover_paths":["couvertures/ayna-al-mafar.jpg","couvertures/arini-anzur-ilayk.jpg","couvertures/isar-bila-qarar.jpg","couvertures/nar-bila-sharar.jpg"],"title":"خولة حمدي","sub":"أربع روايات للكاتبة التونسية، منها الجزءان 2 و 3 من حجر الشمس","dark":false,"kicker":"باقة","lang":"ar","cta":"اطلبها عبر الرسائل أو على iread.ma"}}]},
+ {"id":"post-2026-11-25-alaqat-khatira","kind":"carousel","publish_at":"2026-11-25T12:00:00+00:00","title":"علاقات خطرة",
+  "caption":"🎭 علاقات خطرة – د. محمد طه\n\nلماذا نبقى أحيانًا في علاقات تؤذينا؟ بأسلوب قريب وبسيط، يشرح د. محمد طه أنماط العلاقات الخطرة، وكيف نتعرف عليها، وكيف نحمي أنفسنا منها دون أن نعزل أنفسنا عن الآخرين.\n\nكتاب نفسي واضح يقرأ بسرعة ويبقى في الذهن طويلًا 🤍 اسحب لتقرأ صفحة منه 👈\n\n📚 متوفر أيضًا في باقة تعافي النفس بثمن مخفض\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #علاقات_خطرة #محمد_طه #علم_النفس #تطوير_الذات #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides":[{"fn":"post_photo","args":{"photo_path":"photos/علاقات خطرة/alaqat-khatira-aesthetic-1.jpg"}},{"fn":"post_page","args":{"page_path":"photos/علاقات خطرة/alaqat-khatira-page-1.jpg","box":[0,0,1,0.6]}}]}
+]

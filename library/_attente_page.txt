@@ -4,7 +4,7 @@
 # slide 2 = vraie page du livre), à une date libre, et la ligne est alors retirée d'ici.
 # Item complet (légende, médias) : schedule.json au commit f6b70426e786d7390ac871e593a5924423c2663d.
 # id | Titre | date prévue (UTC) | note
-post-2026-11-07-al-zamharir-v2 | الزمهرير | 2026-11-07T17:20 | page à trouver
+post-2026-11-07-al-zamharir-v2 | الزمهرير | 2026-11-07T17:20 | page à trouver ; reel #447171 (18/11) sur ce livre : pas de post avant le 17/01
 post-2026-11-07-le-roi-du-silence-v2 | Le Roi du silence | 2026-11-07T19:45 | page à trouver
 post-2026-11-08-1984-ar | 1984 | 2026-11-08T21:25 | pages 1984-ar-page-1/2 trouvées par B, traduction non vérifiée (الحارث النبهان ?) : à confirmer
 post-2026-11-09-yasmin-abyad | ياسمين أبيض | 2026-11-09T14:20 | page à trouver

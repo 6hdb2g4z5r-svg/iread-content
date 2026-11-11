@@ -1,0 +1,12 @@
+[
+ {"id":"story-2026-11-20-pk3","kind":"story","publish_at":"2026-11-20T19:30:00+00:00","title":"Pack · Racines marocaines",
+  "slides":[{"fn":"story_pack","args":{"cover_paths":["couvertures/le-passe-simple.jpg","couvertures/la-nuit-sacree.jpg","couvertures/le-dernier-ami.jpg","couvertures/la-prisonniere-oufkir.jpg"],"title":"Racines marocaines","sub":"Chraïbi, Ben Jelloun et Malika Oufkir","dark":true,"kicker":"Pack","lang":"fr","cta":"Commande en DM ou sur iread.ma"}}]},
+ {"id":"story-2026-11-21-pk3","kind":"story","publish_at":"2026-11-21T19:30:00+00:00","title":"Pack · سلسلة رسائل",
+  "slides":[{"fn":"story_pack","args":{"cover_paths":["couvertures/rasail-min-al-nabi.jpg","couvertures/rasail-min-al-quran.jpg","couvertures/rasail-min-al-sahaba.jpg","couvertures/rasail-min-al-tabiin.jpg"],"title":"سلسلة رسائل","sub":"رسائل من النبي ﷺ والقرآن والصحابة والتابعين","dark":true,"kicker":"باقة","lang":"ar","cta":"اطلبها عبر الرسائل أو على iread.ma"}}]},
+ {"id":"story-2026-11-22-pk3","kind":"story","publish_at":"2026-11-22T19:30:00+00:00","title":"Pack · Le goût des livres",
+  "slides":[{"fn":"story_pack","args":{"cover_paths":["couvertures/la-bibliotheque-des-reves-secrets.jpg","couvertures/la-librairie-de-teheran.jpg","couvertures/le-monde-de-sophie.jpg"],"title":"Le goût des livres","sub":"Des romans qui célèbrent la lecture","dark":false,"kicker":"Pack","lang":"fr","cta":"Commande en DM ou sur iread.ma"}}]},
+ {"id":"story-2026-11-23-pk3","kind":"story","publish_at":"2026-11-23T19:30:00+00:00","title":"Pack · Mental de champion",
+  "slides":[{"fn":"story_pack","args":{"cover_paths":["couvertures/plus-rien-ne-pourra-me-blesser.jpg","couvertures/reflechissez-riche-journal.jpg","couvertures/365-lois.jpg"],"title":"Mental de champion","sub":"Goggins, Napoleon Hill et Robert Greene","dark":false,"kicker":"Pack","lang":"fr","cta":"Commande en DM ou sur iread.ma"}}]},
+ {"id":"story-2026-11-24-pk3","kind":"story","publish_at":"2026-11-24T19:30:00+00:00","title":"Pack · Frissons en arabe",
+  "slides":[{"fn":"story_pack","args":{"cover_paths":["couvertures/khawf-2.jpg","couvertures/al-fil-al-azraq.jpg","couvertures/al-aswa.jpg","couvertures/buhayrat-al-dima.jpg"],"title":"رعب وتشويق","sub":"خوف 2 · الفيل الأزرق · الأسوأ · بحيرة الدماء","dark":true,"kicker":"باقة","lang":"ar","cta":"اطلبها عبر الرسائل أو على iread.ma"}}]}
+]
