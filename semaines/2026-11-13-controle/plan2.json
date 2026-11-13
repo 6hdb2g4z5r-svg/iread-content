@@ -1,0 +1,6 @@
+[
+ {"id":"story-2026-11-25-pk4","kind":"story","publish_at":"2026-11-25T16:30:00+00:00","title":"Pack · Penseurs éternels",
+  "slides":[{"fn":"story_pack","args":{"cover_paths":["couvertures/le-prince.jpg","couvertures/l-art-de-la-guerre.jpg","couvertures/candide.jpg"],"title":"Penseurs éternels","sub":"Machiavel, Sun Tzu et Voltaire : trois classiques qui font réfléchir","dark":false,"kicker":"Pack","lang":"fr","cta":"Commande en DM ou sur iread.ma"}}]},
+ {"id":"story-2026-11-26-pk4","kind":"story","publish_at":"2026-11-26T16:30:00+00:00","title":"Pack · Hunger Games",
+  "slides":[{"fn":"story_pack","args":{"cover_paths":["couvertures/the-hunger-games.jpg","couvertures/catching-fire.jpg","couvertures/mockingjay.jpg","couvertures/sunrise-on-the-reaping.jpg"],"title":"Hunger Games","sub":"The trilogy + the prequel Sunrise on the Reaping","dark":true,"kicker":"New pack","lang":"en","cta":"Order via DM or on iread.ma"}}]}
+]

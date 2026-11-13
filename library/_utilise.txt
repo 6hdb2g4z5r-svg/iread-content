@@ -265,3 +265,7 @@ photos/Le Prince/leprince-page-4.jpg | 2026-11-28 | story-2026-11-28-2
 photos/أنوثة طاغية/unuthat-taghiya-aesthetic-2.jpg | 2026-11-28 | post-2026-11-28-unuthat-taghiya
 photos/أنوثة طاغية/unuthat-taghiya-page-1.jpg | 2026-11-28 | post-2026-11-28-unuthat-taghiya
 photos/PACK Dark Romantasy/dark-romantasy-kie-pack-1.jpg | 2026-11-28 | story-2026-11-28-5
+photos/PACK Sally Rooney/sally-rooney-kie-pack-2.jpg | 2026-11-14 | post-2026-11-14-pack-sally-rooney
+photos/PACK العوسج/al-awsaj-ar-kie-pack-1.jpg | 2026-11-16 | post-2026-11-16-pack-al-awsaj-ar
+photos/PACK أنا هي الحرب/ana-ahiya-al-harb-ar-kie-pack-1.jpg | 2026-11-19 | post-2026-11-19-pack-ana-ahiya-al-harb-ar
+photos/PACK Carley Fortune/carley-fortune-kie-pack-2.jpg | 2026-11-21 | post-2026-11-21-pack-carley-fortune
