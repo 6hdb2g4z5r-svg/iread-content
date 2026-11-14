@@ -157,7 +157,7 @@ No Excuses! | partiel
 Lights Out | partiel
 Game On | ok-kie
 أكتب حتى لا يأكلني الشيطان | partiel
-The Secret Fiancée | ok-kie
+The Secret Fiancée | partiel
 All of Us Villains | ok-kie
 Two Twisted Crowns | ok
 تأملات | ok-kie
@@ -208,3 +208,12 @@ Immortality: A Love Story | partiel
 The First 90 Days | partiel
 العادات السبع للناس الأكثر فعالية | partiel
 Dark Psychology and Manipulation | partiel
+Six of Crows | partiel
+Crooked Kingdom | ok
+Shadow and Bone | partiel
+Iron Flame | partiel
+The Poppy War | partiel
+King of Wrath | partiel
+Powerful | skip
+قبل أن تبرد القهوة | skip
+مكتبة منتصف الليل | skip
