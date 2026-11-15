@@ -34,10 +34,10 @@ The Power of Your Subconscious Mind | ok
 The Unhoneymooners | ok
 The Wicked King | ok
 Without Merit | ok
-Start With Why | partiel
+Start With Why | ok
 Zero to One | partiel
 Emotional Intelligence | partiel
-The Lean Startup | partiel
+The Lean Startup | ok
 Layla | partiel
 A Promised Land | partiel
 Le Pouvoir des habitudes | ok-kie
@@ -217,3 +217,8 @@ King of Wrath | partiel
 Powerful | skip
 قبل أن تبرد القهوة | skip
 مكتبة منتصف الليل | skip
+Harry Potter and the Cursed Child | partiel
+The Power of Now | partiel
+The Power of Positive Thinking | partiel
+إن الله معنا | partiel
+لأنك الله: رحلة إلى السماء السابعة | partiel
