@@ -93,7 +93,7 @@ Elle & lui | ok-kie
 Le Roi du silence | ok-kie
 الخادمة | ok-kie
 L'Obstacle est le chemin | ok-kie
-المريضة الصامتة | ok-kie
+المريضة الصامتة | ok
 متلازمة فريجولي | partiel
 La Femme de ménage voit tout | ok-kie
 The Perfect Son | partiel
@@ -153,7 +153,7 @@ The Way I Used to Be | ok
 If Only I Had Told Her | partiel
 My Killer Vacation | partiel
 Surrounded by Narcissists | partiel
-No Excuses! | partiel
+No Excuses! | ok
 Lights Out | partiel
 Game On | ok-kie
 أكتب حتى لا يأكلني الشيطان | partiel
@@ -193,7 +193,7 @@ The 5AM Club | partiel
 Noise | partiel
 Stratégie Océan Bleu | partiel
 Blue Ocean Strategy | partiel
-This Is How You Heal | partiel
+This Is How You Heal | ok
 The Secret | partiel
 الليالي البيضاء | partiel
 جلسات نفسية | partiel
@@ -222,3 +222,6 @@ The Power of Now | partiel
 The Power of Positive Thinking | partiel
 إن الله معنا | partiel
 لأنك الله: رحلة إلى السماء السابعة | partiel
+The Art of Spending Money | partiel
+$100M Leads | partiel
+$100M Money Models | partiel
