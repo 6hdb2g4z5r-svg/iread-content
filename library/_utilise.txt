@@ -269,3 +269,7 @@ photos/PACK Sally Rooney/sally-rooney-kie-pack-2.jpg | 2026-11-14 | post-2026-11
 photos/PACK العوسج/al-awsaj-ar-kie-pack-1.jpg | 2026-11-16 | post-2026-11-16-pack-al-awsaj-ar
 photos/PACK أنا هي الحرب/ana-ahiya-al-harb-ar-kie-pack-1.jpg | 2026-11-19 | post-2026-11-19-pack-ana-ahiya-al-harb-ar
 photos/PACK Carley Fortune/carley-fortune-kie-pack-2.jpg | 2026-11-21 | post-2026-11-21-pack-carley-fortune
+library/photos/PACK Haruki Murakami/murakami-en-kie-pack-1.jpg | 2026-11-16 | post-2026-11-18-pack-murakami-en
+library/photos/PACK رعب/rub-ar-kie-pack-1.jpg | 2026-11-16 | post-2026-11-24-pack-rub-ar
+library/photos/PACK Ali Hazelwood/ali-hazelwood-kie-pack-1.jpg | 2026-11-16 | post-2026-11-26-pack-ali-hazelwood
+library/photos/PACK شهد قربان/shahad-qurban-ar-kie-pack-1.jpg | 2026-11-16 | post-2026-11-28-pack-shahad-qurban-ar
