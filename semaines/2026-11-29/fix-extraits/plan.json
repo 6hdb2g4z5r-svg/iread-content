@@ -1,0 +1,134 @@
+[
+ {
+  "id": "post-2026-11-16-sahib-al-zill-al-tawil",
+  "kind": "carousel",
+  "publish_at": "2026-11-17T21:25:00+00:00",
+  "title": "صاحب الظل الطويل",
+  "caption": "✉️ صاحب الظل الطويل – جين ويبستر\n\nيتيمة موهوبة، ومتبرع مجهول يتكفل بدراستها بشرط واحد، أن تكتب له الرسائل\n\nرواية كلاسيكية خفيفة ودافئة تقرأها بابتسامة، اسحب لترى صفحة منها 👈\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #صاحب_الظل_الطويل #جين_ويبستر #روايات_عالمية #روايات #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/صاحب الظل الطويل/sahib-al-zill-al-tawil-aesthetic-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/صاحب الظل الطويل/sahib-al-zill-al-tawil-page-2.jpg",
+     "box": [
+      0.2,
+      0.12,
+      1,
+      0.565
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-17-lakanud",
+  "kind": "carousel",
+  "publish_at": "2026-11-18T12:00:00+00:00",
+  "title": "لكنود",
+  "caption": "💙 لكنود – إسلام جمال\n\nكتاب عن النعم التي ننساها، وعن الإنسان حين يعتاد على ما بين يديه فلا يراه\n\nفصول قصيرة تعيد إليك عين الشكر، اسحب لتقرأ صفحة منه 👈\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #لكنود #إسلام_جمال #تطوير_الذات #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/لكنود/lakanud-kie-aesthetic-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/لكنود/lakanud-page-1.jpg",
+     "box": [
+      0.05,
+      0.1,
+      1,
+      0.574
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-21-2",
+  "kind": "story",
+  "publish_at": "2026-11-21T12:45:00+00:00",
+  "title": "Extrait · Tales from the Cafe",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/tales-from-the-cafe.jpg",
+     "page_path": "photos/Tales from the Cafe/tales-from-the-cafe-page-3.jpg",
+     "title": "Tales from the Cafe",
+     "author": "Toshikazu Kawaguchi",
+     "box": [
+      0,
+      0.1,
+      1,
+      0.798
+     ],
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-24-2",
+  "kind": "story",
+  "publish_at": "2026-11-24T12:45:00+00:00",
+  "title": "Extrait · La Chute",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/la-chute.jpg",
+     "page_path": "photos/La Chute/lachute-page-1.jpg",
+     "title": "La Chute",
+     "author": "Albert Camus",
+     "box": [
+      0.07,
+      0.2815,
+      0.81,
+      0.5065
+     ],
+     "kicker": "Extrait",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-26-2",
+  "kind": "story",
+  "publish_at": "2026-11-26T12:45:00+00:00",
+  "title": "مقتطف · الأيام التي ستأتي",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/al-ayyam-allati-sata-ti.jpg",
+     "page_path": "photos/الأيام التي ستأتي/al-ayyam-allati-sata-ti-page-2.jpg",
+     "title": "الأيام التي ستأتي",
+     "author": "",
+     "box": [
+      0.05,
+      0.479,
+      1,
+      0.79
+     ],
+     "kicker": "مقتطف",
+     "cta": "اطلبه عبر الرسائل",
+     "lang": "ar"
+    }
+   }
+  ]
+ }
+]
