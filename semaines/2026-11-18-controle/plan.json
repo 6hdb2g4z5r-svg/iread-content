@@ -1,0 +1,270 @@
+[
+ {
+  "id": "story-2026-11-29-4",
+  "kind": "story",
+  "publish_at": "2026-11-29T18:30:00+00:00",
+  "title": "Pack · Hunger Games",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/sunrise-on-the-reaping.jpg",
+      "couvertures/mockingjay.jpg",
+      "couvertures/catching-fire.jpg",
+      "couvertures/the-hunger-games.jpg"
+     ],
+     "title": "Hunger Games",
+     "sub": "4 books, from the 74th Games to Sunrise on the Reaping",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-30-4",
+  "kind": "story",
+  "publish_at": "2026-11-30T18:30:00+00:00",
+  "title": "Pack · Nuits blanches garanties",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/la-voisine-sans-histoire.jpg",
+      "couvertures/l-enfant-aux-cailloux.jpg",
+      "couvertures/le-roi-du-silence.jpg"
+     ],
+     "title": "Nuits blanches garanties",
+     "sub": "Trois thrillers à lire d'une traite",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-30-5",
+  "kind": "story",
+  "publish_at": "2026-11-30T22:15:00+00:00",
+  "title": "Pack · اعتنِ بنفسك",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/mulahazat-kawkab-mutawattir.jpg",
+      "couvertures/kitab-al-raha.jpg",
+      "couvertures/al-wahsh.jpg",
+      "couvertures/taafayt.jpg"
+     ],
+     "title": "اعتنِ بنفسك",
+     "sub": "4 كتب للراحة والتعافي",
+     "dark": false,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-01-5",
+  "kind": "story",
+  "publish_at": "2026-12-01T22:15:00+00:00",
+  "title": "Pack · رعب وتشويق",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/khawf-2.jpg",
+      "couvertures/al-fil-al-azraq.jpg",
+      "couvertures/al-aswa.jpg",
+      "couvertures/buhayrat-al-dima.jpg"
+     ],
+     "title": "رعب وتشويق",
+     "sub": "خوف 2 · الفيل الأزرق · الأسوأ · بحيرة الدماء",
+     "dark": false,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-27-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-27T19:30:00+00:00",
+  "title": "Pack · Briar U",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/the-chase.jpg",
+      "couvertures/the-risk.jpg",
+      "couvertures/the-play.jpg",
+      "couvertures/the-dare.jpg"
+     ],
+     "title": "Briar U",
+     "sub": "The 4 books of Elle Kennedy's series",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-29-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-29T19:30:00+00:00",
+  "title": "Pack · على خطى النبي",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/ala-minhaj-al-nubuwwa.jpg",
+      "couvertures/al-salam-alayka-ya-sahibi.jpg",
+      "couvertures/indama-iltaqaytu-umar.jpg",
+      "couvertures/madrasat-muhammad.jpg"
+     ],
+     "title": "على خطى النبي",
+     "sub": "السيرة والصحابة في 4 كتب",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-30-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-30T19:30:00+00:00",
+  "title": "Pack · Playing for Keeps",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/consider-me.jpg",
+      "couvertures/play-with-me-becka-mack.jpg",
+      "couvertures/unravel-me-becka-mack.jpg"
+     ],
+     "title": "Playing for Keeps",
+     "sub": "Becka Mack's hockey romances",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-01-pk3",
+  "kind": "story",
+  "publish_at": "2026-12-01T19:30:00+00:00",
+  "title": "Pack · Musso Addict",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/sauve-moi.jpg",
+      "couvertures/je-reviens-te-chercher.jpg",
+      "couvertures/que-serais-je-sans-toi.jpg",
+      "couvertures/la-fille-de-papier.jpg",
+      "couvertures/sept-ans-apres.jpg",
+      "couvertures/un-appartement-a-paris.jpg"
+     ],
+     "title": "Musso Addict",
+     "sub": "Six romans de Guillaume Musso",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-30-pack-frissons-ar",
+  "kind": "post",
+  "publish_at": "2026-11-30T21:25:00+00:00",
+  "title": "Pack · رعب وتشويق",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Frissons en arabe/frissons-ar-kie-pack-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-11-29-pack-marissa-meyer",
+  "kind": "post",
+  "publish_at": "2026-11-29T21:25:00+00:00",
+  "title": "Pack · Marissa Meyer",
+  "caption": "🌹 NEW PACK · Marissa Meyer\n\nHeartless · The House Saphir\n\nLong before she was the Queen of Hearts, Cath only wanted to open a bakery in Wonderland. And in The House Saphir, the ghost of Bluebeard, a handsome count and a con artist in over her head. Two dark, magical retellings by the author of The Lunar Chronicles 🖤\n\n📚 The 2 books together at a discounted pack price\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #MarissaMeyer #Heartless #TheHouseSaphir #FairytaleRetelling #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Marissa Meyer/marissa-meyer-kie-pack-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-01-pack-nuits-blanches",
+  "kind": "post",
+  "publish_at": "2026-12-01T16:30:00+00:00",
+  "title": "Pack · Nuits blanches garanties",
+  "caption": "🌙 NOUVEAU PACK · Nuits blanches garanties\n\nLe Roi du silence · L'Enfant aux cailloux · La Voisine sans histoire\n\nClaire Favan, Sophie Loubière et Liz Nugent : trois thrillers psychologiques où le danger se cache derrière une façade tranquille. Le genre de livre qu'on commence le soir… et qu'on termine à l'aube 😶\n\n📚 Les 3 livres ensemble à prix réduit\n🚚 Livraison gratuite dès 3 livres · Paiement à la livraison\n\n#iRead #ireadma #Thriller #ClaireFavan #SophieLoubiere #LizNugent #LivresMaroc #Bookstagram\n\n👉 Commandez dès maintenant via DM, WhatsApp ou sur www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Nuits blanches garanties/nuits-blanches-kie-pack-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-11-28-pk3",
+  "kind": "story",
+  "publish_at": "2026-11-28T19:30:00+00:00",
+  "title": "Pack · حسن أوريد",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/rawa-makka.jpg",
+      "couvertures/rabi-qurtuba.jpg",
+      "couvertures/al-shaabawiya.jpg"
+     ],
+     "title": "حسن أوريد",
+     "sub": "روايتان ومقال للكاتب المغربي",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ }
+]

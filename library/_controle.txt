@@ -112,3 +112,17 @@
 16/11 | reels #578683 جومانا, #578685 Twisted, #579041 Twisted Lies, #583658 رسائل من القرآن, #615265 Never Lie | livre déjà publié en fil ou en reel depuis moins de 60 jours | signalé
 16/11 | reels #411666 (Circe visible, non vendu), #578684 et #586860 et #583658 (1re image sans couverture), #579041 (juron surligné) | qualité | signalé
 16/11 | post-2026-11-28-nazariyat-al-taghafful | slides 2-3 = cartes citation plutôt que page (tolérance du 10/11) | gardé, signalé
+18/11 | post-2026-12-01-liannaka-allah | لأنك الله : reel #586860 prévu le 26/11 sur le même livre (reel prioritaire) | retiré
+18/11 | post-2026-12-01-dark-psychology-and-manipulation | heure libérée par le retrait (mélange FR/EN, pack du jour) | déplacé 16:30 → 12:00
+18/11 | 29/11 et 01/12 | aucun post de pack | ajoutés à valider : post-2026-11-29-pack-marissa-meyer 21:25 (KIE), post-2026-12-01-pack-nuits-blanches 16:30 (KIE) ; 1re génération de chacun écartée (titres coupés, textes faux) ; nuits-blanches-kie-pack-1 (ancienne, couvertures réinventées) non utilisée
+18/11 | post-2026-11-30-pack-frissons-ar | photo KIE pack-1 : titre de خوف 2 caché, الفيل الأزرق et الأسوأ en partie cachés | refait au même chemin avec frissons-ar-kie-pack-2 (4 couvertures entières)
+18/11 | story-2026-12-01-5 | même photo KIE que le post du 30/11 | refaite au même chemin en collage de couvertures (fond clair)
+18/11 | story-2026-11-29-4 | visuel identique à story-2026-11-26-pk4 (Hunger Games) | refaite au même chemin (fond clair, autre ordre)
+18/11 | story-2026-11-30-4 | visuel identique à story-2026-11-15-pk6 (publiée) | refaite au même chemin (fond clair, autre ordre)
+18/11 | story-2026-11-30-5 | visuel identique à story-2026-11-14-pk2 (publiée) | refaite au même chemin (fond clair, autre ordre)
+18/11 | 27, 28, 29, 30/11 et 01/12 | 2 stories de packs seulement | ajoutées à 19:30, à valider : Briar U, حسن أوريد, على خطى النبي, Playing for Keeps, Musso Addict
+18/11 | post-2026-11-23-pack-hajar-al-shams-ar, 11-27-pack-antikhristos-ar, 11-30-pack-frissons-ar | CTA « اطلبها » ≠ CTA exact | « اطلبه »
+18/11 | reel #650212 (27/11) | 2e reel sur أحببت وغدًا après #578684 (22/11) ; vidéo tournée de côté | signalé
+18/11 | reel #650616 (28/11) | Twisted Games déjà posté dans le fil le 07/11 ; 3e reel Twisted en 6 jours (23, 24, 28/11) ; Say You Swear (autre livre) visible ; sans couverture | signalé
+18/11 | story-2026-12-03-4 | visuel identique à story-2026-11-18-4 (Dose de bonne humeur) | hors périmètre, à traiter vendredi
+18/11 | pied de story arabe (design.py FOOT_AR) | « توصيل مجاني في الدار البيضاء » alors que FR/EN disent « dès 3 livres » | signalé à C/Amine
