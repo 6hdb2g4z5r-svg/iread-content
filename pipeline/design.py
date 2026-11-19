@@ -289,32 +289,92 @@ def story_visual(src_path, out, kicker="Notre sélection", cta="Commande en DM")
     return save(img, out)
 
 
-def story_pack(cover_paths, title, sub, out, dark=True, kicker="Pack", lang="fr", cta="Commande en DM ou sur iread.ma"):
+PACK_LAYOUTS = {1: ["solo"], 2: ["cascade", "eventail"], 3: ["cascade", "vedette", "eventail"], 4: ["vedette", "grille"]}
+PACK_LAYOUTS_MANY = ["grille"]   # 5 ou 6 livres (en vedette, la rangée du bas devient trop petite)
+
+
+def _place(img, im, box, rot=0, alpha=150):
+    """Colle la couverture entière, centrée dans box=(x, y, w, h), avec ombre ; rot en degrés."""
+    x, y, w, h = [int(v) for v in box]
+    cv = fit(im, w, h)
+    if not rot:
+        shadow_paste(img, cv, (x + (w - cv.width) // 2, y + (h - cv.height) // 2), radius=6, alpha=alpha)
+        return
+    cv = cv.convert("RGBA").rotate(rot, expand=True, resample=Image.BICUBIC)
+    sh = Image.new("L", cv.size, 0); sh.paste(alpha, (0, 0), cv.split()[3]); sh = sh.filter(ImageFilter.GaussianBlur(26))
+    px, py = x + (w - cv.width) // 2, y + (h - cv.height) // 2
+    px = max(24, min(px, img.width - 24 - cv.width))   # jamais coupé par le bord
+    img.paste((0, 0, 0), (px, py + 18), sh); img.paste(cv, (px, py), cv)
+
+
+def _pack_boxes(n, layout, top, bot):
+    """Cases (x, y, w, h, rot) dans l'ordre de dessin (le dernier passe devant).
+    Règle du 19/11/2026 (Amine) : les livres remplissent l'écran, aucune bande vide, aucune couverture coupée par le bord."""
+    H, M = bot - top, 40
+    if layout == "solo":
+        return [(M, top, SW - 2 * M, H, 0)]
+    if layout == "cascade":
+        bw = 460 if n == 3 else 540
+        bh = min(bw * 1.5, H * (0.6 if n == 3 else 0.68)); bw = bh / 1.5
+        sx = (SW - 2 * M - bw) / (n - 1); sy = (H - bh) / (n - 1)
+        return [(M + i * sx, top + i * sy, bw, bh, 0) for i in range(n)]
+    if layout == "eventail":
+        if n == 2:
+            bw, bh = 470, min(705, H * 0.85); y = top + (H - bh) / 2
+            return [(M, y, bw, bh, 6), (SW - M - bw, y, bw, bh, -6)]
+        ch = min(H * 0.92, 930); cy = top + (H - ch) / 2
+        sh = ch * 0.68; sy = top + (H - sh) / 2
+        # livres 1 et 3 derrière, inclinés ; livre 2 devant
+        return [(70, sy, 420, sh, 9), (SW - 70 - 420, sy, 420, sh, -9), (230, cy, 620, ch, 0)]
+    if layout == "grille":
+        cols = 2 if n == 4 else 3; rows = (n + cols - 1) // cols; g = 30
+        cw = (SW - 2 * M - (cols - 1) * g) / cols; rh = (H - (rows - 1) * g) / rows
+        return [(M + (i % cols) * (cw + g), top + (i // cols) * (rh + g), cw, rh, 0) for i in range(n)]
+    # vedette : livre 1 en grand en haut, les autres en rangée dessous (2 livres : l'un sous l'autre)
+    g = 30
+    if n == 2:
+        rh = (H - g) / 2
+        return [(M, top, SW - 2 * M, rh, 0), (M, top + rh + g, SW - 2 * M, rh, 0)]
+    hh = H * (0.56 if n == 3 else 0.5); rest = n - 1
+    rw = (SW - 2 * M - (rest - 1) * g) / rest
+    if n == 3:
+        rw = min(rw, 400)
+    x0 = (SW - (rest * rw + (rest - 1) * g)) / 2
+    return [(M, top, SW - 2 * M, hh, 0)] + [(x0 + i * (rw + g), top + hh + g, rw, H - hh - g, 0) for i in range(rest)]
+
+
+def pack_layout_for(n, out, layout=None):
+    """Rotation automatique entre les mises en page validées : change chaque jour (date du nom de fichier),
+    deux stories pack du même jour n'ont pas la même. Déterministe : même fichier = même mise en page."""
+    import zlib, datetime
+    opts = PACK_LAYOUTS.get(n, PACK_LAYOUTS_MANY)
+    if layout in opts:
+        return layout
+    name = os.path.basename(out)
+    m = re.match(r"(\d{4})-(\d{2})-(\d{2})-?(.*)", name)
+    k = zlib.crc32(name.encode())
+    if m:
+        k = datetime.date(int(m[1]), int(m[2]), int(m[3])).toordinal() + zlib.crc32(m[4].encode()) % 3
+    return opts[k % len(opts)]
+
+
+def story_pack(cover_paths, title, sub, out, dark=True, kicker="Pack", lang="fr", cta="Commande en DM ou sur iread.ma", layout=None):
+    """Pack en story : livres en grand qui remplissent l'écran (Amine, 19/11/2026).
+    layout = "cascade" | "eventail" (2 livres), + "vedette" (3), "vedette" | "grille" (4), "grille" (5-6) ; vide = rotation automatique."""
     bg, fg, sub_c = (NAVY, WHITE, (200, 205, 215)) if dark else (BEIGE, INK, MUTED)
     img = Image.new("RGB", (SW, SH), bg)
     d = ImageDraw.Draw(img)
-    pill(img, SW // 2, 230, kicker, bg=GOLD, fg=NAVY)
-    y = draw_block(d, SW // 2, 300, title, "serif", 74, 600, fg, 960, max_lines=2)
-    draw_block(d, SW // 2, y + 6, sub, "sans", 30, 400, sub_c, 960, max_lines=2)
+    pill(img, SW // 2, 215, kicker, bg=GOLD, fg=NAVY)
+    y = draw_block(d, SW // 2, 262, title, "serif", 78, 600, fg, 960, max_lines=2)
+    y = draw_block(d, SW // 2, y + 14, sub, "sans", 30, 400, sub_c, 960, max_lines=2)
     covs = [load(c) for c in cover_paths[:6]]
-    n = len(covs)
-    # bigger covers: 3 in one big row, 4 in a 2x2 grid, 6 in a 3x2 grid
-    if n in (5, 6):
-        cw, ch = 300, 450; xs = [75, 390, 705]; ys = [600, 1100]
-        pos = [(xs[i % 3], ys[i // 3]) for i in range(n)]
-    elif n == 4:
-        cw, ch = 370, 520; xs = [145, 565]; ys = [530, 1080]
-        pos = [(xs[i % 2], ys[i // 2]) for i in range(4)]
-    else:
-        cw, ch = (300, 450) if n == 3 else (420, 620); gap = 30
-        tot = n * cw + (n - 1) * gap; x0 = (SW - tot) // 2
-        pos = [(x0 + i * (cw + gap), 780) for i in range(n)]
-    for c, (x, yy) in zip(covs, pos):
-        cv = fit(c, cw, ch)
-        shadow_paste(img, cv, (x + (cw - cv.width) // 2, yy + (ch - cv.height) // 2), radius=6, alpha=150)
+    lay = pack_layout_for(len(covs), out, layout)
+    for c, (x, yy, w, h, r) in zip(covs if lay != "eventail" or len(covs) != 3 else [covs[0], covs[2], covs[1]],
+                                   _pack_boxes(len(covs), lay, int(y) + 40, 1600)):
+        _place(img, c, (x, yy, w, h), r)
     line = pack_line(lang)
-    draw_center(d, SW // 2, 1660, line, tfont(line, "sans", 26, 500), sub_c)
-    pill(img, SW // 2, 1750, cta, bg=GOLD, fg=NAVY)
+    draw_center(d, SW // 2, 1648, line, tfont(line, "sans", 27, 500), sub_c)
+    pill(img, SW // 2, 1745, cta, bg=GOLD, fg=NAVY)
     return save(img, out)
 
 
