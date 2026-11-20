@@ -126,3 +126,10 @@
 18/11 | reel #650616 (28/11) | Twisted Games déjà posté dans le fil le 07/11 ; 3e reel Twisted en 6 jours (23, 24, 28/11) ; Say You Swear (autre livre) visible ; sans couverture | signalé
 18/11 | story-2026-12-03-4 | visuel identique à story-2026-11-18-4 (Dose de bonne humeur) | hors périmètre, à traiter vendredi
 18/11 | pied de story arabe (design.py FOOT_AR) | « توصيل مجاني في الدار البيضاء » alors que FR/EN disent « dès 3 livres » | signalé à C/Amine
+20/11 | post-2026-12-03-al-layali-al-bayda | الليالي البيضاء déjà publié en reel le 15/11 (20:31 UTC) | retiré (doublon)
+20/11 | post-2026-12-03-the-art-of-spending-money | créneau 03/12 12:00 libéré | remplacé par The Art of Spending Money (photo F + 2 vraies pages), à valider
+20/11 | story-2026-11-20-pk3, 11-21-pk3, 11-22-pk3, 11-23-pk3, 11-24-pk3, 11-25-pk4, 11-26-pk4 | stories pack d'avant le 19/11 (bandes vides, petites couvertures) | régénérées au même chemin avec story_pack (11-24-pk3 forcée en vedette : en grille elle aurait été identique à story-2026-12-01-5)
+20/11 | 02/12 et 03/12 | 2 stories de packs seulement | ajoutées à 19:30, à valider : story-2026-12-02-pk3 Albert Camus, story-2026-12-03-pk3 Thrillers psychologiques (arabe)
+20/11 | 02/12 et 03/12 | aucun post de pack | KIE à 146 crédits (< 500) : aucune génération ; aucune photo KIE existante d'un pack jamais posté ; signalé
+20/11 | story-2026-11-23-liste-heal-ar | couvertures petites, grand vide (règle stories du 19/11) | signalé (visuel fixe, non régénérable)
+20/11 | reel #727028 (29/11, proposé) | جثة لذيذة : vidéo d'un autre compte (lune_bookstoree), texte incrusté en arabe | signalé

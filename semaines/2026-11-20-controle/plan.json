@@ -1,0 +1,78 @@
+[
+ {
+  "id": "post-2026-12-03-the-art-of-spending-money",
+  "kind": "carousel",
+  "publish_at": "2026-12-03T12:00:00+00:00",
+  "title": "The Art of Spending Money",
+  "caption": "💸 The Art of Spending Money – Morgan Housel\n\nAfter The Psychology of Money, Morgan Housel asks the other half of the question: once you have money, how do you use it to live a richer life? Short, warm chapters on envy, freedom, status and the quiet joy of spending on what truly matters to you.\n\n\"Money is less about numbers and more about stories.\" Swipe to read the page 👉\n\n📚 Also available in the Money Mindset pack\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TheArtOfSpendingMoney #MorganHousel #PersonalFinance #MoneyMindset #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/The Art of Spending Money/the-art-of-spending-money-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/The Art of Spending Money/the-art-of-spending-money-page-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/The Art of Spending Money/the-art-of-spending-money-page-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-02-pk3",
+  "kind": "story",
+  "publish_at": "2026-12-02T19:30:00+00:00",
+  "title": "Pack · Albert Camus",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/la-chute.jpg",
+      "couvertures/la-peste.jpg",
+      "couvertures/la-mort-heureuse.jpg"
+     ],
+     "title": "Albert Camus",
+     "sub": "La Chute, La Peste et La Mort heureuse",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-03-pk3",
+  "kind": "story",
+  "publish_at": "2026-12-03T19:30:00+00:00",
+  "title": "Pack · Thrillers psychologiques (arabe)",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/al-khadima.jpg",
+      "couvertures/al-marida-al-samita.jpg",
+      "couvertures/mutalazimat-frigoli.jpg"
+     ],
+     "title": "إثارة نفسية",
+     "sub": "الخادمة · المريضة الصامتة · متلازمة فريجولي",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ }
+]
