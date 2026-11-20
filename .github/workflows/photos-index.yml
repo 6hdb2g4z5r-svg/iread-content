@@ -1,0 +1,35 @@
+name: Index de la photothèque (épingles Pinterest)
+# Liste des photos « aesthetic » réelles (pas KIE, pas de packs) lue par l'agent iRead (crosspost.ts) pour Pinterest.
+# L'API GitHub refuse les requêtes anonymes venant de Cloudflare (403) : l'agent lit ce fichier sur raw.githubusercontent.com.
+on:
+  push:
+    paths: ["library/photos/**"]
+  schedule:
+    - cron: "40 1 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: photos-index, cancel-in-progress: false }
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - run: |
+          git ls-tree -r --name-only HEAD | python3 -c "
+          import sys, json, re
+          out = []
+          for p in sys.stdin.read().splitlines():
+              parts = p.split('/')
+              if len(parts) != 4 or parts[:2] != ['library', 'photos'] or parts[2].startswith('PACK '): continue
+              if re.search(r'-aesthetic-\d+\.jpe?g$', parts[3], re.I) and '-kie-' not in parts[3].lower():
+                  out.append({'path': p, 'title': parts[2]})
+          out.sort(key=lambda x: x['path'])
+          open('library/_photos_index.json', 'w').write(json.dumps(out, ensure_ascii=False))
+          print(len(out), 'photos')
+          "
+      - run: |
+          git config user.name "iread-feeds-bot"; git config user.email "bot@iread.ma"
+          git add library/_photos_index.json
+          git diff --cached --quiet || (git commit -m "Index photothèque (Pinterest)" && git pull --rebase && git push)
