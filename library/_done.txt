@@ -12,7 +12,7 @@ Good Vibes, Good Life | ok
 Healing Is the New High | ok
 How to Stop Worrying and Start Living | ok
 How to Talk to Anyone | ok
-Ikigai | ok-kie
+Ikigai | ok
 It Starts with Us | ok
 La Chute | ok
 La Peste | partiel
@@ -218,7 +218,7 @@ Powerful | skip
 قبل أن تبرد القهوة | skip
 مكتبة منتصف الليل | skip
 Harry Potter and the Cursed Child | partiel
-The Power of Now | partiel
+The Power of Now | ok
 The Power of Positive Thinking | partiel
 إن الله معنا | partiel
 لأنك الله: رحلة إلى السماء السابعة | partiel
@@ -231,3 +231,30 @@ Why We Sleep | partiel
 Think and Grow Rich | partiel
 How to Win Friends and Influence People | partiel
 جسمك يتذكر كل شيء | partiel
+The Song of Achilles | partiel
+Book Lovers | partiel
+Maybe Someday | partiel
+Part of Your World | partiel
+Something Wilder | skip
+For One More Day | partiel
+Good Girl Complex | partiel
+The Naturals | partiel
+Killer Instinct | skip
+Fantastic Beasts and Where to Find Them | partiel
+Unite Me | partiel
+To Hate Adam Connor | partiel
+The Miracle Morning | partiel
+The Blast from the Past | skip
+Arsène Lupin, Gentleman Burglar | skip
+Qui a piqué mon fromage ? | skip
+الأجنحة المتكسرة | skip
+موت صغير | partiel
+البؤساء | skip
+هذا هو التسويق | skip
+حقيقة الخديعة | skip
+شبكة العنكبوت | partiel
+أجيج | skip
+الشيطان يحكم | skip
+أضواء الشمال | skip
+أرض السافلين | skip
+Twelve | skip
