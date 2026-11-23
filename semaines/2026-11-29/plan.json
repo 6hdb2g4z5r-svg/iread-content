@@ -402,7 +402,7 @@
       0,
       0,
       1,
-      0.93
+      1
      ]
     }
    },
@@ -513,7 +513,7 @@
     "fn": "story_extract",
     "args": {
      "cover_path": "couvertures/talk-like-ted.jpg",
-     "page_path": "photos/Talk Like TED/talk-like-ted-page-4.jpg",
+     "page_path": "photos/Talk Like TED/talk-like-ted-page-5.jpg",
      "title": "Talk Like TED",
      "author": "Carmine Gallo",
      "kicker": "Excerpt",

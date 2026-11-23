@@ -295,7 +295,7 @@ photos/PACK Frissons en arabe/frissons-ar-kie-pack-1.jpg | 2026-12-01 | story-20
 photos/Le Prince/leprince-aesthetic-2.jpg | 2026-12-02 | story-2026-12-02-1
 photos/Shadow and Bone/shadow-and-bone-aesthetic-1.jpg | 2026-12-02 | post-2026-12-02-shadow-and-bone
 photos/Shadow and Bone/shadow-and-bone-page-2.jpg | 2026-12-02 | post-2026-12-02-shadow-and-bone
-photos/Talk Like TED/talk-like-ted-page-4.jpg | 2026-12-02 | story-2026-12-02-2
+photos/Talk Like TED/talk-like-ted-page-5.jpg | 2026-12-02 | story-2026-12-02-2
 photos/The Wicked King/wicked-king-aesthetic-7.jpg | 2026-12-03 | story-2026-12-03-1
 photos/الليالي البيضاء/al-layali-al-bayda-aesthetic-2.jpg | 2026-12-03 | post-2026-12-03-al-layali-al-bayda
 photos/الليالي البيضاء/al-layali-al-bayda-page-1.jpg | 2026-12-03 | post-2026-12-03-al-layali-al-bayda

@@ -401,9 +401,9 @@
      "author": "Albert Camus",
      "box": [
       0.07,
-      0.2,
+      0.2795,
       0.81,
-      0.507
+      0.505
      ],
      "kicker": "Extrait",
      "cta": "Commande en DM",
@@ -887,14 +887,14 @@
     "fn": "story_extract",
     "args": {
      "cover_path": "couvertures/without-merit.jpg",
-     "page_path": "photos/Without Merit/without-merit-page-1.jpg",
+     "page_path": "photos/Without Merit/without-merit-page-1-redresse.jpg",
      "title": "Without Merit",
      "author": "Colleen Hoover",
      "box": [
-      0.1,
+      0.178,
       0.466,
-      0.86,
-      0.597
+      0.87,
+      0.594
      ],
      "kicker": "Excerpt",
      "cta": "Order via DM",
@@ -1045,9 +1045,9 @@
      "author": "Nicolas Machiavel",
      "box": [
       0,
-      0.247,
+      0.25,
       1,
-      0.686
+      0.687
      ],
      "kicker": "Extrait",
      "cta": "Commande en DM",
