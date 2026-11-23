@@ -54,3 +54,7 @@ PACK | classiques-monde-ar | KIE raté (couverture 1984 et noms d'auteurs invent
 PACK | boys-of-tommen | KIE raté (couvertures cachées, textes déformés) | 2026-11-16
 PACK | acotar-1-5 | KIE presque bon mais reflets de livres dans la vitre et micro-textes faux | 2026-11-16
 Blue Ocean Strategy | photo de couverture de l'édition du site (la seule photo a la pastille « 3.6 million copies » et le bandeau « expanded edition ») | 2026-11-16
+Six of Crows | photo de l'édition du site (« author of the Grisha trilogy ») sans marque visible : aesthetic-2 montre des tubes de peinture Reeves/Chromacryl, aesthetic-1 est l'édition Netflix | 2026-11-23
+PACK | inheritance-games | KIE raté 2 fois (slogan inventé sur The Final Gambit ; puis dos seulement, « JENNIEER ») | 2026-11-23
+PACK | deep-focus | KIE raté 2 fois (textes de couverture inventés, citation fausse) | 2026-11-23
+PACK | plot-twists | KIE raté 2 fois (micro-textes faux ; puis 2 livres de dos seulement) | 2026-11-23

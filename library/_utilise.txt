@@ -302,10 +302,7 @@ photos/الليالي البيضاء/al-layali-al-bayda-page-1.jpg | 2026-12-03 
 photos/الليالي البيضاء/al-layali-al-bayda-page-4.jpg | 2026-12-03 | post-2026-12-03-al-layali-al-bayda
 photos/رسائل من النبي ﷺ/rasail-min-al-nabi-page-1.jpg | 2026-12-03 | story-2026-12-03-2
 photos/السجيل/al-sijjil-aesthetic-2.jpg | 2026-12-04 | story-2026-12-04-1
-photos/Six of Crows/six-of-crows-aesthetic-2.jpg | 2026-12-04 | post-2026-12-04-six-of-crows
-photos/Six of Crows/six-of-crows-page-4.jpg | 2026-12-04 | post-2026-12-04-six-of-crows
 photos/The Lean Startup/lean-startup-page-3.jpg | 2026-12-04 | story-2026-12-04-2
-photos/PACK Inheritance Games/inheritance-games-kie-pack-1.jpg | 2026-12-04 | story-2026-12-04-5
 photos/Chanson douce/chansondouce-aesthetic-3.jpg | 2026-12-05 | story-2026-12-05-1
 photos/أبي الذي أكره/abi-alladhi-akrah-page-1.jpg | 2026-12-05 | story-2026-12-05-2
-photos/PACK Inheritance Games/inheritance-games-kie-pack-1.jpg | 2026-12-05 | post-2026-12-05-pack-inheritance-games
+photos/PACK Dose de bonne humeur/bonne-humeur-kie-pack-1.jpg | 2026-12-02 | post-2026-12-02-pack-bonne-humeur

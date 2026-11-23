@@ -133,3 +133,11 @@
 20/11 | 02/12 et 03/12 | aucun post de pack | KIE à 146 crédits (< 500) : aucune génération ; aucune photo KIE existante d'un pack jamais posté ; signalé
 20/11 | story-2026-11-23-liste-heal-ar | couvertures petites, grand vide (règle stories du 19/11) | signalé (visuel fixe, non régénérable)
 20/11 | reel #727028 (29/11, proposé) | جثة لذيذة : vidéo d'un autre compte (lune_bookstoree), texte incrusté en arabe | signalé
+23/11 | post-2026-12-04-six-of-crows | slide 1 : marques de peinture visibles (Reeves, Chromacryl) ; seule autre photo = édition Netflix | retiré, photo demandée (_demandes.txt)
+23/11 | post-2026-12-05-pack-inheritance-games + story-2026-12-04-5 | photo KIE : slogan inventé sur The Final Gambit ; 2e génération non conforme (dos seulement) | post retiré ; story refaite au même chemin avec les couvertures (story_pack)
+23/11 | post-2026-12-02-pack-bonne-humeur | 02/12 sans post de pack | ajouté 16:30, photo KIE Dose de bonne humeur, à valider
+23/11 | 03, 04 et 05/12 | aucun post de pack ; KIE Deep Focus et Plot Twists ratés 2 fois (6 générations utilisées) | signalé
+23/11 | story-2026-12-04-pk3, story-2026-12-05-pk3 | 2 stories de packs seulement | ajoutées à 19:30 : أدهم شرقاوي, روبرت غرين, à valider
+23/11 | story-2026-12-05-3 | duel L'Attentat / Les amants de Casablanca : couvertures petites, grand vide (règle stories 19/11) | signalé
+23/11 | reel #802350 (01/12) | King of Wrath déjà en reel le 17/11 ; autres livres visibles (Love Unwritten, Love Deception, Practice Makes Perfect) | signalé
+23/11 | reel #876331 (02/12) | Never Lie : 2e reel prévu après #615265 (30/11), déjà reel 11/11 et carrousel arabe 22/11 ; une dizaine d'autres McFadden visibles (The Witch, Ward D, The Coworker…) | signalé

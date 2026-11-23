@@ -1,0 +1,92 @@
+[
+ {
+  "id": "post-2026-12-02-pack-bonne-humeur",
+  "kind": "post",
+  "publish_at": "2026-12-02T16:30:00+00:00",
+  "title": "Pack · Dose de bonne humeur",
+  "caption": "🦓 NOUVEAU PACK · Dose de bonne humeur\n\nLe Bazar du zèbre à pois · Cupidon a des ailes en carton · Le Spleen du pop-corn\n\nTrois romans feel-good de Raphaëlle Giordano. De l'audace, de l'amour et de la joie à petites doses : la lecture parfaite pour éclairer les journées d'hiver ☀️\n\n📚 Les 3 livres ensemble à prix réduit en pack\n🚚 Livraison gratuite dès 3 livres · Paiement à la livraison\n\n#iRead #ireadma #RaphaelleGiordano #FeelGood #RomanFrançais #LivreMaroc #Bookstagram #Lecture\n\n👉 Commandez dès maintenant via DM, WhatsApp ou sur www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Dose de bonne humeur/bonne-humeur-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-04-5",
+  "kind": "story",
+  "publish_at": "2026-12-04T22:15:00+00:00",
+  "title": "Pack · Inheritance Games",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/the-final-gambit.jpg",
+      "couvertures/the-brothers-hawthorne.jpg",
+      "couvertures/games-untold.jpg",
+      "couvertures/the-grandest-game.jpg"
+     ],
+     "title": "Inheritance Games",
+     "sub": "The Final Gambit · The Brothers Hawthorne · Games Untold · The Grandest Game",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-04-pk3",
+  "kind": "story",
+  "publish_at": "2026-12-04T19:30:00+00:00",
+  "title": "Pack · أدهم شرقاوي",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/rasail-min-al-quran.jpg",
+      "couvertures/nabd.jpg",
+      "couvertures/ila-al-munkasira-qulubuhum.jpg"
+     ],
+     "title": "أدهم شرقاوي",
+     "sub": "رسائل من القرآن · نبض · إلى المنكسرة قلوبهم",
+     "dark": false,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-05-pk3",
+  "kind": "story",
+  "publish_at": "2026-12-05T19:30:00+00:00",
+  "title": "Pack · روبرت غرين",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/qawaid-al-satwa.jpg",
+      "couvertures/qawanin-al-tabia-al-bashariya.jpg",
+      "couvertures/al-itqan.jpg",
+      "couvertures/33-istratijiya-lil-harb.jpg"
+     ],
+     "title": "روبرت غرين",
+     "sub": "قواعد السطوة · قوانين الطبيعة البشرية · الإتقان · 33 استراتيجية للحرب",
+     "dark": true,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ }
+]
