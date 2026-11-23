@@ -53,8 +53,14 @@ PACK | musso-addict | KIE raté (Je reviens te chercher en double, livre en trop
 PACK | classiques-monde-ar | KIE raté (couverture 1984 et noms d'auteurs inventés) | 2026-11-16
 PACK | boys-of-tommen | KIE raté (couvertures cachées, textes déformés) | 2026-11-16
 PACK | acotar-1-5 | KIE presque bon mais reflets de livres dans la vitre et micro-textes faux | 2026-11-16
-Blue Ocean Strategy | photo de couverture de l'édition du site (la seule photo a la pastille « 3.6 million copies » et le bandeau « expanded edition ») | 2026-11-16
 Six of Crows | photo de l'édition du site (« author of the Grisha trilogy ») sans marque visible : aesthetic-2 montre des tubes de peinture Reeves/Chromacryl, aesthetic-1 est l'édition Netflix | 2026-11-23
 PACK | inheritance-games | KIE raté 2 fois (slogan inventé sur The Final Gambit ; puis dos seulement, « JENNIEER ») | 2026-11-23
 PACK | deep-focus | KIE raté 2 fois (textes de couverture inventés, citation fausse) | 2026-11-23
 PACK | plot-twists | KIE raté 2 fois (micro-textes faux ; puis 2 livres de dos seulement) | 2026-11-23
+PACK | career-boost | KIE raté 1 fois (couvertures réinventées : Six Thinking Hats et Limitless faux) ; à retenter avec décor plus simple | 2026-11-23
+Kill Joy | vraie page plein cadre de l'édition du site (seule page actuelle = passage court) et photo de couverture sans autres livres | 2026-11-23
+Plus rien ne pourra me blesser | vraie page lisible (2 photos de couverture, aucune page) | 2026-11-23
+Fix Her Up | 2e vraie page lisible et sans juron (page-1 seule) | 2026-11-23
+La Boîte à merveilles | photo de couverture (édition Seuil du site) + vraie page | 2026-11-23
+Samarcande | photo de couverture (Livre de Poche du site) + vraie page | 2026-11-23
+قوانين التحرر من الصراع النفسي | photo de couverture + vraie page | 2026-11-23

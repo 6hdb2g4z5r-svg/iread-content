@@ -1,0 +1,1072 @@
+[
+ {
+  "id": "story-2026-12-06-1",
+  "kind": "story",
+  "publish_at": "2026-12-06T10:00:00+00:00",
+  "title": "La Peste",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/La Peste/lapeste-aesthetic-2.jpg",
+     "title": "La Peste",
+     "kicker": "Lecture du jour",
+     "cta": "Disponible sur iread.ma",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-06-jismuka-yatadhakkar-kull-shay",
+  "kind": "carousel",
+  "publish_at": "2026-12-06T12:00:00+00:00",
+  "title": "جسمك يتذكر كل شيء",
+  "caption": "🧠 جسمك يتذكر كل شيء – د. بيسيل فان دير كولك\n\nالدماغ والعقل والجسم في عملية الشفاء من الصدمة النفسية. ما نعيشه لا يبقى في الذاكرة فقط، بل يسكن الجسد أيضًا… وهذا الكتاب يشرح كيف نتعافى منه خطوة بخطوة.\n\nمن أهم الكتب في علم النفس في السنوات الأخيرة، بترجمة محمد الدخاخني 🤍 اسحب لتقرأ صفحتين منه 👈\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #جسمك_يتذكر_كل_شيء #علم_النفس #التعافي #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/جسمك يتذكر كل شيء/jismuka-yatadhakkar-kull-shay-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/جسمك يتذكر كل شيء/jismuka-yatadhakkar-kull-shay-page-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/جسمك يتذكر كل شيء/jismuka-yatadhakkar-kull-shay-page-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-06-2",
+  "kind": "story",
+  "publish_at": "2026-12-06T12:45:00+00:00",
+  "title": "Extrait · Miracle Morning",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/miracle-morning.jpg",
+     "page_path": "photos/Miracle Morning/miracle-morning-page-2.jpg",
+     "title": "Miracle Morning",
+     "author": "Hal Elrod",
+     "kicker": "Extrait",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-06-3",
+  "kind": "story",
+  "publish_at": "2026-12-06T15:45:00+00:00",
+  "title": "Coup de cœur · Ils se sont tant aimés",
+  "slides": [
+   {
+    "fn": "story_cover",
+    "args": {
+     "cover_path": "couvertures/ils-se-sont-tant-aimes.jpg",
+     "title": "Ils se sont tant aimés",
+     "author": "Tahar Ben Jelloun",
+     "tagline": "Une histoire d'amour et de séparation, par la plume de Tahar Ben Jelloun.",
+     "kicker": "Coup de cœur",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-06-maybe-someday",
+  "kind": "carousel",
+  "publish_at": "2026-12-06T16:30:00+00:00",
+  "title": "Maybe Someday",
+  "caption": "🎸 Maybe Someday – Colleen Hoover\n\nSydney's life falls apart in one night. Then she meets Ridge, the mysterious guitarist on the balcony across from hers, and music becomes the only way they can talk about everything they're not allowed to feel.\n\nA love story that hurts and heals at the same time 💔 Swipe to read the page 👉\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #MaybeSomeday #ColleenHoover #BookTok #RomanceBooks #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Maybe Someday/maybe-someday-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Maybe Someday/maybe-someday-page-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-06-4",
+  "kind": "story",
+  "publish_at": "2026-12-06T18:30:00+00:00",
+  "title": "Pack · Reprendre sa vie en main",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/la-theorie-let-them.jpg",
+      "couvertures/un-rien-peut-tout-changer.jpg",
+      "couvertures/miracle-morning.jpg"
+     ],
+     "title": "Reprendre sa vie en main",
+     "sub": "Let Them · Un rien peut tout changer · Miracle Morning",
+     "dark": true,
+     "kicker": "Nouveau pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-06-pack-prendre-soin-de-soi",
+  "kind": "post",
+  "publish_at": "2026-12-06T21:25:00+00:00",
+  "title": "Pack · Prendre soin de soi",
+  "caption": "🌿 باقة اعتنِ بنفسك\n\nتعافيت · الوحش الذي يسكنك يمكن أن يكون لطيفًا · كتاب الراحة · ملاحظات حول كوكب متوتر\n\nأربعة كتب لتهدئة القلق، والتصالح مع نفسك، والتعافي على مهل… مع كأس شاي في صباح هادئ 🍵\n\n📚 الكتب الأربعة معًا بثمن مخفض\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #تعافيت #مات_هيغ #الصحة_النفسية #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبها الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Prendre soin de soi/taafi-ar-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-06-5",
+  "kind": "story",
+  "publish_at": "2026-12-06T22:15:00+00:00",
+  "title": "Pack · المال",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/al-ab-al-ghani.jpg",
+      "couvertures/saykolojiyat-al-mal.jpg",
+      "couvertures/aghna-rajul-fi-babil.jpg"
+     ],
+     "title": "المال",
+     "sub": "الأب الغني والأب الفقير · سيكولوجية المال · أغنى رجل في بابل",
+     "dark": true,
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-07-1",
+  "kind": "story",
+  "publish_at": "2026-12-07T10:00:00+00:00",
+  "title": "جمرة",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/جمرة/jamra-aesthetic-1.jpg",
+     "title": "جمرة",
+     "kicker": "قراءة اليوم",
+     "cta": "متوفر على iread.ma",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-07-why-we-sleep",
+  "kind": "carousel",
+  "publish_at": "2026-12-07T12:00:00+00:00",
+  "title": "Why We Sleep",
+  "caption": "🌙 Why We Sleep – Matthew Walker\n\nSleep is not a luxury: it repairs your memory, calms your emotions, protects your immune system and even helps you heal from painful days.\n\nA neuroscientist explains why one good night can change everything. You'll never scroll in bed again 😴 Swipe to read two pages 👉\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #WhyWeSleep #MatthewWalker #Sleep #Neuroscience #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Why We Sleep/why-we-sleep-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Why We Sleep/why-we-sleep-page-2.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Why We Sleep/why-we-sleep-page-3.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-07-2",
+  "kind": "story",
+  "publish_at": "2026-12-07T12:45:00+00:00",
+  "title": "Extrait · Maybe Someday",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/maybe-someday.jpg",
+     "page_path": "photos/Maybe Someday/maybe-someday-page-3.jpg",
+     "title": "Maybe Someday",
+     "author": "Colleen Hoover",
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-07-3",
+  "kind": "story",
+  "publish_at": "2026-12-07T15:45:00+00:00",
+  "title": "الفيل الأزرق أم أنتيخريستوس ؟",
+  "slides": [
+   {
+    "fn": "story_ab",
+    "args": {
+     "cover_a": "couvertures/al-fil-al-azraq.jpg",
+     "cover_b": "couvertures/antikhristos.jpg",
+     "question": "الفيل الأزرق أم أنتيخريستوس؟",
+     "sub": "روايتان مرعبتان، بأيهما تبدأ؟",
+     "cta": "أجب في رسالة"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-07-part-of-your-world",
+  "kind": "carousel",
+  "publish_at": "2026-12-07T16:30:00+00:00",
+  "title": "Part of Your World",
+  "caption": "💛 Part of Your World – Abby Jimenez\n\nAlexis is a big-city doctor from a prestigious family. Daniel is a carpenter, ten years younger, from a tiny town in Minnesota. Two worlds that should never meet… and a love that doesn't care.\n\nFunny, tender and full of heart 🏡 Swipe to read the pages 👉\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #PartOfYourWorld #AbbyJimenez #RomCom #RomanceBooks #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Part of Your World/part-of-your-world-aesthetic-4.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Part of Your World/part-of-your-world-page-2.jpg",
+     "box": [
+      0,
+      0.405,
+      1,
+      0.74
+     ]
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Part of Your World/part-of-your-world-page-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-07-4",
+  "kind": "story",
+  "publish_at": "2026-12-07T18:30:00+00:00",
+  "title": "Pack · Mode Discipline ON",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/atomic-habits.jpg",
+      "couvertures/the-compound-effect.jpg",
+      "couvertures/can-t-hurt-me.jpg"
+     ],
+     "title": "Mode Discipline ON",
+     "sub": "Atomic Habits · The Compound Effect · Can't Hurt Me",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-07-5",
+  "kind": "story",
+  "publish_at": "2026-12-07T22:15:00+00:00",
+  "title": "Pack · أدهم شرقاوي",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/rasail-min-al-quran.jpg",
+      "couvertures/nabd.jpg",
+      "couvertures/ila-al-munkasira-qulubuhum.jpg"
+     ],
+     "title": "أدهم شرقاوي",
+     "sub": "رسائل من القرآن · نبض · إلى المنكسرة قلوبهم",
+     "dark": true,
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-08-1",
+  "kind": "story",
+  "publish_at": "2026-12-08T10:00:00+00:00",
+  "title": "الأيام التي ستأتي",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/الأيام التي ستأتي/al-ayyam-allati-sata-ti-aesthetic-3.jpg",
+     "title": "الأيام التي ستأتي",
+     "kicker": "قراءة اليوم",
+     "cta": "متوفر على iread.ma",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-08-fantastic-beasts",
+  "kind": "carousel",
+  "publish_at": "2026-12-08T12:00:00+00:00",
+  "title": "Fantastic Beasts and Where to Find Them",
+  "caption": "🪄 Fantastic Beasts and Where to Find Them – J.K. Rowling\n\nThe original screenplay: New York, 1926. Newt Scamander arrives with a suitcase full of magical creatures… and some of them escape.\n\nA beautiful edition for every Harry Potter fan, to read the film like a story ✨ Swipe to read the page 👉\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #FantasticBeasts #JKRowling #HarryPotter #WizardingWorld #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Fantastic Beasts and Where to Find Them/fantastic-beasts-aesthetic-4.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Fantastic Beasts and Where to Find Them/fantastic-beasts-page-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-08-2",
+  "kind": "story",
+  "publish_at": "2026-12-08T12:45:00+00:00",
+  "title": "مقتطف · جمرة",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/jamra.jpg",
+     "page_path": "photos/جمرة/jamra-page-2.jpg",
+     "title": "جمرة",
+     "author": "دعاء الجدعاني",
+     "kicker": "مقتطف",
+     "cta": "اطلبه عبر الرسائل",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-08-3",
+  "kind": "story",
+  "publish_at": "2026-12-08T15:45:00+00:00",
+  "title": "Coup de cœur · المزدوج",
+  "slides": [
+   {
+    "fn": "story_cover",
+    "args": {
+     "cover_path": "couvertures/al-muzdawaj.jpg",
+     "title": "المزدوج",
+     "author": "دوستويفسكي",
+     "tagline": "رواية دوستويفسكي عن رجل يلتقي نسخته الأخرى",
+     "kicker": "اختيارنا",
+     "cta": "اطلبه عبر الرسائل",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-08-4",
+  "kind": "story",
+  "publish_at": "2026-12-08T18:30:00+00:00",
+  "title": "Pack · Paix intérieure",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/transformez-votre-vie.jpg",
+      "couvertures/le-pouvoir-du-moment-present.jpg",
+      "couvertures/ikigai-marion-kondo.jpg"
+     ],
+     "title": "Paix intérieure",
+     "sub": "Transformez votre vie · Le Pouvoir du moment présent · Ikigai",
+     "dark": true,
+     "kicker": "Nouveau pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-08-pack-briar-u",
+  "kind": "post",
+  "publish_at": "2026-12-08T21:25:00+00:00",
+  "title": "Pack · Briar U",
+  "caption": "🏒 PACK · Briar U\n\nThe Chase · The Risk · The Play · The Dare\n\nHockey players, college drama, banter and swoon-worthy slow burns: Elle Kennedy's Briar U series, the spin-off of Off-Campus 💙\n\n📚 The 4 books together at a discounted pack price\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #BriarU #ElleKennedy #HockeyRomance #BookTok #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Briar U/briar-u-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-08-5",
+  "kind": "story",
+  "publish_at": "2026-12-08T22:15:00+00:00",
+  "title": "Pack · أحمد آل حمدان",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/ababil.jpg",
+      "couvertures/al-sijjil.jpg",
+      "couvertures/arsas-1.jpg"
+     ],
+     "title": "أحمد آل حمدان",
+     "sub": "أبابيل · السجيل · آرسس",
+     "dark": true,
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-09-1",
+  "kind": "story",
+  "publish_at": "2026-12-09T10:00:00+00:00",
+  "title": "Le Prince",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/Le Prince/leprince-aesthetic-1.jpg",
+     "title": "Le Prince",
+     "kicker": "Lecture du jour",
+     "cta": "Disponible sur iread.ma",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-09-blue-ocean-strategy",
+  "kind": "carousel",
+  "publish_at": "2026-12-09T12:00:00+00:00",
+  "title": "Blue Ocean Strategy",
+  "caption": "🌊 Blue Ocean Strategy – W. Chan Kim & Renée Mauborgne\n\nStop fighting your competitors in a bloody red ocean. Create a new market where the competition becomes irrelevant.\n\nThe expanded edition of the business classic, with real examples like Cirque du Soleil and NetJets 📈 Swipe to read two pages 👉\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #BlueOceanStrategy #Business #Strategy #Entrepreneurship #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Blue Ocean Strategy/blue-ocean-strategy-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Blue Ocean Strategy/blue-ocean-strategy-page-3.jpg",
+     "box": [
+      0,
+      0,
+      1,
+      0.535
+     ]
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Blue Ocean Strategy/blue-ocean-strategy-page-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-09-2",
+  "kind": "story",
+  "publish_at": "2026-12-09T12:45:00+00:00",
+  "title": "Extrait · Le Pouvoir du moment présent",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/le-pouvoir-du-moment-present.jpg",
+     "page_path": "photos/Le Pouvoir du moment présent/le-pouvoir-du-moment-present-page-1.jpg",
+     "title": "Le Pouvoir du moment présent",
+     "author": "Eckhart Tolle",
+     "kicker": "Extrait",
+     "cta": "Commande en DM",
+     "lang": "fr",
+     "box": [
+      0,
+      0.122,
+      1,
+      0.94
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-09-3",
+  "kind": "story",
+  "publish_at": "2026-12-09T15:45:00+00:00",
+  "title": "Hunger Games ou ACOTAR ?",
+  "slides": [
+   {
+    "fn": "story_ab",
+    "args": {
+     "cover_a": "couvertures/the-hunger-games.jpg",
+     "cover_b": "couvertures/a-court-of-thorns-and-roses.jpg",
+     "question": "Hunger Games or ACOTAR?",
+     "sub": "Two sagas, two worlds. Which one are you starting?",
+     "cta": "Answer by message"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-09-for-one-more-day",
+  "kind": "carousel",
+  "publish_at": "2026-12-09T16:30:00+00:00",
+  "title": "For One More Day",
+  "caption": "🏡 For One More Day – Mitch Albom\n\nWhat would you do if you could spend one more day with someone you lost? Charley, at the lowest point of his life, goes back to his childhood home… and finds his mother waiting for him.\n\nShort, moving and unforgettable, by the author of Tuesdays with Morrie 🤍 Swipe to read the page 👉\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #ForOneMoreDay #MitchAlbom #Family #MustRead #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/For One More Day/for-one-more-day-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/For One More Day/for-one-more-day-page-2.jpg",
+     "box": [
+      0,
+      0.265,
+      1,
+      0.6
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-09-4",
+  "kind": "story",
+  "publish_at": "2026-12-09T18:30:00+00:00",
+  "title": "Pack · Deep Focus",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/deep-work.jpg",
+      "couvertures/ego-is-the-enemy.jpg",
+      "couvertures/the-mountain-is-you.jpg"
+     ],
+     "title": "Deep Focus",
+     "sub": "Deep Work · Ego Is the Enemy · The Mountain Is You",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-09-5",
+  "kind": "story",
+  "publish_at": "2026-12-09T22:15:00+00:00",
+  "title": "Pack · عمرو عبد الحميد",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/ard-zikola.jpg",
+      "couvertures/amarita.jpg",
+      "couvertures/wadi-al-dhiab.jpg"
+     ],
+     "title": "عمرو عبد الحميد",
+     "sub": "أرض زيكولا · أماريتا · وادي الذئاب المنسية",
+     "dark": true,
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-10-1",
+  "kind": "story",
+  "publish_at": "2026-12-10T10:00:00+00:00",
+  "title": "Part of Your World",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/Part of Your World/part-of-your-world-aesthetic-1.jpg",
+     "title": "Part of Your World",
+     "kicker": "Today's read",
+     "cta": "Available on iread.ma",
+     "lang": "en"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-10-the-miracle-morning",
+  "kind": "carousel",
+  "publish_at": "2026-12-10T12:00:00+00:00",
+  "title": "The Miracle Morning",
+  "caption": "🌅 The Miracle Morning – Hal Elrod\n\nWhat if the first hour of your day could change everything else? Silence, affirmations, visualization, exercise, reading, scribing: the Life S.A.V.E.R.S.\n\nThe original English edition of the morning-routine bestseller ☕ Swipe to read the page 👉\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TheMiracleMorning #HalElrod #MorningRoutine #SelfGrowth #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/The Miracle Morning/the-miracle-morning-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/The Miracle Morning/the-miracle-morning-page-1-redresse.jpg",
+     "box": [
+      0.06,
+      0.2,
+      0.97,
+      0.772
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-10-2",
+  "kind": "story",
+  "publish_at": "2026-12-10T12:45:00+00:00",
+  "title": "Extrait · Why We Sleep",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/why-we-sleep.jpg",
+     "page_path": "photos/Why We Sleep/why-we-sleep-page-1.jpg",
+     "title": "Why We Sleep",
+     "author": "Matthew Walker",
+     "kicker": "Excerpt",
+     "cta": "Order via DM",
+     "lang": "en",
+     "box": [
+      0,
+      0.05,
+      1,
+      0.97
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-10-3",
+  "kind": "story",
+  "publish_at": "2026-12-10T15:45:00+00:00",
+  "title": "Coup de cœur · قوانين التحرر من الصراع النفسي",
+  "slides": [
+   {
+    "fn": "story_cover",
+    "args": {
+     "cover_path": "couvertures/qawanin-al-taharrur.jpg",
+     "title": "قوانين التحرر من الصراع النفسي",
+     "author": "د. يوسف الحسني",
+     "tagline": "لتفهم صراعاتك الداخلية وتتحرر منها",
+     "kicker": "اختيارنا",
+     "cta": "اطلبه عبر الرسائل",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-10-4",
+  "kind": "story",
+  "publish_at": "2026-12-10T18:30:00+00:00",
+  "title": "Pack · La Femme de ménage",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/la-femme-de-menage.jpg",
+      "couvertures/les-secrets-de-la-femme-de-menage.jpg",
+      "couvertures/la-femme-de-menage-voit-tout.jpg"
+     ],
+     "title": "La Femme de ménage",
+     "sub": "La trilogie de Freida McFadden, dans l'ordre",
+     "dark": true,
+     "kicker": "Nouveau pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-10-pack-if-love",
+  "kind": "post",
+  "publish_at": "2026-12-10T21:25:00+00:00",
+  "title": "Pack · If Love",
+  "caption": "🌹 PACK · If Love\n\nIf We Ever Meet Again · If the Sun Never Sets · If Love Had a Price · If We Were Perfect\n\nAna Huang's complete If Love series: second chances, forbidden feelings and love stories across Shanghai, New York and San Francisco 💌\n\n📚 The 4 books together at a discounted pack price\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #IfLoveSeries #AnaHuang #RomanceBooks #BookTok #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK If Love/if-love-kie-pack-2.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-10-5",
+  "kind": "story",
+  "publish_at": "2026-12-10T22:15:00+00:00",
+  "title": "Pack · النجاح",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/al-adat-al-sabaa-lil-nas.jpg",
+      "couvertures/kayfa-tuathir.jpg",
+      "couvertures/quwwat-aqlak-al-batin.jpg"
+     ],
+     "title": "النجاح",
+     "sub": "العادات السبع · كيف تكسب الأصدقاء · قوة عقلك الباطن",
+     "dark": true,
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-11-1",
+  "kind": "story",
+  "publish_at": "2026-12-11T10:00:00+00:00",
+  "title": "رسائل من القرآن",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/رسائل من القرآن/rasail-min-al-quran-aesthetic-1.jpg",
+     "title": "رسائل من القرآن",
+     "kicker": "قراءة اليوم",
+     "cta": "متوفر على iread.ma",
+     "lang": "ar"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-11-the-secret-fiancee",
+  "kind": "carousel",
+  "publish_at": "2026-12-11T12:00:00+00:00",
+  "title": "The Secret Fiancée",
+  "caption": "🌻 The Secret Fiancée – Catharina Maura\n\nRaven needs a fake fiancé. Xavier has been waiting for his chance for years. A secret engagement, a lot of teasing… and feelings that are not fake at all.\n\nA cozy, funny and swoony romance by the author of The Wife Contract 💍 Swipe to read the page 👉\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #TheSecretFiancee #CatharinaMaura #FakeDating #RomanceBooks #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/The Secret Fiancée/the-secret-fiancee-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/The Secret Fiancée/the-secret-fiancee-page-2.jpg",
+     "box": [
+      0,
+      0.19,
+      1,
+      0.745
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-11-2",
+  "kind": "story",
+  "publish_at": "2026-12-11T12:45:00+00:00",
+  "title": "مقتطف · الليالي البيضاء",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/al-layali-al-bayda.jpg",
+     "page_path": "photos/الليالي البيضاء/al-layali-al-bayda-page-2.jpg",
+     "title": "الليالي البيضاء",
+     "author": "دوستويفسكي",
+     "kicker": "مقتطف",
+     "cta": "اطلبه عبر الرسائل",
+     "lang": "ar",
+     "box": [
+      0,
+      0.53,
+      1,
+      1
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-11-3",
+  "kind": "story",
+  "publish_at": "2026-12-11T15:45:00+00:00",
+  "title": "Que serais-je sans toi ? ou La Fille de papier ?",
+  "slides": [
+   {
+    "fn": "story_ab",
+    "args": {
+     "cover_a": "couvertures/que-serais-je-sans-toi.jpg",
+     "cover_b": "couvertures/la-fille-de-papier.jpg",
+     "question": "Quel Musso ce week-end ?",
+     "sub": "Que serais-je sans toi ? ou La Fille de papier",
+     "cta": "Réponds en message"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-11-4",
+  "kind": "story",
+  "publish_at": "2026-12-11T18:30:00+00:00",
+  "title": "Pack · Self-Love",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/the-let-them-theory.jpg",
+      "couvertures/101-essays.jpg",
+      "couvertures/healing-is-the-new-high.jpg"
+     ],
+     "title": "Self-Love",
+     "sub": "The Let Them Theory · 101 Essays · Healing Is the New High",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-11-5",
+  "kind": "story",
+  "publish_at": "2026-12-11T22:15:00+00:00",
+  "title": "Pack · كلاسيكيات عالمية",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/mazraat-al-hayawan.jpg",
+      "couvertures/al-amir-machiavelli.jpg",
+      "couvertures/al-layali-al-bayda.jpg"
+     ],
+     "title": "كلاسيكيات عالمية",
+     "sub": "مزرعة الحيوان · الأمير · الليالي البيضاء",
+     "dark": true,
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-12-1",
+  "kind": "story",
+  "publish_at": "2026-12-12T10:00:00+00:00",
+  "title": "La Librairie de Téhéran",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/La Librairie de Téhéran/la-librairie-de-teheran-aesthetic-3.jpg",
+     "title": "La Librairie de Téhéran",
+     "kicker": "Lecture du jour",
+     "cta": "Disponible sur iread.ma",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-12-2",
+  "kind": "story",
+  "publish_at": "2026-12-12T12:45:00+00:00",
+  "title": "Extrait · Miracle Morning",
+  "slides": [
+   {
+    "fn": "story_extract",
+    "args": {
+     "cover_path": "couvertures/miracle-morning.jpg",
+     "page_path": "photos/Miracle Morning/miracle-morning-page-3.jpg",
+     "title": "Miracle Morning",
+     "author": "Hal Elrod",
+     "kicker": "Extrait",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-12-3",
+  "kind": "story",
+  "publish_at": "2026-12-12T15:45:00+00:00",
+  "title": "Coup de cœur · Samarcande",
+  "slides": [
+   {
+    "fn": "story_cover",
+    "args": {
+     "cover_path": "couvertures/samarcande.jpg",
+     "title": "Samarcande",
+     "author": "Amin Maalouf",
+     "tagline": "Omar Khayyam, un manuscrit perdu et mille ans d'histoire.",
+     "kicker": "Coup de cœur",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-12-4",
+  "kind": "story",
+  "publish_at": "2026-12-12T18:30:00+00:00",
+  "title": "Pack · Money Mindset",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/rich-dad-poor-dad.jpg",
+      "couvertures/the-soul-of-money.jpg",
+      "couvertures/the-art-of-spending-money.jpg"
+     ],
+     "title": "Money Mindset",
+     "sub": "Rich Dad Poor Dad · The Soul of Money · The Art of Spending Money",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-12-pack-throne-of-glass-5-8",
+  "kind": "post",
+  "publish_at": "2026-12-12T21:25:00+00:00",
+  "title": "Pack · Throne of Glass 5-8",
+  "caption": "🗡️ PACK · Throne of Glass, books 5 to 8\n\nQueen of Shadows · Empire of Storms · Tower of Dawn · Kingdom of Ash\n\nThe epic second half of Sarah J. Maas's saga: Aelin's return, war, dragons' riders, impossible choices and that ending 👑\n\n📚 The 4 books together at a discounted pack price\n\n🚚 Free delivery from 3 books · Cash on delivery\n\n#iRead #ireadma #ThroneOfGlass #SarahJMaas #Fantasy #Romantasy #BooksMorocco #Bookstagram\n\n👉 Order now via DM, WhatsApp or on www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/PACK Throne of Glass 5-8/throne-of-glass-5-8-kie-pack-1.jpg",
+     "cy": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-12-5",
+  "kind": "story",
+  "publish_at": "2026-12-12T22:15:00+00:00",
+  "title": "Pack · تشويق نفسي",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/al-khadima.jpg",
+      "couvertures/al-marida-al-samita.jpg",
+      "couvertures/mutalazimat-frigoli.jpg"
+     ],
+     "title": "تشويق نفسي",
+     "sub": "الخادمة · المريضة الصامتة · متلازمة فريجولي",
+     "dark": true,
+     "kicker": "باقة جديدة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ }
+]
