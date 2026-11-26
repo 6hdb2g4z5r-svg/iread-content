@@ -46,8 +46,14 @@ def traite(it):
 
 
 def main():
+    # ajout au planning (library/_schedule_add.json), pour les sessions qui ne peuvent pas pousser schedule.json
+    plan = 0
+    if os.path.exists("library/_schedule_add.json"):
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import schedule_add
+        plan = schedule_add.main()
     if not os.path.exists(LOT):
-        return 0
+        return plan
     items = json.load(open(LOT, encoding="utf8"))["items"]
     date = time.strftime("%Y-%m-%d %H:%M")
     lignes, echecs = [], 0
@@ -62,7 +68,7 @@ def main():
     print("\n".join(lignes))
     if not echecs:
         os.remove(LOT)
-    return 1 if echecs else 0
+    return 1 if (echecs or plan) else 0
 
 
 if __name__ == "__main__":
