@@ -141,3 +141,21 @@
 23/11 | story-2026-12-05-3 | duel L'Attentat / Les amants de Casablanca : couvertures petites, grand vide (règle stories 19/11) | signalé
 23/11 | reel #802350 (01/12) | King of Wrath déjà en reel le 17/11 ; autres livres visibles (Love Unwritten, Love Deception, Practice Makes Perfect) | signalé
 23/11 | reel #876331 (02/12) | Never Lie : 2e reel prévu après #615265 (30/11), déjà reel 11/11 et carrousel arabe 22/11 ; une dizaine d'autres McFadden visibles (The Witch, Ward D, The Coworker…) | signalé
+27/11 | post-2026-12-03-the-art-of-spending-money | déjà publié dans le fil le 23/10 (12:00 UTC), moins de 60 jours | retiré (doublon) ; 03/12 sans post du fil
+27/11 | post-2026-12-06-jismuka-yatadhakkar-kull-shay | جسمك يتذكر كل شيء en rupture (stock 0 dans Neon) | retiré ; remplacé par post-2026-12-06-fan-al-lamubalat-ar (photo F + 2 vraies pages, jamais publié), à valider
+27/11 | story-2026-12-08-4 | pack Paix intérieure : Transformez votre vie en rupture | retirée ; remplacée par story-2026-12-08-pk4 Nouveau départ, à valider
+27/11 | story-2026-12-09-4 | pack Deep Focus : The Mountain Is You en rupture | retirée ; remplacée par story-2026-12-09-pk4 People Skills, à valider
+27/11 | post-2026-12-09-blue-ocean-strategy | slide 1 : couverture coupée à gauche (seule photo de la bonne édition) | retiré, photo demandée (_demandes.txt) ; 09/12 un seul post
+27/11 | post-2026-12-09-for-one-more-day | slide 1 : couverture coupée à droite et en bas | refaite au même chemin avec for-one-more-day-aesthetic-1 (livre entier)
+27/11 | post-2026-12-08-fantastic-beasts | slide 1 : coin inférieur droit hors cadre | refaite au même chemin avec fantastic-beasts-aesthetic-2 (livre entier)
+27/11 | story-2026-12-04-3 | quasi identique à story-2026-11-16-3 (même carte Plus rien ne pourra me blesser) | refaite au même chemin en story_photo (aesthetic-2)
+27/11 | story-2026-12-06-2 / story-2026-12-09-2 | Miracle Morning deux fois le 06/12 (extrait + pack Reprendre sa vie en main) | heures échangées : Miracle Morning le 09/12 12:45, Le Pouvoir du moment présent le 06/12 12:45
+27/11 | post-2026-11-28-black-friday-ars, post-2026-11-30-black-friday-art, post-2026-12-06-pack-prendre-soin-de-soi | CTA arabe « اطلبها » | corrigé en « اطلبه »
+27/11 | 06 au 10/12 | 2 stories de packs par jour seulement | ajoutées à 19:30, à valider : Heal & Breathe 06/12, Penseurs éternels 07/12, تعافي النفس 08/12, Racines marocaines 09/12, Maple Hills 10/12 (couverture dont-fcking-panic ajoutée)
+27/11 | story-2026-12-07-3, story-2026-12-09-3 | duels : petites couvertures, grand vide en bas (règle stories 19/11) | signalé
+27/11 | reel #969139 (03/12) | أكتب حتى لا يأكلني الشيطان : carrousel du fil le 22/11 et reel le 19/11 | signalé
+27/11 | reel #1001800 (04/12) | vidéo de 6 livres (texte incrusté « عالج نفسك بنفسك »), السماح بالرحيل n'apparaît qu'au 5e plan ; 1re image = الوحش, sans cover_url | signalé
+27/11 | reel #1005941 (05/12) | vidéo = King of Wrath + King of Pride, légende = King of Pride + King of Greed ; pack Kings of Sin déjà posté le 03/11 et reel le 17/11 | signalé
+27/11 | reel #1022503 (06/12) | المتمرد X : vidéo = une page au stylo, aucune couverture (cover_url vide) | signalé
+27/11 | reel #1058789 (07/12, proposé) | 3e reel sur أحببت وغدًا (22/11, 27/11) | signalé
+27/11 | reel #1058790 (08/12, proposé) | Lights Out : vidéo de 6 livres dont Hunting Adeline (non vendu), Caught Up (Navessa Allen ≠ Liz Tomforde du site), Twisted (reel le 28/11), texte incrusté | signalé

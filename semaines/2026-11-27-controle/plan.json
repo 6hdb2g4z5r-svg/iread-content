@@ -1,0 +1,266 @@
+[
+ {
+  "id": "post-2026-12-06-fan-al-lamubalat-ar",
+  "kind": "carousel",
+  "publish_at": "2026-12-06T12:00:00+00:00",
+  "title": "فن اللامبالاة",
+  "caption": "🧡 فن اللامبالاة – مارك مانسون\n\nلعيش حياة تخالف المألوف. هذا الكتاب لا يطلب منك أن تكون إيجابيًا طوال الوقت، بل أن تختار بعناية ما يستحق اهتمامك… وأن تتوقف عن الاكتراث بكل ما عداه.\n\nبأسلوب صريح وساخر، يشرح مانسون كيف يصنع تقبّل الألم والفشل والحدود حياةً أهدأ وأكثر معنى. بترجمة الحارث النبهان 🤍 اسحب لتقرأ صفحتين منه 👈\n\n🚚 توصيل مجاني ابتداءً من 3 كتب · الدفع عند الاستلام\n\n#iRead #ireadma #فن_اللامبالاة #مارك_مانسون #تطوير_الذات #كتب_عربية #كتب_المغرب #Bookstagram\n\n👉 اطلبه الآن عبر الرسائل الخاصة أو واتساب أو من موقعنا www.iread.ma ✅",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/فن اللامبالاة/fan-al-lamubalat-ar-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/فن اللامبالاة/fan-al-lamubalat-ar-page-1.jpg"
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/فن اللامبالاة/fan-al-lamubalat-ar-page-2.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-08-fantastic-beasts",
+  "kind": "carousel",
+  "publish_at": "2026-12-08T12:00:00+00:00",
+  "title": "Fantastic Beasts and Where to Find Them",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/Fantastic Beasts and Where to Find Them/fantastic-beasts-aesthetic-2.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/Fantastic Beasts and Where to Find Them/fantastic-beasts-page-1.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "id": "post-2026-12-09-for-one-more-day",
+  "kind": "carousel",
+  "publish_at": "2026-12-09T16:30:00+00:00",
+  "title": "For One More Day",
+  "slides": [
+   {
+    "fn": "post_photo",
+    "args": {
+     "photo_path": "photos/For One More Day/for-one-more-day-aesthetic-1.jpg",
+     "cy": 0.5
+    }
+   },
+   {
+    "fn": "post_page",
+    "args": {
+     "page_path": "photos/For One More Day/for-one-more-day-page-2.jpg",
+     "box": [
+      0,
+      0.265,
+      1,
+      0.6
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-04-3",
+  "kind": "story",
+  "publish_at": "2026-12-04T15:45:00+00:00",
+  "title": "Coup de cœur · Plus rien ne pourra me blesser",
+  "slides": [
+   {
+    "fn": "story_photo",
+    "args": {
+     "photo_path": "photos/Plus rien ne pourra me blesser/plus-rien-ne-pourra-me-blesser-aesthetic-2.jpg",
+     "title": "Plus rien ne pourra me blesser",
+     "kicker": "Coup de cœur",
+     "cta": "Commande en DM",
+     "lang": "fr"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-06-pk3",
+  "kind": "story",
+  "publish_at": "2026-12-06T19:30:00+00:00",
+  "title": "Pack · Heal & Breathe",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/this-is-how-you-heal.jpg",
+      "couvertures/dont-fcking-panic.jpg",
+      "couvertures/healing-is-the-new-high.jpg"
+     ],
+     "title": "Heal & Breathe",
+     "sub": "This Is How You Heal · Don't F*cking Panic · Healing Is the New High",
+     "dark": false,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-07-pk3",
+  "kind": "story",
+  "publish_at": "2026-12-07T19:30:00+00:00",
+  "title": "Pack · Penseurs éternels",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/candide.jpg",
+      "couvertures/le-prince.jpg",
+      "couvertures/l-art-de-la-guerre.jpg"
+     ],
+     "title": "Penseurs éternels",
+     "sub": "Candide · Le Prince · L'Art de la guerre",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma",
+     "layout": "cascade"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-08-pk4",
+  "kind": "story",
+  "publish_at": "2026-12-08T18:30:00+00:00",
+  "title": "Pack · Nouveau départ",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/le-pouvoir-du-moment-present.jpg",
+      "couvertures/le-pouvoir-des-habitudes.jpg",
+      "couvertures/miracle-morning.jpg",
+      "couvertures/l-obstacle-est-le-chemin.jpg"
+     ],
+     "title": "Nouveau départ",
+     "sub": "Le Pouvoir du moment présent · Le Pouvoir des habitudes · Miracle Morning · L'Obstacle est le chemin",
+     "dark": true,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-08-pk3",
+  "kind": "story",
+  "publish_at": "2026-12-08T19:30:00+00:00",
+  "title": "Pack · تعافي النفس",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/abi-alladhi-akrah.jpg",
+      "couvertures/alaqat-khatira.jpg",
+      "couvertures/al-jallad-tahta-jildi.jpg"
+     ],
+     "title": "تعافي النفس",
+     "sub": "أبي الذي أكره · علاقات خطرة · الجلاد تحت جلدي",
+     "dark": false,
+     "kicker": "باقة",
+     "lang": "ar",
+     "cta": "اطلبها عبر الرسائل أو على iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-09-pk4",
+  "kind": "story",
+  "publish_at": "2026-12-09T18:30:00+00:00",
+  "title": "Pack · People Skills",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/talk-like-ted.jpg",
+      "couvertures/how-to-talk-to-anyone.jpg",
+      "couvertures/men-are-from-mars.jpg"
+     ],
+     "title": "People Skills",
+     "sub": "Talk Like TED · How to Talk to Anyone · Men Are from Mars, Women Are from Venus",
+     "dark": true,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-09-pk3",
+  "kind": "story",
+  "publish_at": "2026-12-09T19:30:00+00:00",
+  "title": "Pack · Racines marocaines",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/le-passe-simple.jpg",
+      "couvertures/la-nuit-sacree.jpg",
+      "couvertures/le-dernier-ami.jpg",
+      "couvertures/la-prisonniere-oufkir.jpg"
+     ],
+     "title": "Racines marocaines",
+     "sub": "Le Passé simple · La Nuit sacrée · Le Dernier Ami · La Prisonnière",
+     "dark": false,
+     "kicker": "Pack",
+     "lang": "fr",
+     "cta": "Commande en DM ou sur iread.ma"
+    }
+   }
+  ]
+ },
+ {
+  "id": "story-2026-12-10-pk3",
+  "kind": "story",
+  "publish_at": "2026-12-10T19:30:00+00:00",
+  "title": "Pack · Maple Hills",
+  "slides": [
+   {
+    "fn": "story_pack",
+    "args": {
+     "cover_paths": [
+      "couvertures/icebreaker-hannah-grace.jpg",
+      "couvertures/daydream-hannah-grace.jpg"
+     ],
+     "title": "Maple Hills",
+     "sub": "Icebreaker · Daydream",
+     "dark": false,
+     "kicker": "New pack",
+     "lang": "en",
+     "cta": "Order via DM or on iread.ma"
+    }
+   }
+  ]
+ }
+]

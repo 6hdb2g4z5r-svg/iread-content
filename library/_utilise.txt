@@ -346,3 +346,9 @@ photos/الليالي البيضاء/al-layali-al-bayda-page-2.jpg | 2026-12-11 
 photos/La Librairie de Téhéran/la-librairie-de-teheran-aesthetic-3.jpg | 2026-12-12 | story-2026-12-12-1
 photos/Miracle Morning/miracle-morning-page-3.jpg | 2026-12-12 | story-2026-12-12-2
 photos/PACK Throne of Glass 5-8/throne-of-glass-5-8-kie-pack-1.jpg | 2026-12-12 | post-2026-12-12-pack-throne-of-glass-5-8
+photos/فن اللامبالاة/fan-al-lamubalat-ar-aesthetic-1.jpg | 2026-12-06 | post-2026-12-06-fan-al-lamubalat-ar
+photos/فن اللامبالاة/fan-al-lamubalat-ar-page-1.jpg | 2026-12-06 | post-2026-12-06-fan-al-lamubalat-ar
+photos/فن اللامبالاة/fan-al-lamubalat-ar-page-2.jpg | 2026-12-06 | post-2026-12-06-fan-al-lamubalat-ar
+photos/Fantastic Beasts and Where to Find Them/fantastic-beasts-aesthetic-2.jpg | 2026-12-08 | post-2026-12-08-fantastic-beasts
+photos/For One More Day/for-one-more-day-aesthetic-1.jpg | 2026-12-09 | post-2026-12-09-for-one-more-day
+photos/Plus rien ne pourra me blesser/plus-rien-ne-pourra-me-blesser-aesthetic-2.jpg | 2026-12-04 | story-2026-12-04-3
