@@ -4730,6 +4730,24 @@
    ],
    "publish_at": "2026-12-17T13:15:00+00:00",
    "title": "Pack · Playing for Keeps"
+  },
+  {
+   "id": "story-2026-12-18-hf-hassan-aourid-ar",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-18-hf-hassan-aourid-ar.jpg"
+   ],
+   "publish_at": "2026-12-18T11:15:00+00:00",
+   "title": "Pack · حسن أوريد"
+  },
+  {
+   "id": "story-2026-12-18-hf-frissons-ar-2",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-18-hf-frissons-ar-2.jpg"
+   ],
+   "publish_at": "2026-12-18T13:15:00+00:00",
+   "title": "Pack · Frissons en arabe 2"
   }
  ]
 }
