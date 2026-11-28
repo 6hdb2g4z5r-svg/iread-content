@@ -4578,6 +4578,15 @@
    "title": "La Librairie de Téhéran"
   },
   {
+   "id": "story-2026-12-12-hf-career-boost",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-12-hf-career-boost.jpg"
+   ],
+   "publish_at": "2026-12-12T11:15:00+00:00",
+   "title": "Pack · Career Boost"
+  },
+  {
    "id": "story-2026-12-12-2",
    "kind": "story",
    "media": [
@@ -4594,6 +4603,15 @@
    ],
    "publish_at": "2026-12-12T15:45:00+00:00",
    "title": "Coup de cœur · Samarcande"
+  },
+  {
+   "id": "story-2026-12-12-hf-blue-lock-1-6",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-12-hf-blue-lock-1-6.jpg"
+   ],
+   "publish_at": "2026-12-12T17:15:00+00:00",
+   "title": "Pack · Blue Lock"
   },
   {
    "id": "story-2026-12-12-4",
@@ -4622,6 +4640,24 @@
    ],
    "publish_at": "2026-12-12T22:15:00+00:00",
    "title": "Pack · تشويق نفسي"
+  },
+  {
+   "id": "story-2026-12-13-hf-boys-of-tommen",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-13-hf-boys-of-tommen.jpg"
+   ],
+   "publish_at": "2026-12-13T11:15:00+00:00",
+   "title": "Pack · Boys of Tommen"
+  },
+  {
+   "id": "story-2026-12-13-hf-brutal-birthright",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-13-hf-brutal-birthright.jpg"
+   ],
+   "publish_at": "2026-12-13T13:15:00+00:00",
+   "title": "Pack · Brutal Birthright"
   }
  ]
 }
