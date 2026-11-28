@@ -4658,6 +4658,51 @@
    ],
    "publish_at": "2026-12-13T13:15:00+00:00",
    "title": "Pack · Brutal Birthright"
+  },
+  {
+   "id": "story-2026-12-14-hf-dostoievski-ar",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-14-hf-dostoievski-ar.jpg"
+   ],
+   "publish_at": "2026-12-14T11:15:00+00:00",
+   "title": "Pack · Dostoïevski (arabe)"
+  },
+  {
+   "id": "story-2026-12-14-hf-marc-levy",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-14-hf-marc-levy.jpg"
+   ],
+   "publish_at": "2026-12-14T13:15:00+00:00",
+   "title": "Pack · Marc Levy"
+  },
+  {
+   "id": "story-2026-12-15-hf-ahmed-khaled-mostafa-ar",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-15-hf-ahmed-khaled-mostafa-ar.jpg"
+   ],
+   "publish_at": "2026-12-15T11:15:00+00:00",
+   "title": "Pack · أحمد خالد مصطفى"
+  },
+  {
+   "id": "story-2026-12-15-hf-plot-twists",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-15-hf-plot-twists.jpg"
+   ],
+   "publish_at": "2026-12-15T13:15:00+00:00",
+   "title": "Pack · Plot Twists"
+  },
+  {
+   "id": "story-2026-12-16-hf-think-different",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-16-hf-think-different.jpg"
+   ],
+   "publish_at": "2026-12-16T11:15:00+00:00",
+   "title": "Pack · Think Different"
   }
  ]
 }
