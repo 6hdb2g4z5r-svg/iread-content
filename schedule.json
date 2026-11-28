@@ -4703,6 +4703,33 @@
    ],
    "publish_at": "2026-12-16T11:15:00+00:00",
    "title": "Pack · Think Different"
+  },
+  {
+   "id": "story-2026-12-16-hf-the-housemaid-en",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-16-hf-the-housemaid-en.jpg"
+   ],
+   "publish_at": "2026-12-16T13:15:00+00:00",
+   "title": "Pack · The Housemaid"
+  },
+  {
+   "id": "story-2026-12-17-hf-sira-ar",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-17-hf-sira-ar.jpg"
+   ],
+   "publish_at": "2026-12-17T11:15:00+00:00",
+   "title": "Pack · Sur les pas du Prophète"
+  },
+  {
+   "id": "story-2026-12-17-hf-playing-for-keeps",
+   "kind": "story",
+   "media": [
+    "stories/2026-12-17-hf-playing-for-keeps.jpg"
+   ],
+   "publish_at": "2026-12-17T13:15:00+00:00",
+   "title": "Pack · Playing for Keeps"
   }
  ]
 }
